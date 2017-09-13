@@ -1,0 +1,7517 @@
+m_framesPerSecond: 60
+CAPTURE (mem alloc) 4.629e-06
+CAPTURE (mem alloc) 1.3409e-05
+CAPTURE (mem alloc) 1.113e-05
+CAPTURE (mem alloc) 1.0796e-05
+CAPTURE (mem alloc) 1.0395e-05
+CAPTURE (mem alloc) 1.126e-05
+CAPTURE (mem alloc) 1.0107e-05
+CAPTURE (mem alloc) 4.797e-06
+CAPTURE (mem alloc) 4.829e-06
+CAPTURE (mem alloc) 4.548e-06
+CAPTURE (mem alloc) 5.818e-06
+CAPTURE (mem alloc) 6.02e-06
+CAPTURE (mem alloc) 4.592e-06
+CAPTURE (mem alloc) 5.315e-06
+CAPTURE (mem alloc) 4.989e-06
+CAPTURE (mem alloc) 5.654e-06
+CAPTURE (mem alloc) 4.3e-06
+CAPTURE (mem alloc) 4.915e-06
+CAPTURE (mem alloc) 4.728e-06
+CAPTURE (mem alloc) 5.182e-06
+-----frame below (0)-----
+mem_alloctime 0.000112784
+convert_totime 0.00264185
+CAPTURE (mem alloc) 0.00107645
+encodetime 0.0126684
+parsetime 7.922e-06
+decodetime 4e-08
+degrade_time 0.012686
+convert_fromtime 0.00128717
+memcpytime 0.0059458
+scheduletime 9.903e-05
+-----frame below (1)-----
+mem_alloctime 1.4157e-05
+convert_totime 0.00232134
+encodetime 0.00979085
+parsetime 5.3469e-05
+decodetime 0.0044859
+parsetime 4.021e-06
+decodetime 4.7e-08
+degrade_time 0.0143453
+convert_fromtime 0.000912044
+memcpytime 0.00330284
+scheduletime 9.312e-05
+CAPTURE (mem alloc) 6.931e-06
+-----frame below (2)-----
+mem_alloctime 1.45e-06
+convert_totime 0.00239039
+encodetime 0.00507915
+parsetime 5.4833e-05
+decodetime 0.00388351
+parsetime 9.626e-06
+decodetime 4.8e-08
+degrade_time 0.00903699
+convert_fromtime 0.00104207
+memcpytime 0.000896106
+scheduletime 0.000103412
+CAPTURE (mem alloc) 9.462e-06
+-----frame below (3)-----
+mem_alloctime 2.375e-06
+convert_totime 0.0022187
+encodetime 0.0049751
+parsetime 5.2715e-05
+decodetime 0.0034183
+parsetime 4.031e-06
+decodetime 3.8e-08
+degrade_time 0.00846035
+convert_fromtime 0.000939732
+memcpytime 0.000977475
+scheduletime 9.8416e-05
+CAPTURE (mem alloc) 8.188e-06
+-----frame below (4)-----
+mem_alloctime 3.912e-06
+convert_totime 0.00257924
+encodetime 0.00491431
+parsetime 5.1323e-05
+decodetime 0.00335039
+parsetime 6.419e-06
+decodetime 4e-08
+degrade_time 0.00833157
+convert_fromtime 0.000888869
+memcpytime 0.000835699
+scheduletime 0.000103633
+CAPTURE (mem alloc) 1.1935e-05
+-----frame below (5)-----
+mem_alloctime 1.462e-06
+convert_totime 0.00239349
+encodetime 0.00487147
+parsetime 4.7323e-05
+decodetime 0.00352763
+parsetime 4.479e-06
+decodetime 5.5e-08
+degrade_time 0.00846132
+convert_fromtime 0.000932211
+memcpytime 0.000874445
+scheduletime 0.000104644
+CAPTURE (mem alloc) 9.741e-06
+-----frame below (6)-----
+mem_alloctime 4.391e-06
+convert_totime 0.00240023
+encodetime 0.00491519
+parsetime 3.57e-05
+decodetime 0.0036104
+parsetime 4.695e-06
+decodetime 4.1e-08
+degrade_time 0.00857557
+convert_fromtime 0.000931706
+memcpytime 0.000851033
+scheduletime 0.000105692
+CAPTURE (mem alloc) 9.518e-06
+-----frame below (7)-----
+mem_alloctime 6.329e-06
+convert_totime 0.00256826
+encodetime 0.00509322
+parsetime 3.3031e-05
+decodetime 0.00347597
+parsetime 4.463e-06
+decodetime 4.1e-08
+degrade_time 0.00861675
+convert_fromtime 0.000898092
+memcpytime 0.000840171
+scheduletime 0.00010144
+CAPTURE (mem alloc) 9.626e-06
+-----frame below (8)-----
+mem_alloctime 2.9899e-05
+convert_totime 0.00251691
+encodetime 0.00495606
+parsetime 3.9191e-05
+decodetime 0.00352054
+parsetime 4.629e-06
+decodetime 5.9e-08
+degrade_time 0.00853061
+convert_fromtime 0.000928618
+memcpytime 0.000890048
+scheduletime 9.6209e-05
+CAPTURE (mem alloc) 9.432e-06
+-----frame below (9)-----
+mem_alloctime 3.388e-06
+convert_totime 0.00244314
+encodetime 0.0051851
+parsetime 4.7866e-05
+decodetime 0.00345912
+parsetime 4.305e-06
+decodetime 4.4e-08
+degrade_time 0.0087053
+convert_fromtime 0.000894926
+memcpytime 0.000902484
+scheduletime 0.000112409
+CAPTURE (mem alloc) 9.792e-06
+-----frame below (10)-----
+mem_alloctime 3.502e-06
+convert_totime 0.00232737
+encodetime 0.00510217
+parsetime 5.8467e-05
+decodetime 0.00357054
+parsetime 6.182e-06
+decodetime 4e-08
+degrade_time 0.00874781
+convert_fromtime 0.000965992
+memcpytime 0.000888106
+scheduletime 0.000112966
+CAPTURE (mem alloc) 9.169e-06
+-----frame below (11)-----
+mem_alloctime 3.365e-06
+convert_totime 0.00233148
+encodetime 0.00483696
+parsetime 4.9303e-05
+decodetime 0.00356985
+parsetime 4.481e-06
+decodetime 5.9e-08
+degrade_time 0.00848838
+convert_fromtime 0.000932885
+memcpytime 0.000879842
+scheduletime 0.000104698
+CAPTURE (mem alloc) 1.0983e-05
+-----frame below (12)-----
+mem_alloctime 4.624e-06
+convert_totime 0.00242016
+encodetime 0.00472766
+parsetime 4.1837e-05
+decodetime 0.00349102
+parsetime 5.058e-06
+decodetime 4.2e-08
+degrade_time 0.00827544
+convert_fromtime 0.000893159
+memcpytime 0.000840379
+scheduletime 9.9209e-05
+CAPTURE (mem alloc) 9.263e-06
+-----frame below (13)-----
+mem_alloctime 3.694e-06
+convert_totime 0.00233512
+encodetime 0.00577101
+parsetime 4.9672e-05
+decodetime 0.00343381
+parsetime 4.289e-06
+decodetime 4.7e-08
+degrade_time 0.00926916
+convert_fromtime 0.000897842
+memcpytime 0.000850998
+scheduletime 0.000100179
+CAPTURE (mem alloc) 1.2437e-05
+-----frame below (14)-----
+mem_alloctime 6.311e-06
+convert_totime 0.00228543
+encodetime 0.00493802
+parsetime 4.194e-05
+decodetime 0.00358027
+parsetime 4.542e-06
+decodetime 4e-08
+degrade_time 0.00857354
+convert_fromtime 0.000946783
+memcpytime 0.000922247
+scheduletime 9.5006e-05
+CAPTURE (mem alloc) 9.345e-06
+-----frame below (15)-----
+mem_alloctime 1.6953e-05
+convert_totime 0.00229702
+encodetime 0.00487907
+parsetime 6.7188e-05
+decodetime 0.00348259
+parsetime 4.475e-06
+decodetime 4.3e-08
+degrade_time 0.00845512
+convert_fromtime 0.000929299
+memcpytime 0.00084503
+scheduletime 0.000146016
+CAPTURE (mem alloc) 9.353e-06
+-----frame below (16)-----
+mem_alloctime 4.14e-06
+convert_totime 0.00256406
+encodetime 0.00490836
+parsetime 3.9832e-05
+decodetime 0.00356239
+parsetime 4.619e-06
+decodetime 4e-08
+degrade_time 0.0085238
+convert_fromtime 0.000995109
+CAPTURE (mem alloc) 7.619e-06
+memcpytime 0.00110119
+scheduletime 0.000111
+-----frame below (17)-----
+mem_alloctime 1.141e-06
+convert_totime 0.00262701
+encodetime 0.00493662
+parsetime 4.621e-05
+decodetime 0.00356529
+parsetime 4.676e-06
+decodetime 4.2e-08
+degrade_time 0.00856155
+convert_fromtime 0.000990154
+memcpytime 0.000936833
+scheduletime 0.000103385
+CAPTURE (mem alloc) 9.938e-06
+-----frame below (18)-----
+mem_alloctime 1.9023e-05
+convert_totime 0.00230983
+encodetime 0.00474038
+parsetime 3.986e-05
+decodetime 0.00346668
+parsetime 4.437e-06
+decodetime 4e-08
+degrade_time 0.00825987
+convert_fromtime 0.00101307
+memcpytime 0.000877796
+scheduletime 9.8115e-05
+CAPTURE (mem alloc) 9.627e-06
+-----frame below (19)-----
+mem_alloctime 3.43e-06
+convert_totime 0.00248634
+encodetime 0.00479778
+parsetime 4.8083e-05
+decodetime 0.00364796
+parsetime 4.81e-06
+decodetime 5.2e-08
+degrade_time 0.00850829
+convert_fromtime 0.000894588
+memcpytime 0.000979149
+scheduletime 0.000138378
+CAPTURE (mem alloc) 0.000107604
+-----frame below (20)-----
+mem_alloctime 1.837e-05
+convert_totime 0.00265059
+encodetime 0.00559875
+parsetime 3.7791e-05
+decodetime 0.00345382
+parsetime 4.288e-06
+decodetime 4.2e-08
+degrade_time 0.00910489
+convert_fromtime 0.000893388
+memcpytime 0.000918061
+scheduletime 0.000142863
+CAPTURE (mem alloc) 6.987e-06
+-----frame below (21)-----
+mem_alloctime 1.5915e-05
+convert_totime 0.00230196
+encodetime 0.00505099
+parsetime 4.7521e-05
+decodetime 0.00353169
+parsetime 4.421e-06
+decodetime 4.1e-08
+degrade_time 0.00864354
+convert_fromtime 0.000936691
+memcpytime 0.000872521
+scheduletime 0.000104114
+CAPTURE (mem alloc) 6.824e-06
+-----frame below (22)-----
+mem_alloctime 3.883e-06
+convert_totime 0.00228711
+encodetime 0.00485851
+parsetime 5.1077e-05
+decodetime 0.00354331
+parsetime 4.487e-06
+decodetime 4.9e-08
+degrade_time 0.00846763
+convert_fromtime 0.000960181
+memcpytime 0.000850944
+scheduletime 0.000179085
+CAPTURE (mem alloc) 3.51e-07
+-----frame below (23)-----
+mem_alloctime 1.32e-06
+convert_totime 0.00259656
+encodetime 0.00471195
+parsetime 4.5385e-05
+decodetime 0.00349833
+parsetime 4.444e-06
+decodetime 3.8e-08
+degrade_time 0.00826936
+convert_fromtime 0.000959079
+memcpytime 0.000867875
+scheduletime 9.4463e-05
+CAPTURE (mem alloc) 2.73e-07
+-----frame below (24)-----
+mem_alloctime 1.6709e-05
+convert_totime 0.00234582
+encodetime 0.0048383
+parsetime 3.896e-05
+decodetime 0.00348861
+parsetime 4.366e-06
+decodetime 3.9e-08
+degrade_time 0.00837988
+convert_fromtime 0.000922844
+memcpytime 0.000907479
+scheduletime 0.000103704
+CAPTURE (mem alloc) 4.08e-07
+-----frame below (25)-----
+mem_alloctime 1.8441e-05
+convert_totime 0.00243404
+encodetime 0.00484034
+parsetime 4.7755e-05
+decodetime 0.0033951
+parsetime 4.255e-06
+decodetime 4e-08
+degrade_time 0.00829737
+convert_fromtime 0.000903512
+memcpytime 0.000842697
+scheduletime 0.000104198
+CAPTURE (mem alloc) 2.59e-07
+-----frame below (26)-----
+mem_alloctime 3.739e-06
+convert_totime 0.00255869
+encodetime 0.00476288
+parsetime 4.4155e-05
+decodetime 0.00345812
+parsetime 4.695e-06
+decodetime 4.4e-08
+degrade_time 0.00827958
+convert_fromtime 0.000891264
+memcpytime 0.000845551
+scheduletime 9.8508e-05
+CAPTURE (mem alloc) 1.205e-05
+-----frame below (27)-----
+mem_alloctime 3.502e-06
+convert_totime 0.0022704
+encodetime 0.00502559
+parsetime 5.0391e-05
+decodetime 0.00340206
+parsetime 4.852e-06
+decodetime 4.1e-08
+degrade_time 0.00849227
+convert_fromtime 0.000994711
+memcpytime 0.000855804
+scheduletime 0.000103727
+CAPTURE (mem alloc) 3.61e-07
+-----frame below (28)-----
+mem_alloctime 4.336e-06
+convert_totime 0.002501
+encodetime 0.00453814
+parsetime 4.1286e-05
+decodetime 0.00343132
+parsetime 4.247e-06
+decodetime 4.4e-08
+degrade_time 0.00802473
+convert_fromtime 0.000892202
+memcpytime 0.000913648
+scheduletime 0.000106344
+CAPTURE (mem alloc) 3.63e-07
+-----frame below (29)-----
+mem_alloctime 3.236e-06
+convert_totime 0.00256902
+encodetime 0.00444543
+parsetime 7.9388e-05
+decodetime 0.00324937
+parsetime 4.133e-06
+decodetime 4.6e-08
+degrade_time 0.00778715
+convert_fromtime 0.000904075
+memcpytime 0.000832411
+scheduletime 0.000103955
+CAPTURE (mem alloc) 3.22e-07
+-----frame below (30)-----
+mem_alloctime 1.7021e-05
+convert_totime 0.00223477
+encodetime 0.00514784
+parsetime 3.6806e-05
+decodetime 0.00346851
+parsetime 3.727e-06
+decodetime 5.6e-08
+degrade_time 0.00866624
+convert_fromtime 0.000925376
+memcpytime 0.000873873
+scheduletime 0.000103384
+CAPTURE (mem alloc) 3.79e-07
+-----frame below (31)-----
+mem_alloctime 4.145e-06
+convert_totime 0.00256347
+encodetime 0.00519475
+parsetime 4.7512e-05
+decodetime 0.00338312
+parsetime 3.888e-06
+decodetime 3.8e-08
+degrade_time 0.00863866
+convert_fromtime 0.000935252
+memcpytime 0.00086454
+scheduletime 9.6668e-05
+CAPTURE (mem alloc) 3.63e-07
+-----frame below (32)-----
+mem_alloctime 3.899e-06
+convert_totime 0.00235478
+encodetime 0.00465047
+parsetime 4.9664e-05
+decodetime 0.00328074
+parsetime 4.693e-06
+decodetime 4e-08
+degrade_time 0.00800949
+convert_fromtime 0.000928534
+memcpytime 0.000926557
+scheduletime 0.000164714
+CAPTURE (mem alloc) 3.06e-07
+-----frame below (33)-----
+mem_alloctime 3.632e-06
+convert_totime 0.00260926
+encodetime 0.00448814
+parsetime 4.8911e-05
+decodetime 0.00330051
+parsetime 4.473e-06
+decodetime 4.1e-08
+degrade_time 0.00785201
+convert_fromtime 0.000896694
+memcpytime 0.000842662
+scheduletime 0.000103976
+CAPTURE (mem alloc) 6.48e-07
+-----frame below (34)-----
+mem_alloctime 3.529e-06
+convert_totime 0.00238138
+encodetime 0.00435264
+parsetime 3.7854e-05
+decodetime 0.00341192
+parsetime 4.532e-06
+decodetime 5.1e-08
+degrade_time 0.00781774
+convert_fromtime 0.000926603
+memcpytime 0.00088153
+scheduletime 0.000102034
+CAPTURE (mem alloc) 3.96e-07
+-----frame below (35)-----
+mem_alloctime 3.5e-06
+convert_totime 0.00261804
+encodetime 0.00440792
+parsetime 4.8363e-05
+decodetime 0.00347988
+parsetime 3.9e-06
+decodetime 4.6e-08
+degrade_time 0.0079498
+convert_fromtime 0.000960417
+memcpytime 0.000908321
+scheduletime 9.6024e-05
+CAPTURE (mem alloc) 2.63e-07
+-----frame below (36)-----
+mem_alloctime 1.7946e-05
+convert_totime 0.00231727
+encodetime 0.00440664
+parsetime 3.8602e-05
+decodetime 0.00331584
+parsetime 4.501e-06
+decodetime 4.9e-08
+degrade_time 0.00777506
+convert_fromtime 0.000927856
+memcpytime 0.0008516
+scheduletime 0.0001111
+CAPTURE (mem alloc) 3.2e-07
+-----frame below (37)-----
+mem_alloctime 2.55e-06
+convert_totime 0.00238697
+encodetime 0.00494602
+parsetime 4.5832e-05
+decodetime 0.00338724
+parsetime 4.285e-06
+decodetime 3.7e-08
+degrade_time 0.00839152
+convert_fromtime 0.000986175
+memcpytime 0.000840728
+scheduletime 0.000174035
+CAPTURE (mem alloc) 3.2e-07
+-----frame below (38)-----
+mem_alloctime 3.794e-06
+convert_totime 0.00259857
+encodetime 0.00469641
+parsetime 3.837e-05
+decodetime 0.00340903
+parsetime 4.207e-06
+decodetime 3.8e-08
+degrade_time 0.00815868
+convert_fromtime 0.00100986
+memcpytime 0.000880599
+scheduletime 9.6289e-05
+CAPTURE (mem alloc) 3.62e-07
+-----frame below (39)-----
+mem_alloctime 1.9854e-05
+convert_totime 0.00224816
+encodetime 0.00457951
+parsetime 5.2303e-05
+decodetime 0.00331783
+parsetime 4.135e-06
+decodetime 4.2e-08
+degrade_time 0.00796362
+convert_fromtime 0.000895881
+memcpytime 0.000846001
+scheduletime 0.000103703
+CAPTURE (mem alloc) 3.46e-07
+-----frame below (40)-----
+mem_alloctime 4.133e-06
+convert_totime 0.00242074
+encodetime 0.00476388
+parsetime 3.7692e-05
+decodetime 0.00328796
+parsetime 4.342e-06
+decodetime 3.9e-08
+degrade_time 0.00810359
+convert_fromtime 0.000892937
+memcpytime 0.000845286
+scheduletime 0.0001032
+CAPTURE (mem alloc) 4.24e-07
+-----frame below (41)-----
+mem_alloctime 1.941e-05
+convert_totime 0.00257598
+encodetime 0.00455801
+parsetime 4.7894e-05
+decodetime 0.00339337
+parsetime 4.014e-06
+decodetime 4.7e-08
+degrade_time 0.00801267
+convert_fromtime 0.000961513
+memcpytime 0.000869985
+scheduletime 9.7229e-05
+CAPTURE (mem alloc) 4.53e-07
+-----frame below (42)-----
+mem_alloctime 3.856e-06
+convert_totime 0.0025482
+encodetime 0.00465579
+parsetime 3.7334e-05
+decodetime 0.00332716
+parsetime 4.027e-06
+decodetime 3.8e-08
+degrade_time 0.00803356
+convert_fromtime 0.000974864
+memcpytime 0.00100843
+scheduletime 0.000107037
+CAPTURE (mem alloc) 7.49e-07
+-----frame below (43)-----
+mem_alloctime 1.752e-05
+convert_totime 0.0025399
+encodetime 0.00435281
+parsetime 4.9555e-05
+decodetime 0.00331257
+parsetime 3.994e-06
+decodetime 3.7e-08
+degrade_time 0.00772806
+convert_fromtime 0.000959098
+memcpytime 0.000885423
+scheduletime 0.000111645
+CAPTURE (mem alloc) 3.79e-07
+-----frame below (44)-----
+mem_alloctime 3.41e-06
+convert_totime 0.00255072
+encodetime 0.00447712
+parsetime 3.9605e-05
+decodetime 0.00323335
+parsetime 3.768e-06
+decodetime 4.3e-08
+degrade_time 0.00776356
+convert_fromtime 0.000919074
+memcpytime 0.000870299
+scheduletime 0.000103276
+CAPTURE (mem alloc) 7.41e-07
+-----frame below (45)-----
+mem_alloctime 3.495e-06
+convert_totime 0.00255423
+encodetime 0.00441355
+parsetime 4.8388e-05
+decodetime 0.00314976
+parsetime 4.173e-06
+decodetime 4.3e-08
+degrade_time 0.00762502
+convert_fromtime 0.000924222
+memcpytime 0.0010051
+scheduletime 0.000102573
+CAPTURE (mem alloc) 6.69e-07
+-----frame below (46)-----
+mem_alloctime 1.9449e-05
+convert_totime 0.00255527
+encodetime 0.00440943
+parsetime 3.7421e-05
+decodetime 0.00318379
+parsetime 3.862e-06
+decodetime 3.9e-08
+degrade_time 0.00765692
+convert_fromtime 0.000892346
+memcpytime 0.000848505
+scheduletime 0.000103337
+CAPTURE (mem alloc) 6.29e-07
+-----frame below (47)-----
+mem_alloctime 2.761e-06
+convert_totime 0.00255004
+encodetime 0.00451003
+parsetime 6.1339e-05
+decodetime 0.00328282
+parsetime 3.531e-06
+decodetime 4.2e-08
+degrade_time 0.00786848
+convert_fromtime 0.00093273
+memcpytime 0.000887217
+scheduletime 0.000103002
+CAPTURE (mem alloc) 5.304e-06
+-----frame below (48)-----
+mem_alloctime 3.854e-06
+convert_totime 0.00253431
+encodetime 0.00444279
+parsetime 3.6811e-05
+decodetime 0.00320623
+parsetime 4.035e-06
+decodetime 4.4e-08
+degrade_time 0.00769962
+convert_fromtime 0.000928697
+memcpytime 0.000916761
+scheduletime 0.000102593
+CAPTURE (mem alloc) 6.52e-07
+-----frame below (49)-----
+mem_alloctime 4.034e-06
+convert_totime 0.00226085
+encodetime 0.00416403
+parsetime 4.774e-05
+decodetime 0.00320019
+parsetime 4.269e-06
+decodetime 4.3e-08
+degrade_time 0.00742475
+convert_fromtime 0.000924907
+memcpytime 0.000850531
+scheduletime 0.000108793
+CAPTURE (mem alloc) 8.25e-07
+-----frame below (50)-----
+mem_alloctime 1.714e-05
+convert_totime 0.00230867
+encodetime 0.0047051
+parsetime 3.7684e-05
+decodetime 0.00340977
+parsetime 3.944e-06
+decodetime 4e-08
+degrade_time 0.00816597
+convert_fromtime 0.000891702
+memcpytime 0.000837395
+scheduletime 0.000101874
+CAPTURE (mem alloc) 9.03e-07
+-----frame below (51)-----
+mem_alloctime 3.212e-06
+convert_totime 0.00253076
+encodetime 0.00437579
+parsetime 6.0252e-05
+decodetime 0.00334036
+parsetime 4.329e-06
+decodetime 4e-08
+degrade_time 0.00779001
+convert_fromtime 0.000953795
+memcpytime 0.000988084
+scheduletime 0.000156452
+CAPTURE (mem alloc) 7.13e-07
+-----frame below (52)-----
+mem_alloctime 4.151e-06
+convert_totime 0.00260403
+encodetime 0.00426785
+parsetime 3.6824e-05
+decodetime 0.00332819
+parsetime 4.401e-06
+decodetime 3.8e-08
+degrade_time 0.00764723
+convert_fromtime 0.000892215
+memcpytime 0.000883527
+scheduletime 0.000102199
+CAPTURE (mem alloc) 1.115e-06
+-----frame below (53)-----
+mem_alloctime 4.177e-06
+convert_totime 0.00222806
+encodetime 0.00427533
+parsetime 4.8621e-05
+decodetime 0.0033943
+parsetime 4.55e-06
+decodetime 4.4e-08
+degrade_time 0.00773197
+convert_fromtime 0.000960498
+memcpytime 0.000871166
+scheduletime 0.000102279
+CAPTURE (mem alloc) 7.6e-07
+-----frame below (54)-----
+mem_alloctime 4.493e-06
+convert_totime 0.00230603
+encodetime 0.00418558
+parsetime 0.000111608
+decodetime 0.00342231
+parsetime 4.383e-06
+decodetime 4.1e-08
+degrade_time 0.00773368
+convert_fromtime 0.000994289
+memcpytime 0.000844721
+scheduletime 0.000179265
+CAPTURE (mem alloc) 5.32e-07
+-----frame below (55)-----
+mem_alloctime 2.466e-06
+convert_totime 0.00259243
+encodetime 0.00436915
+parsetime 4.7036e-05
+decodetime 0.00341157
+parsetime 4.054e-06
+decodetime 4.4e-08
+degrade_time 0.00784043
+convert_fromtime 0.000930152
+memcpytime 0.000828347
+scheduletime 0.000118084
+CAPTURE (mem alloc) 1.01e-06
+-----frame below (56)-----
+mem_alloctime 1.9524e-05
+convert_totime 0.00261782
+encodetime 0.00461258
+parsetime 3.9183e-05
+decodetime 0.00335092
+parsetime 4.118e-06
+decodetime 4.1e-08
+degrade_time 0.00801692
+convert_fromtime 0.00092191
+memcpytime 0.000866223
+scheduletime 9.6266e-05
+CAPTURE (mem alloc) 7.97e-07
+-----frame below (57)-----
+mem_alloctime 3.826e-06
+convert_totime 0.00238485
+encodetime 0.00441299
+parsetime 4.7606e-05
+decodetime 0.0032871
+parsetime 4.061e-06
+decodetime 4.1e-08
+degrade_time 0.00776154
+convert_fromtime 0.000896108
+memcpytime 0.00083348
+scheduletime 0.000121113
+CAPTURE (mem alloc) 7.53e-07
+-----frame below (58)-----
+mem_alloctime 5.584e-06
+convert_totime 0.00253605
+encodetime 0.00417737
+parsetime 4.1405e-05
+decodetime 0.00333477
+parsetime 4.623e-06
+decodetime 4.3e-08
+degrade_time 0.00756796
+convert_fromtime 0.000955837
+memcpytime 0.000884544
+scheduletime 0.000112646
+CAPTURE (mem alloc) 7.68e-07
+-----frame below (59)-----
+mem_alloctime 3.689e-06
+convert_totime 0.00260166
+encodetime 0.00435036
+parsetime 5.9229e-05
+decodetime 0.00324825
+parsetime 4.776e-06
+decodetime 4.2e-08
+degrade_time 0.00767201
+convert_fromtime 0.00100682
+memcpytime 0.000871422
+scheduletime 0.000103992
+CAPTURE (mem alloc) 7.34e-07
+-----frame below (60)-----
+mem_alloctime 4.34e-06
+convert_totime 0.00258763
+encodetime 0.00440301
+parsetime 4.4451e-05
+decodetime 0.00338724
+parsetime 3.926e-06
+decodetime 3.9e-08
+degrade_time 0.00784869
+convert_fromtime 0.000927614
+memcpytime 0.000921513
+scheduletime 0.000103599
+CAPTURE (mem alloc) 5.89e-07
+-----frame below (61)-----
+mem_alloctime 4.211e-06
+convert_totime 0.00258665
+encodetime 0.00424355
+parsetime 4.8165e-05
+decodetime 0.0032575
+parsetime 4.545e-06
+decodetime 4.2e-08
+degrade_time 0.00756298
+convert_fromtime 0.000896511
+memcpytime 0.000839939
+scheduletime 0.000104039
+CAPTURE (mem alloc) 4.16e-07
+-----frame below (62)-----
+mem_alloctime 3.408e-06
+convert_totime 0.00258781
+encodetime 0.00451721
+parsetime 5.2526e-05
+decodetime 0.00327112
+parsetime 4.48e-06
+decodetime 4.2e-08
+degrade_time 0.00785436
+convert_fromtime 0.000892663
+memcpytime 0.000869333
+scheduletime 9.6e-05
+CAPTURE (mem alloc) 8.14e-07
+-----frame below (63)-----
+mem_alloctime 4.034e-06
+convert_totime 0.00224455
+encodetime 0.0048581
+parsetime 4.7821e-05
+decodetime 0.0033693
+parsetime 4.118e-06
+decodetime 5.4e-08
+degrade_time 0.00828834
+convert_fromtime 0.000922028
+memcpytime 0.000876026
+scheduletime 0.000140065
+CAPTURE (mem alloc) 4.28e-07
+-----frame below (64)-----
+mem_alloctime 1.905e-06
+convert_totime 0.00253019
+encodetime 0.00462877
+parsetime 3.4769e-05
+decodetime 0.00327134
+parsetime 4.194e-06
+decodetime 4.3e-08
+degrade_time 0.00796086
+convert_fromtime 0.000928235
+memcpytime 0.000845931
+scheduletime 0.000117549
+CAPTURE (mem alloc) 3.75e-07
+-----frame below (65)-----
+mem_alloctime 1.266e-06
+convert_totime 0.00262332
+encodetime 0.0057955
+parsetime 4.5377e-05
+decodetime 0.00345966
+parsetime 3.897e-06
+decodetime 4.2e-08
+degrade_time 0.00931271
+convert_fromtime 0.000897905
+memcpytime 0.000827598
+scheduletime 9.5103e-05
+CAPTURE (mem alloc) 3.74e-07
+-----frame below (66)-----
+mem_alloctime 3.412e-06
+convert_totime 0.00233132
+encodetime 0.00587714
+parsetime 3.4639e-05
+decodetime 0.00331812
+parsetime 4.22e-06
+decodetime 4e-08
+degrade_time 0.00924245
+convert_fromtime 0.000933027
+memcpytime 0.000835484
+scheduletime 0.000105069
+CAPTURE (mem alloc) 9.32e-07
+-----frame below (67)-----
+mem_alloctime 5.499e-06
+convert_totime 0.00254704
+encodetime 0.00460905
+parsetime 4.8824e-05
+decodetime 0.00328261
+parsetime 3.95e-06
+decodetime 4.2e-08
+degrade_time 0.00795394
+convert_fromtime 0.000968672
+memcpytime 0.000951138
+scheduletime 0.000105927
+CAPTURE (mem alloc) 3.93e-07
+-----frame below (68)-----
+mem_alloctime 1.7723e-05
+convert_totime 0.00253251
+encodetime 0.00523802
+parsetime 3.6061e-05
+decodetime 0.00340654
+parsetime 4.495e-06
+decodetime 4e-08
+degrade_time 0.00869443
+convert_fromtime 0.000894123
+memcpytime 0.000857631
+scheduletime 0.000101854
+CAPTURE (mem alloc) 5.241e-06
+-----frame below (69)-----
+mem_alloctime 3.395e-06
+convert_totime 0.00237795
+encodetime 0.00490092
+parsetime 4.674e-05
+decodetime 0.00343128
+parsetime 4.441e-06
+decodetime 4.7e-08
+degrade_time 0.00839382
+convert_fromtime 0.000930332
+memcpytime 0.000873905
+scheduletime 0.000104709
+CAPTURE (mem alloc) 7.77e-07
+-----frame below (70)-----
+mem_alloctime 3.44e-06
+convert_totime 0.00249641
+encodetime 0.00491416
+parsetime 3.7085e-05
+decodetime 0.00339352
+parsetime 4.1e-06
+decodetime 3.9e-08
+degrade_time 0.00835831
+convert_fromtime 0.000927335
+memcpytime 0.000877695
+scheduletime 0.000102853
+CAPTURE (mem alloc) 7.1e-07
+-----frame below (71)-----
+mem_alloctime 3.53e-06
+convert_totime 0.00233864
+encodetime 0.00477372
+parsetime 4.7341e-05
+decodetime 0.00330115
+parsetime 3.892e-06
+decodetime 3.8e-08
+degrade_time 0.00813574
+convert_fromtime 0.00092836
+memcpytime 0.000847066
+scheduletime 0.000100693
+CAPTURE (mem alloc) 8.38e-07
+-----frame below (72)-----
+mem_alloctime 1.6961e-05
+convert_totime 0.00232824
+encodetime 0.00490005
+parsetime 3.5728e-05
+decodetime 0.00342609
+parsetime 4.201e-06
+decodetime 4e-08
+degrade_time 0.00837606
+convert_fromtime 0.000924355
+memcpytime 0.000889617
+scheduletime 0.000103867
+CAPTURE (mem alloc) 1.089e-06
+-----frame below (73)-----
+mem_alloctime 5.123e-06
+convert_totime 0.00225572
+encodetime 0.00475581
+parsetime 6.0221e-05
+decodetime 0.00330189
+parsetime 4.261e-06
+decodetime 4.2e-08
+degrade_time 0.00813173
+convert_fromtime 0.000924903
+memcpytime 0.000840351
+scheduletime 0.000109381
+CAPTURE (mem alloc) 1.153e-06
+-----frame below (74)-----
+mem_alloctime 1.8933e-05
+convert_totime 0.00257864
+encodetime 0.00462129
+parsetime 3.5831e-05
+decodetime 0.00332039
+parsetime 4.519e-06
+decodetime 4.3e-08
+degrade_time 0.0079923
+convert_fromtime 0.000990667
+memcpytime 0.000883663
+scheduletime 9.5585e-05
+CAPTURE (mem alloc) 6.24e-07
+-----frame below (75)-----
+mem_alloctime 3.767e-06
+convert_totime 0.00251987
+encodetime 0.00470103
+parsetime 4.6538e-05
+decodetime 0.00352776
+parsetime 1.6646e-05
+decodetime 4.5e-08
+degrade_time 0.00830097
+convert_fromtime 0.000925863
+memcpytime 0.000983424
+scheduletime 0.000139878
+CAPTURE (mem alloc) 9.78e-07
+-----frame below (76)-----
+mem_alloctime 1.8819e-05
+convert_totime 0.00256588
+encodetime 0.00454716
+parsetime 3.563e-05
+decodetime 0.00335617
+parsetime 3.906e-06
+decodetime 3.9e-08
+degrade_time 0.00795297
+convert_fromtime 0.000926575
+memcpytime 0.000871839
+scheduletime 0.000102029
+CAPTURE (mem alloc) 8.01e-07
+-----frame below (77)-----
+mem_alloctime 2.5174e-05
+convert_totime 0.00263768
+encodetime 0.00524873
+parsetime 4.8153e-05
+decodetime 0.00322597
+parsetime 3.704e-06
+decodetime 4.3e-08
+degrade_time 0.00855381
+convert_fromtime 0.000897446
+memcpytime 0.000840826
+scheduletime 0.000102643
+CAPTURE (mem alloc) 4.24e-07
+-----frame below (78)-----
+mem_alloctime 1.6403e-05
+convert_totime 0.00228625
+encodetime 0.00475027
+parsetime 3.3586e-05
+decodetime 0.00319702
+parsetime 4.418e-06
+decodetime 3.9e-08
+degrade_time 0.00799478
+convert_fromtime 0.000933761
+memcpytime 0.000858267
+scheduletime 9.5528e-05
+CAPTURE (mem alloc) 5.04e-07
+-----frame below (79)-----
+mem_alloctime 2.358e-06
+convert_totime 0.00255421
+encodetime 0.00505672
+parsetime 5.7557e-05
+decodetime 0.00324221
+parsetime 3.481e-06
+decodetime 3.9e-08
+degrade_time 0.00836855
+convert_fromtime 0.000898122
+memcpytime 0.000861928
+scheduletime 0.000102333
+CAPTURE (mem alloc) 4.36e-07
+-----frame below (80)-----
+mem_alloctime 3.991e-06
+convert_totime 0.00237331
+encodetime 0.00489921
+parsetime 3.6434e-05
+decodetime 0.00327624
+parsetime 4.083e-06
+decodetime 4e-08
+degrade_time 0.00823831
+convert_fromtime 0.00089915
+memcpytime 0.000836278
+scheduletime 0.000102402
+CAPTURE (mem alloc) 7.44e-07
+-----frame below (81)-----
+mem_alloctime 1.6631e-05
+convert_totime 0.0023633
+encodetime 0.00528557
+parsetime 0.000102479
+decodetime 0.00341915
+parsetime 4.414e-06
+decodetime 4.5e-08
+degrade_time 0.00882094
+convert_fromtime 0.0009603
+memcpytime 0.000845463
+scheduletime 9.7925e-05
+CAPTURE (mem alloc) 6.57e-07
+-----frame below (82)-----
+mem_alloctime 1.7702e-05
+convert_totime 0.00229044
+encodetime 0.00515763
+parsetime 4.0563e-05
+decodetime 0.0034897
+parsetime 4.327e-06
+decodetime 4.9e-08
+degrade_time 0.00870275
+convert_fromtime 0.00102249
+memcpytime 0.000912532
+scheduletime 0.000102856
+CAPTURE (mem alloc) 8.51e-07
+-----frame below (83)-----
+mem_alloctime 2.0616e-05
+convert_totime 0.00253699
+encodetime 0.00484612
+parsetime 4.7804e-05
+decodetime 0.00351591
+parsetime 4.204e-06
+decodetime 4e-08
+degrade_time 0.00842285
+convert_fromtime 0.000962277
+memcpytime 0.000925006
+scheduletime 0.00022205
+CAPTURE (mem alloc) 8.8e-07
+-----frame below (84)-----
+mem_alloctime 4.362e-06
+convert_totime 0.00271239
+encodetime 0.00488623
+parsetime 3.7381e-05
+decodetime 0.00332901
+parsetime 4.199e-06
+decodetime 4.1e-08
+degrade_time 0.00826651
+convert_fromtime 0.000957972
+memcpytime 0.000875467
+scheduletime 0.000110944
+CAPTURE (mem alloc) 7.81e-07
+-----frame below (85)-----
+mem_alloctime 4.287e-06
+convert_totime 0.00257238
+encodetime 0.00468601
+parsetime 4.9355e-05
+decodetime 0.00330915
+parsetime 3.529e-06
+decodetime 4.5e-08
+degrade_time 0.00805764
+convert_fromtime 0.000895068
+memcpytime 0.000835671
+scheduletime 0.000103588
+CAPTURE (mem alloc) 5.95e-07
+-----frame below (86)-----
+mem_alloctime 1.7962e-05
+convert_totime 0.00255756
+encodetime 0.00488188
+parsetime 3.7736e-05
+decodetime 0.00333382
+parsetime 3.975e-06
+decodetime 5.1e-08
+degrade_time 0.00826727
+convert_fromtime 0.000989024
+memcpytime 0.000842878
+scheduletime 0.000101082
+CAPTURE (mem alloc) 7.3e-07
+-----frame below (87)-----
+mem_alloctime 3.811e-06
+convert_totime 0.0025015
+encodetime 0.00454849
+parsetime 4.7026e-05
+decodetime 0.00329739
+parsetime 3.497e-06
+decodetime 4.5e-08
+degrade_time 0.00792303
+convert_fromtime 0.000920011
+memcpytime 0.000955746
+scheduletime 9.6515e-05
+CAPTURE (mem alloc) 7.24e-07
+-----frame below (88)-----
+mem_alloctime 2.1458e-05
+convert_totime 0.00261512
+encodetime 0.00434013
+parsetime 4.1776e-05
+decodetime 0.00321822
+parsetime 3.676e-06
+decodetime 5.1e-08
+degrade_time 0.00762674
+convert_fromtime 0.000966401
+memcpytime 0.00084755
+scheduletime 0.000113712
+CAPTURE (mem alloc) 6.18e-07
+-----frame below (89)-----
+mem_alloctime 1.6664e-05
+convert_totime 0.00239938
+encodetime 0.00440133
+parsetime 2.2698e-05
+decodetime 0.00320127
+parsetime 3.925e-06
+decodetime 4e-08
+degrade_time 0.00763854
+convert_fromtime 0.000965282
+memcpytime 0.00084132
+scheduletime 0.000151311
+CAPTURE (mem alloc) 3.176e-06
+-----frame below (90)-----
+mem_alloctime 1.6224e-05
+convert_totime 0.00255765
+encodetime 0.00464202
+parsetime 3.383e-05
+decodetime 0.00318465
+parsetime 3.569e-06
+decodetime 4e-08
+degrade_time 0.00787369
+convert_fromtime 0.000924764
+memcpytime 0.00103246
+scheduletime 0.000107795
+CAPTURE (mem alloc) 3.83e-07
+-----frame below (91)-----
+mem_alloctime 2.747e-06
+convert_totime 0.00255723
+encodetime 0.00592097
+parsetime 4.6888e-05
+decodetime 0.00313173
+parsetime 3.492e-06
+decodetime 4e-08
+degrade_time 0.0091122
+convert_fromtime 0.000896912
+memcpytime 0.000882428
+scheduletime 0.000101601
+CAPTURE (mem alloc) 8.15e-07
+-----frame below (92)-----
+mem_alloctime 4.278e-06
+convert_totime 0.00233553
+encodetime 0.0046824
+parsetime 3.8129e-05
+decodetime 0.00313478
+parsetime 3.634e-06
+decodetime 3.8e-08
+degrade_time 0.00786942
+convert_fromtime 0.00092027
+memcpytime 0.000870594
+scheduletime 0.000102444
+CAPTURE (mem alloc) 8.51e-07
+-----frame below (93)-----
+mem_alloctime 3.803e-06
+convert_totime 0.00238256
+encodetime 0.00549323
+parsetime 2.1403e-05
+decodetime 0.00319498
+parsetime 3.386e-06
+decodetime 4.3e-08
+degrade_time 0.00872264
+convert_fromtime 0.000895178
+memcpytime 0.00086863
+scheduletime 9.9031e-05
+CAPTURE (mem alloc) 8.78e-07
+-----frame below (94)-----
+mem_alloctime 1.7348e-05
+convert_totime 0.00252539
+encodetime 0.00534118
+parsetime 3.2023e-05
+decodetime 0.0031461
+parsetime 3.682e-06
+decodetime 3.9e-08
+degrade_time 0.0085323
+convert_fromtime 0.000928224
+memcpytime 0.000836972
+scheduletime 9.7682e-05
+CAPTURE (mem alloc) 8.65e-07
+-----frame below (95)-----
+mem_alloctime 3.463e-06
+convert_totime 0.0025224
+encodetime 0.00513428
+parsetime 4.817e-05
+decodetime 0.00331534
+parsetime 3.964e-06
+decodetime 4.1e-08
+degrade_time 0.00851132
+convert_fromtime 0.000930891
+memcpytime 0.000949856
+scheduletime 9.5949e-05
+CAPTURE (mem alloc) 7.73e-07
+-----frame below (96)-----
+mem_alloctime 1.7216e-05
+convert_totime 0.00234348
+encodetime 0.00474065
+parsetime 3.3187e-05
+decodetime 0.00340624
+parsetime 4.356e-06
+decodetime 4e-08
+degrade_time 0.00819406
+convert_fromtime 0.000964944
+memcpytime 0.000842769
+scheduletime 0.000148659
+CAPTURE (mem alloc) 3.65e-07
+-----frame below (97)-----
+mem_alloctime 2.735e-06
+convert_totime 0.0026132
+encodetime 0.00504821
+parsetime 3.1699e-05
+decodetime 0.00349369
+parsetime 4.249e-06
+decodetime 4e-08
+degrade_time 0.00858648
+convert_fromtime 0.000948259
+memcpytime 0.000886483
+scheduletime 0.000102688
+CAPTURE (mem alloc) 8.62e-07
+-----frame below (98)-----
+mem_alloctime 3.841e-06
+convert_totime 0.00253361
+encodetime 0.00517779
+parsetime 3.6413e-05
+decodetime 0.00354535
+parsetime 4.764e-06
+decodetime 3.9e-08
+degrade_time 0.00877419
+convert_fromtime 0.000893197
+memcpytime 0.000837232
+scheduletime 0.000101787
+CAPTURE (mem alloc) 8.84e-07
+-----frame below (99)-----
+mem_alloctime 3.546e-06
+convert_totime 0.00255437
+encodetime 0.00528476
+parsetime 5.9778e-05
+decodetime 0.0034572
+parsetime 7.749e-06
+decodetime 4e-08
+degrade_time 0.00883335
+convert_fromtime 0.00098175
+memcpytime 0.000880463
+scheduletime 0.000108914
+CAPTURE (mem alloc) 4.37e-07
+-----frame below (100)-----
+mem_alloctime 1.547e-06
+convert_totime 0.00254155
+encodetime 0.00554477
+parsetime 6.4426e-05
+decodetime 0.0035463
+parsetime 4.37e-06
+decodetime 5.2e-08
+degrade_time 0.00916821
+convert_fromtime 0.000951242
+memcpytime 0.000825725
+scheduletime 9.4836e-05
+CAPTURE (mem alloc) 9.77e-07
+-----frame below (101)-----
+mem_alloctime 3.327e-06
+convert_totime 0.00257053
+encodetime 0.00520509
+parsetime 3.2223e-05
+decodetime 0.00361452
+parsetime 4.879e-06
+decodetime 3.8e-08
+degrade_time 0.00886668
+convert_fromtime 0.000898187
+memcpytime 0.000865256
+scheduletime 9.7406e-05
+CAPTURE (mem alloc) 9.91e-07
+-----frame below (102)-----
+mem_alloctime 4.374e-06
+convert_totime 0.00231787
+encodetime 0.00495658
+parsetime 3.0656e-05
+decodetime 0.00369604
+parsetime 4.231e-06
+decodetime 4.2e-08
+degrade_time 0.00869798
+convert_fromtime 0.000926774
+memcpytime 0.000973395
+scheduletime 0.000133755
+CAPTURE (mem alloc) 6.26e-07
+-----frame below (103)-----
+mem_alloctime 3.844e-06
+convert_totime 0.00255114
+encodetime 0.00532673
+parsetime 3.0059e-05
+decodetime 0.00351083
+parsetime 4.677e-06
+decodetime 3.9e-08
+degrade_time 0.00888246
+convert_fromtime 0.000896719
+memcpytime 0.000894789
+scheduletime 0.00010699
+CAPTURE (mem alloc) 1.141e-06
+-----frame below (104)-----
+mem_alloctime 4.283e-06
+convert_totime 0.00233299
+encodetime 0.00521672
+parsetime 2.9504e-05
+decodetime 0.00357384
+parsetime 6.41e-06
+decodetime 3.9e-08
+degrade_time 0.00883728
+convert_fromtime 0.000892651
+memcpytime 0.000840384
+scheduletime 0.000108519
+CAPTURE (mem alloc) 7.07e-07
+-----frame below (105)-----
+mem_alloctime 3.396e-06
+convert_totime 0.00226221
+encodetime 0.00515432
+parsetime 3.1852e-05
+decodetime 0.00367937
+parsetime 4.794e-06
+decodetime 4e-08
+degrade_time 0.00887978
+convert_fromtime 0.000900596
+memcpytime 0.000833808
+scheduletime 0.00010475
+CAPTURE (mem alloc) 7.88e-07
+-----frame below (106)-----
+mem_alloctime 3.724e-06
+convert_totime 0.0022698
+encodetime 0.00533175
+parsetime 3.0931e-05
+decodetime 0.00385201
+parsetime 4.49e-06
+decodetime 4.2e-08
+degrade_time 0.00922878
+convert_fromtime 0.000955374
+memcpytime 0.000837096
+scheduletime 0.000140284
+CAPTURE (mem alloc) 5.8e-07
+-----frame below (107)-----
+mem_alloctime 3.956e-06
+convert_totime 0.00237562
+encodetime 0.00517429
+parsetime 3.0451e-05
+decodetime 0.0036271
+parsetime 4.419e-06
+decodetime 4e-08
+degrade_time 0.00884617
+convert_fromtime 0.000901532
+memcpytime 0.00083614
+scheduletime 9.7428e-05
+CAPTURE (mem alloc) 3.56e-07
+-----frame below (108)-----
+mem_alloctime 3.404e-06
+convert_totime 0.00245144
+encodetime 0.0052187
+parsetime 2.9831e-05
+decodetime 0.00368643
+parsetime 4.245e-06
+decodetime 4.1e-08
+degrade_time 0.00894757
+convert_fromtime 0.000945182
+memcpytime 0.000830472
+scheduletime 0.000113471
+CAPTURE (mem alloc) 6.01e-07
+-----frame below (109)-----
+mem_alloctime 4.228e-06
+convert_totime 0.00254055
+encodetime 0.00517949
+parsetime 3.0611e-05
+decodetime 0.00348014
+parsetime 4.466e-06
+decodetime 4e-08
+degrade_time 0.00870443
+convert_fromtime 0.000933392
+memcpytime 0.00091898
+scheduletime 9.5448e-05
+CAPTURE (mem alloc) 5.89e-07
+-----frame below (110)-----
+mem_alloctime 4.063e-06
+convert_totime 0.00251191
+encodetime 0.00535828
+parsetime 3.0837e-05
+decodetime 0.00361786
+parsetime 4.082e-06
+decodetime 4.3e-08
+degrade_time 0.00902056
+convert_fromtime 0.000895633
+memcpytime 0.000999898
+scheduletime 0.000152574
+CAPTURE (mem alloc) 4.774e-06
+-----frame below (111)-----
+mem_alloctime 4.338e-06
+convert_totime 0.00256336
+encodetime 0.00526313
+parsetime 3.1256e-05
+decodetime 0.00347162
+parsetime 4.352e-06
+decodetime 4e-08
+degrade_time 0.00878015
+convert_fromtime 0.000895859
+memcpytime 0.000859668
+scheduletime 0.00010281
+CAPTURE (mem alloc) 5.38e-07
+-----frame below (112)-----
+mem_alloctime 4.182e-06
+convert_totime 0.00239746
+encodetime 0.00499862
+parsetime 3.035e-05
+decodetime 0.00345574
+parsetime 3.76e-06
+decodetime 4.1e-08
+degrade_time 0.00849783
+convert_fromtime 0.000891466
+memcpytime 0.000847059
+scheduletime 0.000103063
+CAPTURE (mem alloc) 5.87e-07
+-----frame below (113)-----
+mem_alloctime 1.823e-05
+convert_totime 0.00261576
+encodetime 0.00499961
+parsetime 3.0137e-05
+decodetime 0.00361934
+parsetime 4.394e-06
+decodetime 3.8e-08
+degrade_time 0.00866245
+convert_fromtime 0.000985828
+memcpytime 0.000849685
+scheduletime 0.000176871
+CAPTURE (mem alloc) 6.65e-07
+-----frame below (114)-----
+mem_alloctime 3.998e-06
+convert_totime 0.00267678
+encodetime 0.00529847
+parsetime 3.1537e-05
+decodetime 0.00355114
+parsetime 4.21e-06
+decodetime 4e-08
+degrade_time 0.00889493
+convert_fromtime 0.000926659
+memcpytime 0.000875959
+scheduletime 9.9156e-05
+CAPTURE (mem alloc) 5.94e-07
+-----frame below (115)-----
+mem_alloctime 1.6899e-05
+convert_totime 0.00257319
+encodetime 0.0049706
+parsetime 3.2746e-05
+decodetime 0.00362743
+parsetime 4.534e-06
+decodetime 3.8e-08
+degrade_time 0.00864533
+convert_fromtime 0.00100689
+memcpytime 0.000838383
+scheduletime 0.000162766
+CAPTURE (mem alloc) 8.22e-07
+-----frame below (116)-----
+mem_alloctime 3.965e-06
+convert_totime 0.00250462
+encodetime 0.00533853
+parsetime 3.2365e-05
+decodetime 0.00338402
+parsetime 3.986e-06
+decodetime 4.2e-08
+degrade_time 0.00876851
+convert_fromtime 0.000920094
+memcpytime 0.000943943
+scheduletime 9.8155e-05
+CAPTURE (mem alloc) 5.75e-07
+-----frame below (117)-----
+mem_alloctime 3.489e-06
+convert_totime 0.00236899
+encodetime 0.00502622
+parsetime 2.9812e-05
+decodetime 0.00349008
+parsetime 4.23e-06
+decodetime 3.9e-08
+degrade_time 0.0085594
+convert_fromtime 0.000930742
+memcpytime 0.000904745
+scheduletime 0.000102254
+CAPTURE (mem alloc) 6.78e-07
+-----frame below (118)-----
+mem_alloctime 1.7323e-05
+convert_totime 0.0023588
+encodetime 0.00502127
+parsetime 3.1578e-05
+decodetime 0.00352443
+parsetime 4.14e-06
+decodetime 3.9e-08
+degrade_time 0.00859186
+convert_fromtime 0.000926494
+memcpytime 0.000869021
+scheduletime 0.000104212
+CAPTURE (mem alloc) 7.93e-07
+-----frame below (119)-----
+mem_alloctime 1.825e-05
+convert_totime 0.00259989
+encodetime 0.00495374
+parsetime 2.9571e-05
+decodetime 0.00353145
+parsetime 3.938e-06
+decodetime 4.2e-08
+degrade_time 0.00852875
+convert_fromtime 0.000929103
+memcpytime 0.000866882
+scheduletime 9.7864e-05
+CAPTURE (mem alloc) 7.4e-07
+-----frame below (120)-----
+mem_alloctime 3.733e-06
+convert_totime 0.00258588
+encodetime 0.00490164
+parsetime 5.8324e-05
+decodetime 0.0033043
+parsetime 4.653e-06
+decodetime 4.1e-08
+degrade_time 0.00827892
+convert_fromtime 0.000956828
+memcpytime 0.000838795
+scheduletime 9.566e-05
+CAPTURE (mem alloc) 6.28e-07
+-----frame below (121)-----
+mem_alloctime 3.77e-06
+convert_totime 0.00255081
+encodetime 0.00497882
+parsetime 3.0489e-05
+decodetime 0.00337001
+parsetime 4.046e-06
+decodetime 4.4e-08
+degrade_time 0.00839238
+convert_fromtime 0.000957816
+memcpytime 0.000976638
+scheduletime 9.5393e-05
+CAPTURE (mem alloc) 7.51e-07
+-----frame below (122)-----
+mem_alloctime 4.011e-06
+convert_totime 0.00255496
+encodetime 0.00502276
+parsetime 3.207e-05
+decodetime 0.00347279
+parsetime 4.169e-06
+decodetime 3.8e-08
+degrade_time 0.00854168
+convert_fromtime 0.000896259
+memcpytime 0.000895491
+scheduletime 0.000105066
+CAPTURE (mem alloc) 5.84e-07
+-----frame below (123)-----
+mem_alloctime 1.8582e-05
+convert_totime 0.00228776
+encodetime 0.00476775
+parsetime 2.9621e-05
+decodetime 0.00333425
+parsetime 3.993e-06
+decodetime 4e-08
+degrade_time 0.0081454
+convert_fromtime 0.000902251
+memcpytime 0.000838899
+scheduletime 0.000103853
+CAPTURE (mem alloc) 6.48e-07
+-----frame below (124)-----
+mem_alloctime 3.789e-06
+convert_totime 0.00257104
+encodetime 0.00473813
+parsetime 3.3007e-05
+decodetime 0.0034185
+parsetime 3.909e-06
+decodetime 4.4e-08
+degrade_time 0.00820302
+convert_fromtime 0.000952533
+memcpytime 0.000868517
+scheduletime 9.7597e-05
+CAPTURE (mem alloc) 1e-06
+-----frame below (125)-----
+mem_alloctime 3.506e-06
+convert_totime 0.00253026
+encodetime 0.00494144
+parsetime 3.0813e-05
+decodetime 0.00333689
+parsetime 4.678e-06
+decodetime 4.2e-08
+degrade_time 0.00832312
+convert_fromtime 0.000922363
+memcpytime 0.000979035
+scheduletime 0.000101541
+CAPTURE (mem alloc) 7.97e-07
+-----frame below (126)-----
+mem_alloctime 4.188e-06
+convert_totime 0.00252859
+encodetime 0.00488817
+parsetime 3.0918e-05
+decodetime 0.00341879
+parsetime 4.23e-06
+decodetime 3.9e-08
+degrade_time 0.00835156
+convert_fromtime 0.000933948
+memcpytime 0.000884376
+scheduletime 0.000102111
+CAPTURE (mem alloc) 7.89e-07
+-----frame below (127)-----
+mem_alloctime 4.258e-06
+convert_totime 0.00235955
+encodetime 0.00488186
+parsetime 3.7962e-05
+decodetime 0.00332205
+parsetime 4.054e-06
+decodetime 3.9e-08
+degrade_time 0.00825623
+convert_fromtime 0.000895755
+memcpytime 0.000838144
+scheduletime 0.000104897
+CAPTURE (mem alloc) 8.02e-07
+-----frame below (128)-----
+mem_alloctime 5.923e-06
+convert_totime 0.00232569
+encodetime 0.00489136
+parsetime 4.7022e-05
+decodetime 0.00337569
+parsetime 2.7254e-05
+decodetime 4e-08
+degrade_time 0.00835207
+convert_fromtime 0.000939851
+memcpytime 0.000872571
+scheduletime 9.6666e-05
+CAPTURE (mem alloc) 7.74e-07
+-----frame below (129)-----
+mem_alloctime 3.724e-06
+convert_totime 0.00255887
+encodetime 0.00464459
+parsetime 3.9745e-05
+decodetime 0.00332466
+parsetime 4.04e-06
+decodetime 4e-08
+degrade_time 0.00802268
+convert_fromtime 0.000898513
+memcpytime 0.000926815
+scheduletime 0.000168166
+CAPTURE (mem alloc) 6.91e-07
+-----frame below (130)-----
+mem_alloctime 3.727e-06
+convert_totime 0.00233223
+encodetime 0.00494064
+parsetime 2.222e-05
+decodetime 0.00330805
+parsetime 4.129e-06
+decodetime 4.4e-08
+degrade_time 0.00830201
+convert_fromtime 0.000892825
+memcpytime 0.000846358
+scheduletime 0.000103192
+CAPTURE (mem alloc) 3.62e-07
+-----frame below (131)-----
+mem_alloctime 5.108e-06
+convert_totime 0.00252315
+encodetime 0.0048769
+parsetime 3.7343e-05
+decodetime 0.00330141
+parsetime 4.108e-06
+decodetime 4.1e-08
+degrade_time 0.00822936
+convert_fromtime 0.000931341
+memcpytime 0.000841942
+scheduletime 0.000118437
+CAPTURE (mem alloc) 4.672e-06
+-----frame below (132)-----
+mem_alloctime 4.246e-06
+convert_totime 0.00234523
+encodetime 0.0051481
+parsetime 2.1909e-05
+decodetime 0.00334337
+parsetime 4.491e-06
+decodetime 4.5e-08
+degrade_time 0.00852787
+convert_fromtime 0.000895551
+memcpytime 0.000837534
+scheduletime 9.793e-05
+CAPTURE (mem alloc) 7.37e-07
+-----frame below (133)-----
+mem_alloctime 1.8139e-05
+convert_totime 0.00224955
+encodetime 0.00515708
+parsetime 2.2806e-05
+decodetime 0.0033872
+parsetime 4.71e-06
+decodetime 4.2e-08
+degrade_time 0.00858118
+convert_fromtime 0.000895236
+memcpytime 0.000894067
+scheduletime 0.000105754
+CAPTURE (mem alloc) 9.05e-07
+-----frame below (134)-----
+mem_alloctime 3.602e-06
+convert_totime 0.00231476
+encodetime 0.00508524
+parsetime 3.4377e-05
+decodetime 0.0033105
+parsetime 4.183e-06
+decodetime 4.1e-08
+degrade_time 0.00844485
+convert_fromtime 0.000895859
+memcpytime 0.000840446
+scheduletime 0.000104855
+CAPTURE (mem alloc) 7.1e-07
+-----frame below (135)-----
+mem_alloctime 3.316e-06
+convert_totime 0.00233753
+encodetime 0.00484854
+parsetime 2.2131e-05
+decodetime 0.00347094
+parsetime 4.541e-06
+decodetime 3.9e-08
+degrade_time 0.00835633
+convert_fromtime 0.000900171
+memcpytime 0.000834441
+scheduletime 0.000102792
+CAPTURE (mem alloc) 7.08e-07
+-----frame below (136)-----
+mem_alloctime 5.184e-06
+convert_totime 0.00231522
+encodetime 0.00500787
+parsetime 2.2944e-05
+decodetime 0.00339542
+parsetime 4.126e-06
+decodetime 4.1e-08
+degrade_time 0.00843978
+convert_fromtime 0.00100712
+memcpytime 0.000876315
+scheduletime 0.000106364
+CAPTURE (mem alloc) 3.79e-07
+-----frame below (137)-----
+mem_alloctime 1.5342e-05
+convert_totime 0.002463
+encodetime 0.00481345
+parsetime 2.3144e-05
+decodetime 0.00338921
+parsetime 4.034e-06
+decodetime 3.9e-08
+degrade_time 0.00823871
+convert_fromtime 0.000931516
+memcpytime 0.000911794
+scheduletime 0.000101078
+CAPTURE (mem alloc) 7.02e-07
+-----frame below (138)-----
+mem_alloctime 3.94e-06
+convert_totime 0.00259671
+encodetime 0.00472139
+parsetime 2.1863e-05
+decodetime 0.00339656
+parsetime 4.136e-06
+decodetime 3.9e-08
+degrade_time 0.00815361
+convert_fromtime 0.000959691
+memcpytime 0.000896044
+scheduletime 0.000104027
+CAPTURE (mem alloc) 6.03e-07
+-----frame below (139)-----
+mem_alloctime 3.632e-06
+convert_totime 0.00228289
+encodetime 0.00489813
+parsetime 2.2255e-05
+decodetime 0.0033903
+parsetime 4.013e-06
+decodetime 3.7e-08
+degrade_time 0.00832405
+convert_fromtime 0.000984741
+memcpytime 0.000879247
+scheduletime 0.000108996
+CAPTURE (mem alloc) 7.08e-07
+-----frame below (140)-----
+mem_alloctime 1.7933e-05
+convert_totime 0.0025876
+encodetime 0.00459811
+parsetime 2.2665e-05
+decodetime 0.00324853
+parsetime 3.877e-06
+decodetime 3.9e-08
+degrade_time 0.00788271
+convert_fromtime 0.000921488
+memcpytime 0.000920568
+scheduletime 9.5553e-05
+CAPTURE (mem alloc) 6.95e-07
+-----frame below (141)-----
+mem_alloctime 2.1081e-05
+convert_totime 0.00230075
+encodetime 0.00502166
+parsetime 2.2597e-05
+decodetime 0.00329177
+parsetime 4.151e-06
+decodetime 4.4e-08
+degrade_time 0.00834964
+convert_fromtime 0.000894942
+memcpytime 0.000840616
+scheduletime 0.00010351
+CAPTURE (mem alloc) 6.5e-07
+-----frame below (142)-----
+mem_alloctime 3.45e-06
+convert_totime 0.00258591
+encodetime 0.00475373
+parsetime 2.1649e-05
+decodetime 0.00347446
+parsetime 4.468e-06
+decodetime 4.4e-08
+degrade_time 0.0082636
+convert_fromtime 0.000994585
+memcpytime 0.000907385
+scheduletime 0.00011202
+CAPTURE (mem alloc) 7.33e-07
+-----frame below (143)-----
+mem_alloctime 2.63e-06
+convert_totime 0.00234309
+encodetime 0.00506654
+parsetime 2.1585e-05
+decodetime 0.00330923
+parsetime 3.949e-06
+decodetime 4e-08
+degrade_time 0.00841042
+convert_fromtime 0.000904464
+memcpytime 0.000838048
+scheduletime 0.000103016
+CAPTURE (mem alloc) 6.51e-07
+-----frame below (144)-----
+mem_alloctime 3.999e-06
+convert_totime 0.00241601
+encodetime 0.00473613
+parsetime 2.2872e-05
+decodetime 0.00337401
+parsetime 4.243e-06
+decodetime 3.9e-08
+degrade_time 0.00814732
+convert_fromtime 0.000927763
+memcpytime 0.000923507
+scheduletime 9.5652e-05
+CAPTURE (mem alloc) 6.68e-07
+-----frame below (145)-----
+mem_alloctime 1.809e-05
+convert_totime 0.00229515
+encodetime 0.00461318
+parsetime 2.1481e-05
+decodetime 0.00327373
+parsetime 3.894e-06
+decodetime 4.2e-08
+degrade_time 0.00792175
+convert_fromtime 0.000896244
+memcpytime 0.000840326
+scheduletime 0.000104959
+CAPTURE (mem alloc) 9.15e-07
+-----frame below (146)-----
+mem_alloctime 1.8569e-05
+convert_totime 0.00255255
+encodetime 0.00445851
+parsetime 2.182e-05
+decodetime 0.00325835
+parsetime 3.818e-06
+decodetime 3.9e-08
+degrade_time 0.00775227
+convert_fromtime 0.00088917
+memcpytime 0.000835729
+scheduletime 0.00010412
+CAPTURE (mem alloc) 7.93e-07
+-----frame below (147)-----
+mem_alloctime 4.36e-06
+convert_totime 0.00254617
+encodetime 0.00560595
+parsetime 3.8574e-05
+decodetime 0.00330411
+parsetime 4.031e-06
+decodetime 3.9e-08
+degrade_time 0.00897502
+convert_fromtime 0.000922991
+memcpytime 0.000877485
+scheduletime 9.7981e-05
+CAPTURE (mem alloc) 7.08e-07
+-----frame below (148)-----
+mem_alloctime 5.142e-06
+convert_totime 0.00231172
+encodetime 0.00452727
+parsetime 2.2565e-05
+decodetime 0.00334297
+parsetime 4.132e-06
+decodetime 4.8e-08
+degrade_time 0.00790666
+convert_fromtime 0.000961471
+memcpytime 0.000928855
+scheduletime 0.000111042
+CAPTURE (mem alloc) 5.95e-07
+-----frame below (149)-----
+mem_alloctime 3.907e-06
+convert_totime 0.00241266
+encodetime 0.00491218
+parsetime 2.2347e-05
+decodetime 0.00342786
+parsetime 3.976e-06
+decodetime 4.4e-08
+degrade_time 0.00837637
+convert_fromtime 0.000895692
+memcpytime 0.00087482
+scheduletime 0.000104089
+CAPTURE (mem alloc) 8.88e-07
+-----frame below (150)-----
+mem_alloctime 4.135e-06
+convert_totime 0.0023553
+encodetime 0.00468157
+parsetime 2.2641e-05
+decodetime 0.00354615
+parsetime 4.521e-06
+decodetime 3.9e-08
+degrade_time 0.00826458
+convert_fromtime 0.000952725
+memcpytime 0.000903384
+scheduletime 0.000102627
+CAPTURE (mem alloc) 6.55e-07
+-----frame below (151)-----
+mem_alloctime 1.6941e-05
+convert_totime 0.00258743
+encodetime 0.00530709
+parsetime 2.1983e-05
+decodetime 0.0033912
+parsetime 4.407e-06
+decodetime 4.1e-08
+degrade_time 0.00873486
+convert_fromtime 0.000898142
+memcpytime 0.000840118
+scheduletime 9.841e-05
+CAPTURE (mem alloc) 5.25e-07
+-----frame below (152)-----
+mem_alloctime 1.8904e-05
+convert_totime 0.00233653
+encodetime 0.00473804
+parsetime 2.1995e-05
+decodetime 0.00337996
+parsetime 4.191e-06
+decodetime 4.4e-08
+degrade_time 0.0081538
+convert_fromtime 0.000889492
+memcpytime 0.00101908
+scheduletime 9.6072e-05
+CAPTURE (mem alloc) 5.081e-06
+-----frame below (153)-----
+mem_alloctime 4.825e-06
+convert_totime 0.00229748
+encodetime 0.00536163
+parsetime 2.2162e-05
+decodetime 0.00339755
+parsetime 4.96e-06
+decodetime 4.3e-08
+degrade_time 0.00879648
+convert_fromtime 0.000898494
+memcpytime 0.000880552
+scheduletime 0.00010533
+CAPTURE (mem alloc) 4.1e-07
+-----frame below (154)-----
+mem_alloctime 1.5217e-05
+convert_totime 0.00255959
+encodetime 0.00521974
+parsetime 2.23e-05
+decodetime 0.00360243
+parsetime 4.619e-06
+decodetime 4.4e-08
+degrade_time 0.0088576
+convert_fromtime 0.000927988
+memcpytime 0.000827473
+scheduletime 0.000135145
+CAPTURE (mem alloc) 6.96e-07
+-----frame below (155)-----
+mem_alloctime 1.7108e-05
+convert_totime 0.00233605
+encodetime 0.00558852
+parsetime 2.3272e-05
+decodetime 0.00351282
+parsetime 4.292e-06
+decodetime 4.1e-08
+degrade_time 0.00913882
+convert_fromtime 0.000897809
+memcpytime 0.000837483
+scheduletime 0.000103284
+CAPTURE (mem alloc) 6.67e-07
+-----frame below (156)-----
+mem_alloctime 1.8969e-05
+convert_totime 0.00229654
+encodetime 0.00554601
+parsetime 2.1792e-05
+decodetime 0.00341092
+parsetime 4.546e-06
+decodetime 4.1e-08
+degrade_time 0.00899241
+convert_fromtime 0.000893639
+memcpytime 0.000841703
+scheduletime 0.00010407
+CAPTURE (mem alloc) 6.88e-07
+-----frame below (157)-----
+mem_alloctime 1.7043e-05
+convert_totime 0.00237005
+encodetime 0.00529216
+parsetime 2.3945e-05
+decodetime 0.00343025
+parsetime 4.421e-06
+decodetime 4.1e-08
+degrade_time 0.0087609
+convert_fromtime 0.000926545
+memcpytime 0.000836985
+scheduletime 0.000100102
+CAPTURE (mem alloc) 7.61e-07
+-----frame below (158)-----
+mem_alloctime 3.951e-06
+convert_totime 0.00252566
+encodetime 0.00523529
+parsetime 2.2406e-05
+decodetime 0.00338597
+parsetime 4.547e-06
+decodetime 5.1e-08
+degrade_time 0.00865777
+convert_fromtime 0.00094095
+memcpytime 0.000925528
+scheduletime 9.5173e-05
+CAPTURE (mem alloc) 7.74e-07
+-----frame below (159)-----
+mem_alloctime 4.326e-06
+convert_totime 0.00252323
+encodetime 0.0051538
+parsetime 2.2586e-05
+decodetime 0.00341115
+parsetime 4.006e-06
+decodetime 3.8e-08
+degrade_time 0.00860128
+convert_fromtime 0.000903748
+memcpytime 0.000944792
+scheduletime 0.000128517
+CAPTURE (mem alloc) 7.9e-07
+-----frame below (160)-----
+mem_alloctime 4.705e-06
+convert_totime 0.00231492
+encodetime 0.00479368
+parsetime 2.307e-05
+decodetime 0.00339189
+parsetime 4.432e-06
+decodetime 5e-08
+degrade_time 0.00822306
+convert_fromtime 0.000931667
+memcpytime 0.000849491
+scheduletime 0.00011045
+CAPTURE (mem alloc) 7.26e-07
+-----frame below (161)-----
+mem_alloctime 1.8419e-05
+convert_totime 0.00235433
+encodetime 0.00502317
+parsetime 2.2275e-05
+decodetime 0.00338489
+parsetime 4.178e-06
+decodetime 4.6e-08
+degrade_time 0.00844453
+convert_fromtime 0.000896087
+memcpytime 0.000839551
+scheduletime 0.00010381
+CAPTURE (mem alloc) 8.03e-07
+-----frame below (162)-----
+mem_alloctime 5.056e-06
+convert_totime 0.00222761
+encodetime 0.00479053
+parsetime 2.3411e-05
+decodetime 0.00342964
+parsetime 4.419e-06
+decodetime 3.7e-08
+degrade_time 0.00825754
+convert_fromtime 0.000991756
+memcpytime 0.000944183
+scheduletime 0.000103618
+CAPTURE (mem alloc) 9.9e-07
+-----frame below (163)-----
+mem_alloctime 4.14e-06
+convert_totime 0.00260415
+encodetime 0.0060782
+parsetime 2.2605e-05
+decodetime 0.00351347
+parsetime 4.468e-06
+decodetime 3.7e-08
+degrade_time 0.009628
+convert_fromtime 0.000989836
+memcpytime 0.000862597
+scheduletime 9.6425e-05
+CAPTURE (mem alloc) 7.54e-07
+-----frame below (164)-----
+mem_alloctime 3.336e-06
+convert_totime 0.00260723
+encodetime 0.00498686
+parsetime 2.2762e-05
+decodetime 0.00358571
+parsetime 4.281e-06
+decodetime 4.4e-08
+degrade_time 0.00860992
+convert_fromtime 0.000978194
+memcpytime 0.00101311
+scheduletime 0.000136988
+CAPTURE (mem alloc) 6.21e-07
+-----frame below (165)-----
+mem_alloctime 3.644e-06
+convert_totime 0.00250872
+encodetime 0.0049075
+parsetime 2.3259e-05
+decodetime 0.00350262
+parsetime 4.595e-06
+decodetime 3.9e-08
+degrade_time 0.00844715
+convert_fromtime 0.00101563
+memcpytime 0.000952533
+scheduletime 0.000111062
+CAPTURE (mem alloc) 7.63e-07
+-----frame below (166)-----
+mem_alloctime 1.7348e-05
+convert_totime 0.00251076
+encodetime 0.00498547
+parsetime 2.2829e-05
+decodetime 0.00346495
+parsetime 3.891e-06
+decodetime 4.4e-08
+degrade_time 0.00848618
+convert_fromtime 0.00089391
+memcpytime 0.000872477
+scheduletime 0.00010508
+CAPTURE (mem alloc) 7.67e-07
+-----frame below (167)-----
+mem_alloctime 1.7063e-05
+convert_totime 0.0023179
+encodetime 0.00522754
+parsetime 2.3412e-05
+decodetime 0.00350906
+parsetime 4.173e-06
+decodetime 4e-08
+degrade_time 0.00877363
+convert_fromtime 0.000986098
+memcpytime 0.000906231
+scheduletime 0.000109895
+CAPTURE (mem alloc) 8.55e-07
+-----frame below (168)-----
+mem_alloctime 4.327e-06
+convert_totime 0.00257917
+encodetime 0.0046405
+parsetime 2.2371e-05
+decodetime 0.00341332
+parsetime 4.126e-06
+decodetime 4.1e-08
+degrade_time 0.00808985
+convert_fromtime 0.00100111
+memcpytime 0.000880906
+scheduletime 9.5707e-05
+CAPTURE (mem alloc) 7.86e-07
+-----frame below (169)-----
+mem_alloctime 1.9366e-05
+convert_totime 0.00231256
+encodetime 0.00478916
+parsetime 2.2877e-05
+decodetime 0.00334222
+parsetime 3.901e-06
+decodetime 3.6e-08
+degrade_time 0.00816812
+convert_fromtime 0.000898451
+memcpytime 0.000910588
+scheduletime 0.000112682
+CAPTURE (mem alloc) 6.85e-07
+-----frame below (170)-----
+mem_alloctime 4.178e-06
+convert_totime 0.00238608
+encodetime 0.0046999
+parsetime 2.1604e-05
+decodetime 0.00340185
+parsetime 4.022e-06
+decodetime 3.8e-08
+degrade_time 0.00813735
+convert_fromtime 0.000927883
+memcpytime 0.000872037
+scheduletime 0.000105268
+CAPTURE (mem alloc) 7.39e-07
+-----frame below (171)-----
+mem_alloctime 1.7531e-05
+convert_totime 0.00230766
+encodetime 0.00450947
+parsetime 3.4485e-05
+decodetime 0.00330482
+parsetime 4.133e-06
+decodetime 4.4e-08
+degrade_time 0.00786339
+convert_fromtime 0.0008983
+memcpytime 0.000841095
+scheduletime 0.000103487
+CAPTURE (mem alloc) 7.41e-07
+-----frame below (172)-----
+mem_alloctime 1.7372e-05
+convert_totime 0.00230723
+encodetime 0.00519843
+parsetime 2.1653e-05
+decodetime 0.00338171
+parsetime 4.166e-06
+decodetime 4.8e-08
+degrade_time 0.00861532
+convert_fromtime 0.000957571
+memcpytime 0.000984554
+scheduletime 9.4962e-05
+CAPTURE (mem alloc) 6.05e-07
+-----frame below (173)-----
+mem_alloctime 3.929e-06
+convert_totime 0.00251852
+encodetime 0.00466054
+parsetime 2.2616e-05
+decodetime 0.00331605
+parsetime 4.123e-06
+decodetime 3.9e-08
+degrade_time 0.00801309
+convert_fromtime 0.000895745
+memcpytime 0.000876588
+scheduletime 0.000103954
+CAPTURE (mem alloc) 4.827e-06
+-----frame below (174)-----
+mem_alloctime 4.251e-06
+convert_totime 0.00233833
+encodetime 0.0060418
+parsetime 2.207e-05
+decodetime 0.00333708
+parsetime 4.524e-06
+decodetime 3.9e-08
+degrade_time 0.0094154
+convert_fromtime 0.000927173
+memcpytime 0.000948613
+scheduletime 0.000103759
+CAPTURE (mem alloc) 3.72e-07
+-----frame below (175)-----
+mem_alloctime 2.72e-06
+convert_totime 0.0023412
+encodetime 0.00462771
+parsetime 2.2549e-05
+decodetime 0.00329348
+parsetime 4.039e-06
+decodetime 4.4e-08
+degrade_time 0.00795632
+convert_fromtime 0.000896417
+memcpytime 0.00083042
+scheduletime 0.000104062
+CAPTURE (mem alloc) 8.64e-07
+-----frame below (176)-----
+mem_alloctime 3.547e-06
+convert_totime 0.00235468
+encodetime 0.00471137
+parsetime 2.2722e-05
+decodetime 0.00339959
+parsetime 4.387e-06
+decodetime 4.5e-08
+degrade_time 0.0081477
+convert_fromtime 0.000923571
+memcpytime 0.00084342
+scheduletime 0.000101211
+CAPTURE (mem alloc) 4.15e-07
+-----frame below (177)-----
+mem_alloctime 2.642e-06
+convert_totime 0.00232158
+encodetime 0.00518058
+parsetime 2.2054e-05
+decodetime 0.00343657
+parsetime 5.063e-06
+decodetime 3.9e-08
+degrade_time 0.00865306
+convert_fromtime 0.000924034
+memcpytime 0.0009481
+scheduletime 9.5001e-05
+CAPTURE (mem alloc) 7.94e-07
+-----frame below (178)-----
+mem_alloctime 1.9236e-05
+convert_totime 0.00234883
+encodetime 0.00604316
+parsetime 2.2086e-05
+decodetime 0.00347641
+parsetime 4.471e-06
+decodetime 4.2e-08
+degrade_time 0.00955571
+convert_fromtime 0.000919282
+memcpytime 0.000926354
+scheduletime 9.5034e-05
+CAPTURE (mem alloc) 1.013e-06
+-----frame below (179)-----
+mem_alloctime 1.6335e-05
+convert_totime 0.00236247
+encodetime 0.00510187
+parsetime 2.197e-05
+decodetime 0.00353201
+parsetime 4.519e-06
+decodetime 4e-08
+degrade_time 0.00867011
+convert_fromtime 0.000896408
+memcpytime 0.000884823
+scheduletime 0.000103203
+CAPTURE (mem alloc) 7.82e-07
+-----frame below (180)-----
+mem_alloctime 3.492e-06
+convert_totime 0.00237378
+encodetime 0.00512657
+parsetime 2.3101e-05
+decodetime 0.00341942
+parsetime 4.256e-06
+decodetime 3.8e-08
+degrade_time 0.0085824
+convert_fromtime 0.000890154
+memcpytime 0.0008356
+scheduletime 0.000139592
+CAPTURE (mem alloc) 7.98e-07
+-----frame below (181)-----
+mem_alloctime 4.064e-06
+convert_totime 0.00237852
+encodetime 0.00506092
+parsetime 2.2011e-05
+decodetime 0.00351036
+parsetime 4.852e-06
+decodetime 4.2e-08
+degrade_time 0.00860848
+convert_fromtime 0.000896834
+memcpytime 0.000875976
+scheduletime 0.000102496
+CAPTURE (mem alloc) 8.47e-07
+-----frame below (182)-----
+mem_alloctime 2.5345e-05
+convert_totime 0.00231505
+encodetime 0.00621885
+parsetime 2.2089e-05
+decodetime 0.00350617
+parsetime 4.611e-06
+decodetime 4.2e-08
+degrade_time 0.00976184
+convert_fromtime 0.000892479
+memcpytime 0.000839633
+scheduletime 9.8869e-05
+CAPTURE (mem alloc) 8.95e-07
+-----frame below (183)-----
+mem_alloctime 3.772e-06
+convert_totime 0.00225731
+encodetime 0.00506442
+parsetime 2.2606e-05
+decodetime 0.00356614
+parsetime 1.6698e-05
+decodetime 4.2e-08
+degrade_time 0.00868006
+convert_fromtime 0.000899648
+memcpytime 0.000875191
+scheduletime 9.5704e-05
+CAPTURE (mem alloc) 8.11e-07
+-----frame below (184)-----
+mem_alloctime 4.992e-06
+convert_totime 0.00252263
+encodetime 0.00512849
+parsetime 2.2295e-05
+decodetime 0.00339649
+parsetime 4.574e-06
+decodetime 3.9e-08
+degrade_time 0.00856034
+convert_fromtime 0.000968766
+memcpytime 0.000938188
+scheduletime 0.000102057
+CAPTURE (mem alloc) 1.037e-06
+-----frame below (185)-----
+mem_alloctime 3.959e-06
+convert_totime 0.0024123
+encodetime 0.00449693
+parsetime 2.335e-05
+decodetime 0.00355164
+parsetime 4.555e-06
+decodetime 4.7e-08
+degrade_time 0.0080864
+convert_fromtime 0.000952337
+memcpytime 0.00089576
+scheduletime 0.000101891
+CAPTURE (mem alloc) 4.97e-07
+-----frame below (186)-----
+mem_alloctime 2.627e-06
+convert_totime 0.00239027
+encodetime 0.00475804
+parsetime 2.2481e-05
+decodetime 0.00350069
+parsetime 4.738e-06
+decodetime 4.9e-08
+degrade_time 0.00829467
+convert_fromtime 0.000953828
+memcpytime 0.000891152
+scheduletime 0.00010121
+CAPTURE (mem alloc) 9.56e-07
+-----frame below (187)-----
+mem_alloctime 4.308e-06
+convert_totime 0.00249536
+encodetime 0.00464882
+parsetime 2.1611e-05
+decodetime 0.00350431
+parsetime 4.475e-06
+decodetime 4e-08
+degrade_time 0.00818949
+convert_fromtime 0.000944665
+memcpytime 0.000872675
+scheduletime 9.6277e-05
+CAPTURE (mem alloc) 9.17e-07
+-----frame below (188)-----
+mem_alloctime 3.896e-06
+convert_totime 0.00255629
+encodetime 0.0047944
+parsetime 2.3166e-05
+decodetime 0.00342542
+parsetime 4.073e-06
+decodetime 4.2e-08
+degrade_time 0.00825652
+convert_fromtime 0.000962399
+memcpytime 0.000943917
+scheduletime 9.5088e-05
+CAPTURE (mem alloc) 4.33e-07
+-----frame below (189)-----
+mem_alloctime 1.5618e-05
+convert_totime 0.00237723
+encodetime 0.00448631
+parsetime 4.4643e-05
+decodetime 0.00346154
+parsetime 4.81e-06
+decodetime 4e-08
+degrade_time 0.00800636
+convert_fromtime 0.000955851
+memcpytime 0.000824406
+scheduletime 0.000102303
+CAPTURE (mem alloc) 7.94e-07
+-----frame below (190)-----
+mem_alloctime 3.899e-06
+convert_totime 0.00246383
+encodetime 0.00471351
+parsetime 2.2882e-05
+decodetime 0.00343376
+parsetime 4.19e-06
+decodetime 4e-08
+degrade_time 0.00818398
+convert_fromtime 0.000926864
+memcpytime 0.000873763
+scheduletime 0.000103239
+CAPTURE (mem alloc) 8.56e-07
+-----frame below (191)-----
+mem_alloctime 4.198e-06
+convert_totime 0.00253186
+encodetime 0.00433427
+parsetime 2.2419e-05
+decodetime 0.00346912
+parsetime 4.584e-06
+decodetime 3.9e-08
+degrade_time 0.00783996
+convert_fromtime 0.000965546
+memcpytime 0.000847654
+scheduletime 9.5339e-05
+CAPTURE (mem alloc) 8.18e-07
+-----frame below (192)-----
+mem_alloctime 4.175e-06
+convert_totime 0.00252368
+encodetime 0.00429037
+parsetime 2.1727e-05
+decodetime 0.00334556
+parsetime 4.626e-06
+decodetime 5.2e-08
+degrade_time 0.00767201
+convert_fromtime 0.000963934
+memcpytime 0.000945202
+scheduletime 0.000113496
+CAPTURE (mem alloc) 8.97e-07
+-----frame below (193)-----
+mem_alloctime 2.2035e-05
+convert_totime 0.00257133
+encodetime 0.00423247
+parsetime 3.4847e-05
+decodetime 0.00322138
+parsetime 4.084e-06
+decodetime 4.1e-08
+degrade_time 0.00751685
+convert_fromtime 0.000894869
+memcpytime 0.000945282
+scheduletime 0.000104451
+CAPTURE (mem alloc) 5.22e-07
+-----frame below (194)-----
+mem_alloctime 6.701e-06
+convert_totime 0.00228399
+encodetime 0.00522528
+parsetime 2.2351e-05
+decodetime 0.00325658
+parsetime 4.347e-06
+decodetime 3.9e-08
+degrade_time 0.0085182
+convert_fromtime 0.000949001
+memcpytime 0.000844352
+scheduletime 9.5936e-05
+CAPTURE (mem alloc) 4.791e-06
+-----frame below (195)-----
+mem_alloctime 4.029e-06
+convert_totime 0.00233222
+encodetime 0.0044269
+parsetime 2.1799e-05
+decodetime 0.00329106
+parsetime 4.226e-06
+decodetime 4e-08
+degrade_time 0.00775212
+convert_fromtime 0.000925388
+memcpytime 0.000910238
+scheduletime 0.0001018
+CAPTURE (mem alloc) 3.82e-07
+-----frame below (196)-----
+mem_alloctime 3.5e-06
+convert_totime 0.00233662
+encodetime 0.00538377
+parsetime 2.282e-05
+decodetime 0.00332731
+parsetime 4.408e-06
+decodetime 4e-08
+degrade_time 0.00876131
+convert_fromtime 0.000962445
+memcpytime 0.000899071
+scheduletime 0.000140213
+CAPTURE (mem alloc) 4.33e-07
+-----frame below (197)-----
+mem_alloctime 1.5616e-05
+convert_totime 0.00257117
+encodetime 0.00519879
+parsetime 2.2275e-05
+decodetime 0.0033626
+parsetime 4.475e-06
+decodetime 3.9e-08
+degrade_time 0.00859638
+convert_fromtime 0.000983245
+memcpytime 0.000933826
+scheduletime 0.000125907
+CAPTURE (mem alloc) 4.87e-07
+-----frame below (198)-----
+mem_alloctime 1.73e-06
+convert_totime 0.00254584
+encodetime 0.00437587
+parsetime 3.5888e-05
+decodetime 0.00326546
+parsetime 4.371e-06
+decodetime 5.4e-08
+degrade_time 0.00769042
+convert_fromtime 0.000940352
+memcpytime 0.00106222
+scheduletime 0.000120091
+CAPTURE (mem alloc) 9.23e-07
+-----frame below (199)-----
+mem_alloctime 2.0696e-05
+convert_totime 0.00236849
+encodetime 0.0043032
+parsetime 2.317e-05
+decodetime 0.00328083
+parsetime 4.189e-06
+decodetime 3.9e-08
+degrade_time 0.00762205
+convert_fromtime 0.00089618
+memcpytime 0.000844924
+scheduletime 0.000103311
+CAPTURE (mem alloc) 1.086e-06
+-----frame below (200)-----
+mem_alloctime 1.7036e-05
+convert_totime 0.0023019
+encodetime 0.00448149
+parsetime 2.3012e-05
+decodetime 0.00315263
+parsetime 3.741e-06
+decodetime 4.2e-08
+degrade_time 0.00767113
+convert_fromtime 0.000890477
+memcpytime 0.000850547
+scheduletime 0.000103189
+CAPTURE (mem alloc) 6.71e-07
+-----frame below (201)-----
+mem_alloctime 3.998e-06
+convert_totime 0.0023613
+encodetime 0.00428645
+parsetime 2.247e-05
+decodetime 0.0031896
+parsetime 3.997e-06
+decodetime 4.1e-08
+degrade_time 0.00751229
+convert_fromtime 0.000896025
+memcpytime 0.000848733
+scheduletime 0.000122311
+CAPTURE (mem alloc) 1.102e-06
+-----frame below (202)-----
+mem_alloctime 4.545e-06
+convert_totime 0.00234409
+encodetime 0.00455579
+parsetime 2.2926e-05
+decodetime 0.00331313
+parsetime 3.874e-06
+decodetime 4e-08
+degrade_time 0.00790617
+convert_fromtime 0.000944228
+memcpytime 0.000877834
+scheduletime 0.000101436
+CAPTURE (mem alloc) 7.2e-07
+-----frame below (203)-----
+mem_alloctime 3.899e-06
+convert_totime 0.00234181
+encodetime 0.00483968
+parsetime 2.2482e-05
+decodetime 0.00325034
+parsetime 3.656e-06
+decodetime 4.3e-08
+degrade_time 0.00812586
+convert_fromtime 0.000950804
+memcpytime 0.000959654
+scheduletime 9.2932e-05
+CAPTURE (mem alloc) 4.27e-07
+-----frame below (204)-----
+mem_alloctime 3.559e-06
+convert_totime 0.0023988
+encodetime 0.00446723
+parsetime 2.1666e-05
+decodetime 0.00335654
+parsetime 4.208e-06
+decodetime 3.7e-08
+degrade_time 0.00787095
+convert_fromtime 0.000957704
+memcpytime 0.000831657
+scheduletime 0.000169751
+CAPTURE (mem alloc) 6.82e-07
+-----frame below (205)-----
+mem_alloctime 1.7467e-05
+convert_totime 0.00242374
+encodetime 0.00460437
+parsetime 2.2717e-05
+decodetime 0.00323104
+parsetime 4.167e-06
+decodetime 3.9e-08
+degrade_time 0.00787177
+convert_fromtime 0.000904136
+memcpytime 0.000843218
+scheduletime 0.000102618
+CAPTURE (mem alloc) 7.04e-07
+-----frame below (206)-----
+mem_alloctime 4.313e-06
+convert_totime 0.00254317
+encodetime 0.00467547
+parsetime 4.8293e-05
+decodetime 0.00335958
+parsetime 4.66e-06
+decodetime 4e-08
+degrade_time 0.00811182
+convert_fromtime 0.00101929
+memcpytime 0.00085709
+scheduletime 0.00014193
+CAPTURE (mem alloc) 8.9e-07
+-----frame below (207)-----
+mem_alloctime 3.816e-06
+convert_totime 0.00252876
+encodetime 0.00433997
+parsetime 2.2968e-05
+decodetime 0.00322741
+parsetime 4.306e-06
+decodetime 4.2e-08
+degrade_time 0.00760392
+convert_fromtime 0.000923187
+memcpytime 0.000901557
+scheduletime 0.000112269
+CAPTURE (mem alloc) 6.89e-07
+-----frame below (208)-----
+mem_alloctime 4.463e-06
+convert_totime 0.00257779
+encodetime 0.00440719
+parsetime 2.1881e-05
+decodetime 0.00339804
+parsetime 3.905e-06
+decodetime 3.8e-08
+degrade_time 0.0078404
+convert_fromtime 0.000951923
+memcpytime 0.000897233
+scheduletime 0.000117264
+CAPTURE (mem alloc) 7.42e-07
+-----frame below (209)-----
+mem_alloctime 3.296e-06
+convert_totime 0.00252672
+encodetime 0.00467287
+parsetime 3.5718e-05
+decodetime 0.00326813
+parsetime 4.046e-06
+decodetime 4.8e-08
+degrade_time 0.00802173
+convert_fromtime 0.000953481
+memcpytime 0.000879904
+scheduletime 0.000108351
+CAPTURE (mem alloc) 9.51e-07
+-----frame below (210)-----
+mem_alloctime 4.427e-06
+convert_totime 0.00254296
+encodetime 0.00444641
+parsetime 2.1917e-05
+decodetime 0.00324585
+parsetime 4.284e-06
+decodetime 5.1e-08
+degrade_time 0.00772741
+convert_fromtime 0.000879041
+memcpytime 0.000867399
+scheduletime 0.000104467
+CAPTURE (mem alloc) 7.9e-07
+-----frame below (211)-----
+mem_alloctime 3.961e-06
+convert_totime 0.00251851
+encodetime 0.00434272
+parsetime 2.2343e-05
+decodetime 0.00341203
+parsetime 4.501e-06
+decodetime 4e-08
+degrade_time 0.00779113
+convert_fromtime 0.000958558
+memcpytime 0.000885768
+scheduletime 0.000110071
+CAPTURE (mem alloc) 7.57e-07
+-----frame below (212)-----
+mem_alloctime 3.967e-06
+convert_totime 0.00240169
+encodetime 0.00473938
+parsetime 2.2219e-05
+decodetime 0.00336708
+parsetime 4.096e-06
+decodetime 4.2e-08
+degrade_time 0.00814308
+convert_fromtime 0.000893457
+memcpytime 0.000838945
+scheduletime 0.000104182
+CAPTURE (mem alloc) 1.097e-06
+-----frame below (213)-----
+mem_alloctime 1.7994e-05
+convert_totime 0.00227236
+encodetime 0.00441975
+parsetime 2.2678e-05
+decodetime 0.0034177
+parsetime 4.311e-06
+decodetime 5.1e-08
+degrade_time 0.00787422
+convert_fromtime 0.000931307
+memcpytime 0.00102723
+scheduletime 9.9153e-05
+CAPTURE (mem alloc) 7.19e-07
+-----frame below (214)-----
+mem_alloctime 3.771e-06
+convert_totime 0.00231118
+encodetime 0.00572527
+parsetime 3.5346e-05
+decodetime 0.00336312
+parsetime 4.321e-06
+decodetime 4.3e-08
+degrade_time 0.00913775
+convert_fromtime 0.000898504
+memcpytime 0.000873249
+scheduletime 0.000105897
+CAPTURE (mem alloc) 7.24e-07
+-----frame below (215)-----
+mem_alloctime 3.482e-06
+convert_totime 0.0024892
+encodetime 0.00507149
+parsetime 2.3408e-05
+decodetime 0.00343539
+parsetime 3.959e-06
+decodetime 4e-08
+degrade_time 0.00854347
+convert_fromtime 0.000896046
+memcpytime 0.000871023
+scheduletime 0.0001023
+CAPTURE (mem alloc) 4.534e-06
+-----frame below (216)-----
+mem_alloctime 1.7052e-05
+convert_totime 0.00237831
+encodetime 0.00443973
+parsetime 2.4155e-05
+decodetime 0.00344425
+parsetime 3.772e-06
+decodetime 3.9e-08
+degrade_time 0.00792154
+convert_fromtime 0.000924347
+memcpytime 0.00088325
+scheduletime 0.000101718
+CAPTURE (mem alloc) 7.89e-07
+-----frame below (217)-----
+mem_alloctime 3.84e-06
+convert_totime 0.00229207
+encodetime 0.00438154
+parsetime 2.3639e-05
+decodetime 0.00325412
+parsetime 4.557e-06
+decodetime 4e-08
+degrade_time 0.00767239
+convert_fromtime 0.000924412
+memcpytime 0.000933396
+scheduletime 0.00014641
+CAPTURE (mem alloc) 7.22e-07
+-----frame below (218)-----
+mem_alloctime 3.735e-06
+convert_totime 0.00258399
+encodetime 0.00428637
+parsetime 2.3175e-05
+decodetime 0.00336005
+parsetime 4.136e-06
+decodetime 3.9e-08
+degrade_time 0.00768366
+convert_fromtime 0.00099226
+memcpytime 0.000907954
+scheduletime 0.000115026
+CAPTURE (mem alloc) 8.53e-07
+-----frame below (219)-----
+mem_alloctime 1.8003e-05
+convert_totime 0.00250941
+encodetime 0.00431162
+parsetime 2.2946e-05
+decodetime 0.00333861
+parsetime 4.401e-06
+decodetime 4e-08
+degrade_time 0.00768649
+convert_fromtime 0.00096005
+memcpytime 0.000871694
+scheduletime 0.000101255
+CAPTURE (mem alloc) 5.88e-07
+-----frame below (220)-----
+mem_alloctime 1.7637e-05
+convert_totime 0.0025846
+encodetime 0.00456091
+parsetime 2.2396e-05
+decodetime 0.00322645
+parsetime 3.984e-06
+decodetime 3.8e-08
+degrade_time 0.00782289
+convert_fromtime 0.000891839
+memcpytime 0.000904308
+scheduletime 0.000102025
+CAPTURE (mem alloc) 8.47e-07
+-----frame below (221)-----
+mem_alloctime 3.722e-06
+convert_totime 0.00255751
+encodetime 0.00450202
+parsetime 2.1773e-05
+decodetime 0.00331873
+parsetime 3.827e-06
+decodetime 4.1e-08
+degrade_time 0.00785601
+convert_fromtime 0.000896705
+memcpytime 0.000869041
+scheduletime 0.000106429
+CAPTURE (mem alloc) 6.78e-07
+-----frame below (222)-----
+mem_alloctime 4.456e-06
+convert_totime 0.00238331
+encodetime 0.00476587
+parsetime 2.242e-05
+decodetime 0.00333184
+parsetime 3.844e-06
+decodetime 4e-08
+degrade_time 0.0081337
+convert_fromtime 0.000955612
+memcpytime 0.000849406
+scheduletime 0.000133598
+CAPTURE (mem alloc) 6.57e-07
+-----frame below (223)-----
+mem_alloctime 1.6541e-05
+convert_totime 0.00234118
+encodetime 0.00489803
+parsetime 3.4909e-05
+decodetime 0.00335843
+parsetime 4.495e-06
+decodetime 4e-08
+degrade_time 0.00830571
+convert_fromtime 0.00095468
+memcpytime 0.000982329
+scheduletime 9.4821e-05
+CAPTURE (mem alloc) 3.58e-07
+-----frame below (224)-----
+mem_alloctime 9.119e-06
+convert_totime 0.00266414
+encodetime 0.00512966
+parsetime 2.29e-05
+decodetime 0.00348599
+parsetime 4.403e-06
+decodetime 4.4e-08
+degrade_time 0.00866431
+convert_fromtime 0.000952147
+memcpytime 0.000861956
+scheduletime 0.000122036
+CAPTURE (mem alloc) 6.44e-07
+-----frame below (225)-----
+mem_alloctime 4.338e-06
+convert_totime 0.00256509
+encodetime 0.00449225
+parsetime 2.2739e-05
+decodetime 0.00342422
+parsetime 4.66e-06
+decodetime 4e-08
+degrade_time 0.0079532
+convert_fromtime 0.000924476
+memcpytime 0.000854542
+scheduletime 0.000113043
+CAPTURE (mem alloc) 7.54e-07
+-----frame below (226)-----
+mem_alloctime 4.122e-06
+convert_totime 0.0035398
+encodetime 0.00423823
+parsetime 2.3171e-05
+decodetime 0.00348671
+parsetime 4.61e-06
+decodetime 4.3e-08
+degrade_time 0.00776396
+convert_fromtime 0.000939233
+memcpytime 0.000876644
+scheduletime 9.9145e-05
+CAPTURE (mem alloc) 8.55e-07
+-----frame below (227)-----
+mem_alloctime 3.17e-06
+convert_totime 0.00233314
+encodetime 0.00425891
+parsetime 2.2088e-05
+decodetime 0.00359897
+parsetime 4.373e-06
+decodetime 4.6e-08
+degrade_time 0.00789337
+convert_fromtime 0.000956005
+memcpytime 0.0010517
+scheduletime 0.00010764
+CAPTURE (mem alloc) 4.24e-07
+-----frame below (228)-----
+mem_alloctime 1.946e-06
+convert_totime 0.00258307
+encodetime 0.00488929
+parsetime 2.2612e-05
+decodetime 0.00340783
+parsetime 4.573e-06
+decodetime 4e-08
+degrade_time 0.00833279
+convert_fromtime 0.000891646
+memcpytime 0.000843583
+scheduletime 0.00010125
+CAPTURE (mem alloc) 5.99e-07
+-----frame below (229)-----
+mem_alloctime 3.85e-06
+convert_totime 0.00258258
+encodetime 0.00480135
+parsetime 2.1943e-05
+decodetime 0.00355908
+parsetime 4.601e-06
+decodetime 3.8e-08
+degrade_time 0.00839703
+convert_fromtime 0.000962963
+memcpytime 0.000889276
+scheduletime 0.000118607
+CAPTURE (mem alloc) 4.04e-07
+-----frame below (230)-----
+mem_alloctime 3.946e-06
+convert_totime 0.00229903
+encodetime 0.00496224
+parsetime 2.2183e-05
+decodetime 0.00353122
+parsetime 4.045e-06
+decodetime 4e-08
+degrade_time 0.00852848
+convert_fromtime 0.000984074
+memcpytime 0.000875486
+scheduletime 9.4226e-05
+CAPTURE (mem alloc) 4.35e-07
+-----frame below (231)-----
+mem_alloctime 1.5877e-05
+convert_totime 0.00235542
+encodetime 0.0049
+parsetime 2.2445e-05
+decodetime 0.00346058
+parsetime 4.455e-06
+decodetime 4.1e-08
+degrade_time 0.0083961
+convert_fromtime 0.000961089
+memcpytime 0.000925151
+scheduletime 0.00017861
+CAPTURE (mem alloc) 7.62e-07
+-----frame below (232)-----
+mem_alloctime 3.748e-06
+convert_totime 0.00254527
+encodetime 0.00488149
+parsetime 2.2404e-05
+decodetime 0.00355195
+parsetime 4.663e-06
+decodetime 4.9e-08
+degrade_time 0.00847079
+convert_fromtime 0.00099441
+memcpytime 0.000921307
+scheduletime 0.000110991
+CAPTURE (mem alloc) 9.41e-07
+-----frame below (233)-----
+mem_alloctime 3.285e-06
+convert_totime 0.00235102
+encodetime 0.00489233
+parsetime 2.2281e-05
+decodetime 0.00338828
+parsetime 4.499e-06
+decodetime 3.8e-08
+degrade_time 0.00831731
+convert_fromtime 0.000895516
+memcpytime 0.000858389
+scheduletime 0.000104164
+CAPTURE (mem alloc) 7.01e-07
+-----frame below (234)-----
+mem_alloctime 2.2322e-05
+convert_totime 0.00254425
+encodetime 0.00483102
+parsetime 2.2032e-05
+decodetime 0.00366145
+parsetime 4.63e-06
+decodetime 3.9e-08
+degrade_time 0.00854179
+convert_fromtime 0.00102346
+memcpytime 0.00089947
+scheduletime 0.000103472
+CAPTURE (mem alloc) 6.74e-07
+-----frame below (235)-----
+mem_alloctime 1.7463e-05
+convert_totime 0.0025582
+encodetime 0.00468338
+parsetime 5.2897e-05
+decodetime 0.00346888
+parsetime 4.533e-06
+decodetime 4.2e-08
+degrade_time 0.00821953
+convert_fromtime 0.000929064
+memcpytime 0.0010034
+scheduletime 0.000102675
+CAPTURE (mem alloc) 5.16e-07
+-----frame below (236)-----
+mem_alloctime 3.587e-06
+convert_totime 0.00256266
+encodetime 0.00458379
+parsetime 2.2856e-05
+decodetime 0.00354311
+parsetime 4.648e-06
+decodetime 3.9e-08
+degrade_time 0.00816438
+convert_fromtime 0.000964149
+memcpytime 0.000847496
+scheduletime 0.000110036
+CAPTURE (mem alloc) 5.111e-06
+-----frame below (237)-----
+mem_alloctime 3.556e-06
+convert_totime 0.00259806
+encodetime 0.00482352
+parsetime 6.2409e-05
+decodetime 0.0035015
+parsetime 4.754e-06
+decodetime 3.8e-08
+degrade_time 0.00840128
+convert_fromtime 0.000957469
+memcpytime 0.000845924
+scheduletime 0.000144816
+CAPTURE (mem alloc) 6.27e-07
+-----frame below (238)-----
+mem_alloctime 7.185e-06
+convert_totime 0.00257696
+encodetime 0.00483575
+parsetime 2.3606e-05
+decodetime 0.0036007
+parsetime 4.793e-06
+decodetime 3.8e-08
+degrade_time 0.0084739
+convert_fromtime 0.000995202
+memcpytime 0.000879943
+scheduletime 0.000105416
+CAPTURE (mem alloc) 7.86e-07
+-----frame below (239)-----
+mem_alloctime 3.717e-06
+convert_totime 0.00258624
+encodetime 0.00504212
+parsetime 2.2589e-05
+decodetime 0.00345281
+parsetime 4.112e-06
+decodetime 4.2e-08
+degrade_time 0.00853106
+convert_fromtime 0.000933464
+memcpytime 0.000875733
+scheduletime 9.8168e-05
+CAPTURE (mem alloc) 9.6e-07
+-----frame below (240)-----
+mem_alloctime 2.4656e-05
+convert_totime 0.00223658
+encodetime 0.00488281
+parsetime 2.144e-05
+decodetime 0.00355692
+parsetime 1.6909e-05
+decodetime 3.9e-08
+degrade_time 0.00848853
+convert_fromtime 0.000927427
+memcpytime 0.00103876
+scheduletime 0.000101339
+CAPTURE (mem alloc) 6.48e-07
+-----frame below (241)-----
+mem_alloctime 2.113e-05
+convert_totime 0.00251231
+encodetime 0.00496671
+parsetime 2.2341e-05
+decodetime 0.00352627
+parsetime 4.508e-06
+decodetime 3.9e-08
+degrade_time 0.0085292
+convert_fromtime 0.000932432
+memcpytime 0.0009096
+scheduletime 0.000102825
+CAPTURE (mem alloc) 7.1e-07
+-----frame below (242)-----
+mem_alloctime 1.8871e-05
+convert_totime 0.00255871
+encodetime 0.00480358
+parsetime 2.2324e-05
+decodetime 0.0034204
+parsetime 4.781e-06
+decodetime 4e-08
+degrade_time 0.00826055
+convert_fromtime 0.000930879
+memcpytime 0.000845949
+scheduletime 0.000110588
+CAPTURE (mem alloc) 6.74e-07
+-----frame below (243)-----
+mem_alloctime 3.469e-06
+convert_totime 0.0025627
+encodetime 0.00466661
+parsetime 2.231e-05
+decodetime 0.0035222
+parsetime 4.631e-06
+decodetime 3.8e-08
+degrade_time 0.0082245
+convert_fromtime 0.000957365
+memcpytime 0.00088
+scheduletime 0.000109666
+CAPTURE (mem alloc) 1.027e-06
+-----frame below (244)-----
+mem_alloctime 1.7331e-05
+convert_totime 0.00262864
+encodetime 0.00462757
+parsetime 2.2187e-05
+decodetime 0.00337789
+parsetime 4.286e-06
+decodetime 4.1e-08
+degrade_time 0.00804249
+convert_fromtime 0.000950232
+memcpytime 0.000889212
+scheduletime 9.6831e-05
+CAPTURE (mem alloc) 7.54e-07
+-----frame below (245)-----
+mem_alloctime 3.969e-06
+convert_totime 0.00226798
+encodetime 0.00491932
+parsetime 2.2879e-05
+decodetime 0.00352277
+parsetime 4.277e-06
+decodetime 4.1e-08
+degrade_time 0.00847918
+convert_fromtime 0.000935364
+memcpytime 0.000930445
+scheduletime 0.000102784
+CAPTURE (mem alloc) 1.089e-06
+-----frame below (246)-----
+mem_alloctime 4.031e-06
+convert_totime 0.00247616
+encodetime 0.00506544
+parsetime 3.9312e-05
+decodetime 0.00352445
+parsetime 5.046e-06
+decodetime 4.1e-08
+degrade_time 0.00864356
+convert_fromtime 0.000957306
+memcpytime 0.000848492
+scheduletime 0.000144065
+CAPTURE (mem alloc) 6.59e-07
+-----frame below (247)-----
+mem_alloctime 3.298e-06
+convert_totime 0.00256455
+encodetime 0.00486411
+parsetime 2.299e-05
+decodetime 0.00344434
+parsetime 4.879e-06
+decodetime 4.1e-08
+degrade_time 0.00834554
+convert_fromtime 0.000895546
+memcpytime 0.000836758
+scheduletime 0.000104086
+CAPTURE (mem alloc) 6.56e-07
+-----frame below (248)-----
+mem_alloctime 3.944e-06
+convert_totime 0.00231917
+encodetime 0.00485264
+parsetime 2.197e-05
+decodetime 0.00350082
+parsetime 5.088e-06
+decodetime 3.9e-08
+degrade_time 0.00839046
+convert_fromtime 0.0010293
+memcpytime 0.000841552
+scheduletime 0.00010522
+CAPTURE (mem alloc) 3.68e-07
+-----frame below (249)-----
+mem_alloctime 1.467e-06
+convert_totime 0.00252605
+encodetime 0.00511406
+parsetime 2.3245e-05
+decodetime 0.00357315
+parsetime 4.811e-06
+decodetime 4.6e-08
+degrade_time 0.00872407
+convert_fromtime 0.000973318
+memcpytime 0.000968377
+scheduletime 9.3569e-05
+CAPTURE (mem alloc) 6.37e-07
+-----frame below (250)-----
+mem_alloctime 4.259e-06
+convert_totime 0.00247595
+encodetime 0.00476874
+parsetime 2.19e-05
+decodetime 0.00352069
+parsetime 4.843e-06
+decodetime 4.4e-08
+degrade_time 0.00832562
+convert_fromtime 0.000947762
+memcpytime 0.000945569
+scheduletime 0.000105886
+CAPTURE (mem alloc) 7.59e-07
+-----frame below (251)-----
+mem_alloctime 3.457e-06
+convert_totime 0.00227898
+encodetime 0.00495109
+parsetime 2.2784e-05
+decodetime 0.00341224
+parsetime 4.631e-06
+decodetime 4e-08
+degrade_time 0.00840024
+convert_fromtime 0.000923492
+memcpytime 0.000850705
+scheduletime 0.000114684
+CAPTURE (mem alloc) 1.002e-06
+-----frame below (252)-----
+mem_alloctime 4.099e-06
+convert_totime 0.00262832
+encodetime 0.00491128
+parsetime 2.2006e-05
+decodetime 0.00352979
+parsetime 4.556e-06
+decodetime 3.9e-08
+degrade_time 0.00847662
+convert_fromtime 0.000949337
+memcpytime 0.000842469
+scheduletime 0.00010865
+CAPTURE (mem alloc) 3.7e-07
+-----frame below (253)-----
+mem_alloctime 1.706e-06
+convert_totime 0.00258663
+encodetime 0.00503156
+parsetime 3.5721e-05
+decodetime 0.00345048
+parsetime 5.456e-06
+decodetime 4e-08
+degrade_time 0.00853161
+convert_fromtime 0.000952194
+memcpytime 0.00089105
+scheduletime 0.000116447
+CAPTURE (mem alloc) 1.017e-06
+-----frame below (254)-----
+mem_alloctime 3.516e-06
+convert_totime 0.00262028
+encodetime 0.00559255
+parsetime 2.285e-05
+decodetime 0.00349488
+parsetime 4.68e-06
+decodetime 4e-08
+degrade_time 0.00912474
+convert_fromtime 0.000961399
+memcpytime 0.000865491
+scheduletime 9.6246e-05
+CAPTURE (mem alloc) 1.083e-06
+-----frame below (255)-----
+mem_alloctime 1.6882e-05
+convert_totime 0.00252478
+encodetime 0.00500317
+parsetime 2.328e-05
+decodetime 0.00337867
+parsetime 4.638e-06
+decodetime 3.7e-08
+degrade_time 0.00843202
+convert_fromtime 0.00089628
+memcpytime 0.00101071
+scheduletime 0.000123609
+CAPTURE (mem alloc) 1.105e-06
+-----frame below (256)-----
+mem_alloctime 1.9267e-05
+convert_totime 0.00240849
+encodetime 0.00500024
+parsetime 3.9505e-05
+decodetime 0.00374428
+parsetime 4.756e-06
+decodetime 4e-08
+degrade_time 0.00881355
+convert_fromtime 0.00100824
+memcpytime 0.00100165
+scheduletime 0.000109073
+CAPTURE (mem alloc) 1.052e-06
+-----frame below (257)-----
+mem_alloctime 3.329e-06
+convert_totime 0.00255478
+encodetime 0.0053211
+parsetime 2.2402e-05
+decodetime 0.00354724
+parsetime 5.409e-06
+decodetime 4.1e-08
+degrade_time 0.008906
+convert_fromtime 0.000965345
+memcpytime 0.000886789
+scheduletime 0.000110042
+CAPTURE (mem alloc) 4.575e-06
+-----frame below (258)-----
+mem_alloctime 3.613e-06
+convert_totime 0.00225453
+encodetime 0.00524158
+parsetime 2.2198e-05
+decodetime 0.0036329
+parsetime 5.015e-06
+decodetime 4.3e-08
+degrade_time 0.00891092
+convert_fromtime 0.000937151
+memcpytime 0.000883792
+scheduletime 0.00010449
+CAPTURE (mem alloc) 7.26e-07
+-----frame below (259)-----
+mem_alloctime 1.6895e-05
+convert_totime 0.00251634
+encodetime 0.00489267
+parsetime 2.1846e-05
+decodetime 0.00358518
+parsetime 4.724e-06
+decodetime 4.1e-08
+degrade_time 0.00851394
+convert_fromtime 0.000895231
+memcpytime 0.000848036
+scheduletime 9.6163e-05
+CAPTURE (mem alloc) 8.77e-07
+-----frame below (260)-----
+mem_alloctime 4.053e-06
+convert_totime 0.00255105
+encodetime 0.00518218
+parsetime 2.2589e-05
+decodetime 0.00353716
+parsetime 4.774e-06
+decodetime 4.3e-08
+degrade_time 0.0087562
+convert_fromtime 0.00105493
+memcpytime 0.000880604
+scheduletime 0.000103087
+CAPTURE (mem alloc) 1.185e-06
+-----frame below (261)-----
+mem_alloctime 3.417e-06
+convert_totime 0.00261828
+encodetime 0.00454404
+parsetime 2.2109e-05
+decodetime 0.00353252
+parsetime 4.841e-06
+decodetime 3.7e-08
+degrade_time 0.00811338
+convert_fromtime 0.000952345
+memcpytime 0.000977673
+scheduletime 0.000140913
+CAPTURE (mem alloc) 4.96e-07
+-----frame below (262)-----
+mem_alloctime 1.8778e-05
+convert_totime 0.00230527
+encodetime 0.00532523
+parsetime 2.2113e-05
+decodetime 0.00369059
+parsetime 4.556e-06
+decodetime 3.9e-08
+degrade_time 0.00907694
+convert_fromtime 0.000925351
+memcpytime 0.000903735
+scheduletime 0.000113609
+CAPTURE (mem alloc) 8.64e-07
+-----frame below (263)-----
+mem_alloctime 3.915e-06
+convert_totime 0.00256676
+encodetime 0.00495024
+parsetime 2.2873e-05
+decodetime 0.00353728
+parsetime 4.481e-06
+decodetime 3.9e-08
+degrade_time 0.0085249
+convert_fromtime 0.000928196
+memcpytime 0.000838574
+scheduletime 0.00010216
+CAPTURE (mem alloc) 8.72e-07
+-----frame below (264)-----
+mem_alloctime 4.399e-06
+convert_totime 0.0025829
+encodetime 0.00503085
+parsetime 2.2525e-05
+decodetime 0.00352017
+parsetime 4.76e-06
+decodetime 5e-08
+degrade_time 0.00858825
+convert_fromtime 0.000891683
+memcpytime 0.000846799
+scheduletime 9.627e-05
+CAPTURE (mem alloc) 8.44e-07
+-----frame below (265)-----
+mem_alloctime 4.679e-06
+convert_totime 0.00229931
+encodetime 0.00434112
+parsetime 2.252e-05
+decodetime 0.00349093
+parsetime 4.679e-06
+decodetime 4e-08
+degrade_time 0.00786821
+convert_fromtime 0.000923893
+memcpytime 0.000927864
+scheduletime 9.6772e-05
+CAPTURE (mem alloc) 4.4e-07
+-----frame below (266)-----
+mem_alloctime 1.6465e-05
+convert_totime 0.00229198
+encodetime 0.00493404
+parsetime 2.3736e-05
+decodetime 0.00344516
+parsetime 4.348e-06
+decodetime 3.9e-08
+degrade_time 0.00841604
+convert_fromtime 0.000894005
+memcpytime 0.000832643
+scheduletime 0.000101575
+CAPTURE (mem alloc) 1.021e-06
+-----frame below (267)-----
+mem_alloctime 3.698e-06
+convert_totime 0.00227329
+encodetime 0.00442271
+parsetime 2.3278e-05
+decodetime 0.00338462
+parsetime 4.836e-06
+decodetime 3.9e-08
+degrade_time 0.00784493
+convert_fromtime 0.000923073
+memcpytime 0.000872206
+scheduletime 0.000109828
+CAPTURE (mem alloc) 8.33e-07
+-----frame below (268)-----
+mem_alloctime 1.838e-05
+convert_totime 0.00257953
+encodetime 0.00499403
+parsetime 2.1792e-05
+decodetime 0.00342436
+parsetime 4.538e-06
+decodetime 5.8e-08
+degrade_time 0.0084543
+convert_fromtime 0.000994757
+memcpytime 0.00091056
+scheduletime 0.000107511
+CAPTURE (mem alloc) 7.26e-07
+-----frame below (269)-----
+mem_alloctime 4.133e-06
+convert_totime 0.00256196
+encodetime 0.00473954
+parsetime 2.2477e-05
+decodetime 0.00345898
+parsetime 3.879e-06
+decodetime 4e-08
+degrade_time 0.00824696
+convert_fromtime 0.000958234
+memcpytime 0.000963517
+scheduletime 9.5689e-05
+CAPTURE (mem alloc) 6.07e-07
+-----frame below (270)-----
+mem_alloctime 3.59e-06
+convert_totime 0.00233688
+encodetime 0.00467835
+parsetime 2.1597e-05
+decodetime 0.00328804
+parsetime 4.444e-06
+decodetime 4.1e-08
+degrade_time 0.00800197
+convert_fromtime 0.000925964
+memcpytime 0.000845619
+scheduletime 0.000126238
+CAPTURE (mem alloc) 7.69e-07
+-----frame below (271)-----
+mem_alloctime 3.785e-06
+convert_totime 0.00258966
+encodetime 0.00464806
+parsetime 2.2973e-05
+decodetime 0.00357885
+parsetime 4.676e-06
+decodetime 4.1e-08
+degrade_time 0.00826415
+convert_fromtime 0.000931307
+memcpytime 0.000839509
+scheduletime 0.000125772
+CAPTURE (mem alloc) 8.29e-07
+-----frame below (272)-----
+mem_alloctime 3.852e-06
+convert_totime 0.00248792
+encodetime 0.00486899
+parsetime 2.2497e-05
+decodetime 0.00360338
+parsetime 4.913e-06
+decodetime 3.9e-08
+degrade_time 0.00850957
+convert_fromtime 0.000931095
+memcpytime 0.000836954
+scheduletime 9.741e-05
+CAPTURE (mem alloc) 8.51e-07
+-----frame below (273)-----
+mem_alloctime 1.6694e-05
+convert_totime 0.00255133
+encodetime 0.00466934
+parsetime 2.2129e-05
+decodetime 0.00347639
+parsetime 4.477e-06
+decodetime 4.3e-08
+degrade_time 0.00818168
+convert_fromtime 0.000952801
+memcpytime 0.000963048
+scheduletime 0.00010168
+CAPTURE (mem alloc) 8.78e-07
+-----frame below (274)-----
+mem_alloctime 3.982e-06
+convert_totime 0.00252028
+encodetime 0.00548458
+parsetime 2.3159e-05
+decodetime 0.00348383
+parsetime 4.351e-06
+decodetime 3.9e-08
+degrade_time 0.00900586
+convert_fromtime 0.000895234
+memcpytime 0.000924351
+scheduletime 0.000133298
+CAPTURE (mem alloc) 6.46e-07
+-----frame below (275)-----
+mem_alloctime 4.4e-06
+convert_totime 0.00235847
+encodetime 0.00450958
+parsetime 2.1428e-05
+decodetime 0.00343527
+parsetime 4.226e-06
+decodetime 4.1e-08
+degrade_time 0.00799889
+convert_fromtime 0.000898504
+memcpytime 0.000852055
+scheduletime 0.000102082
+CAPTURE (mem alloc) 8.65e-07
+-----frame below (276)-----
+mem_alloctime 1.7297e-05
+convert_totime 0.00243632
+encodetime 0.00563069
+parsetime 2.4768e-05
+decodetime 0.00352677
+parsetime 4.633e-06
+decodetime 3.9e-08
+degrade_time 0.00919649
+convert_fromtime 0.000963102
+memcpytime 0.000880636
+scheduletime 0.000112928
+CAPTURE (mem alloc) 3.83e-07
+-----frame below (277)-----
+mem_alloctime 1.466e-06
+convert_totime 0.00259825
+encodetime 0.00509748
+parsetime 2.2207e-05
+decodetime 0.00349928
+parsetime 4.204e-06
+decodetime 3.7e-08
+degrade_time 0.00863174
+convert_fromtime 0.000929225
+memcpytime 0.000860761
+scheduletime 0.000100042
+CAPTURE (mem alloc) 3.84e-07
+-----frame below (278)-----
+mem_alloctime 4.824e-06
+convert_totime 0.00229083
+encodetime 0.00436467
+parsetime 3.4105e-05
+decodetime 0.00342205
+parsetime 3.855e-06
+decodetime 3.8e-08
+degrade_time 0.00783236
+convert_fromtime 0.000930042
+memcpytime 0.000892202
+scheduletime 0.000133695
+CAPTURE (mem alloc) 4.828e-06
+-----frame below (279)-----
+mem_alloctime 1.6098e-05
+convert_totime 0.00236994
+encodetime 0.00432021
+parsetime 2.2959e-05
+decodetime 0.00326879
+parsetime 3.837e-06
+decodetime 3.8e-08
+degrade_time 0.00762533
+convert_fromtime 0.000894906
+memcpytime 0.000838973
+scheduletime 0.000104681
+CAPTURE (mem alloc) 6.5e-07
+-----frame below (280)-----
+mem_alloctime 1.7766e-05
+convert_totime 0.00257926
+encodetime 0.00438723
+parsetime 2.2041e-05
+decodetime 0.00320764
+parsetime 4.103e-06
+decodetime 4.1e-08
+degrade_time 0.00762999
+convert_fromtime 0.000949299
+memcpytime 0.000918331
+scheduletime 0.000103041
+CAPTURE (mem alloc) 6.45e-07
+-----frame below (281)-----
+mem_alloctime 3.309e-06
+convert_totime 0.0024863
+encodetime 0.0046117
+parsetime 3.5207e-05
+decodetime 0.00330684
+parsetime 3.645e-06
+decodetime 4.1e-08
+degrade_time 0.00798203
+convert_fromtime 0.000922244
+memcpytime 0.000872999
+scheduletime 0.000114429
+CAPTURE (mem alloc) 6.61e-07
+-----frame below (282)-----
+mem_alloctime 3.781e-06
+convert_totime 0.00255948
+encodetime 0.0044338
+parsetime 2.14e-05
+decodetime 0.00322481
+parsetime 3.58e-06
+decodetime 4.4e-08
+degrade_time 0.00769333
+convert_fromtime 0.000920143
+memcpytime 0.000866045
+scheduletime 0.000103727
+CAPTURE (mem alloc) 6.46e-07
+-----frame below (283)-----
+mem_alloctime 3.881e-06
+convert_totime 0.00251373
+encodetime 0.00421192
+parsetime 2.2559e-05
+decodetime 0.00309481
+parsetime 3.366e-06
+decodetime 4e-08
+degrade_time 0.0073423
+convert_fromtime 0.000899447
+memcpytime 0.000897677
+scheduletime 9.4985e-05
+CAPTURE (mem alloc) 6.85e-07
+-----frame below (284)-----
+mem_alloctime 3.345e-06
+convert_totime 0.00232822
+encodetime 0.00487821
+parsetime 4.5564e-05
+decodetime 0.00311053
+parsetime 3.283e-06
+decodetime 3.8e-08
+degrade_time 0.00804624
+convert_fromtime 0.000953236
+memcpytime 0.000917314
+scheduletime 0.000101275
+CAPTURE (mem alloc) 4.03e-07
+-----frame below (285)-----
+mem_alloctime 5.836e-06
+convert_totime 0.00244866
+encodetime 0.00477121
+parsetime 2.2062e-05
+decodetime 0.00296498
+parsetime 4.392e-06
+decodetime 4.8e-08
+degrade_time 0.00777331
+convert_fromtime 0.000900095
+memcpytime 0.000835318
+scheduletime 0.000100561
+CAPTURE (mem alloc) 3.67e-07
+-----frame below (286)-----
+mem_alloctime 2.359e-06
+convert_totime 0.00226656
+encodetime 0.0040303
+parsetime 2.2208e-05
+decodetime 0.00303127
+parsetime 3.328e-06
+decodetime 4e-08
+degrade_time 0.00709584
+convert_fromtime 0.000892211
+memcpytime 0.000840223
+scheduletime 0.00011813
+CAPTURE (mem alloc) 4.4e-07
+-----frame below (287)-----
+mem_alloctime 1.955e-06
+convert_totime 0.00241118
+encodetime 0.00423404
+parsetime 2.175e-05
+decodetime 0.00325742
+parsetime 3.539e-06
+decodetime 4.6e-08
+degrade_time 0.00752566
+convert_fromtime 0.00103717
+memcpytime 0.000872283
+scheduletime 0.000102267
+CAPTURE (mem alloc) 4.13e-07
+-----frame below (288)-----
+mem_alloctime 1.6093e-05
+convert_totime 0.00256418
+encodetime 0.00414725
+parsetime 2.1473e-05
+decodetime 0.0030377
+parsetime 3.506e-06
+decodetime 4.1e-08
+degrade_time 0.00721946
+convert_fromtime 0.000891621
+memcpytime 0.000847853
+scheduletime 0.000111968
+CAPTURE (mem alloc) 7.08e-07
+-----frame below (289)-----
+mem_alloctime 3.571e-06
+convert_totime 0.00240974
+encodetime 0.00409987
+parsetime 2.3297e-05
+decodetime 0.00314411
+parsetime 3.84e-06
+decodetime 4.1e-08
+degrade_time 0.00728057
+convert_fromtime 0.000941193
+memcpytime 0.000853405
+scheduletime 0.000103839
+CAPTURE (mem alloc) 7.59e-07
+-----frame below (290)-----
+mem_alloctime 4.079e-06
+convert_totime 0.00234217
+encodetime 0.00405533
+parsetime 2.2658e-05
+decodetime 0.00332896
+parsetime 3.601e-06
+decodetime 4.1e-08
+degrade_time 0.0074207
+convert_fromtime 0.000926998
+memcpytime 0.000881834
+scheduletime 0.000108002
+CAPTURE (mem alloc) 7.06e-07
+-----frame below (291)-----
+mem_alloctime 3.879e-06
+convert_totime 0.00241702
+encodetime 0.00419635
+parsetime 2.3498e-05
+decodetime 0.00312933
+parsetime 3.143e-06
+decodetime 4e-08
+degrade_time 0.00736146
+convert_fromtime 0.000950693
+memcpytime 0.000862662
+scheduletime 0.00010772
+CAPTURE (mem alloc) 3.7e-07
+-----frame below (292)-----
+mem_alloctime 2.402e-06
+convert_totime 0.0025323
+encodetime 0.00412769
+parsetime 2.0973e-05
+decodetime 0.00320572
+parsetime 3.462e-06
+decodetime 4.3e-08
+degrade_time 0.0073673
+convert_fromtime 0.000927414
+memcpytime 0.00086433
+scheduletime 0.000102569
+CAPTURE (mem alloc) 8.82e-07
+-----frame below (293)-----
+mem_alloctime 3.077e-06
+convert_totime 0.00232654
+encodetime 0.0040691
+parsetime 2.3444e-05
+decodetime 0.00318632
+parsetime 3.558e-06
+decodetime 3.7e-08
+degrade_time 0.00729204
+convert_fromtime 0.000936727
+memcpytime 0.000876659
+scheduletime 0.000117397
+CAPTURE (mem alloc) 9.15e-07
+-----frame below (294)-----
+mem_alloctime 5.803e-06
+convert_totime 0.00258494
+encodetime 0.00401982
+parsetime 2.2194e-05
+decodetime 0.00302476
+parsetime 3.386e-06
+decodetime 5e-08
+degrade_time 0.00707972
+convert_fromtime 0.000936243
+memcpytime 0.000871309
+scheduletime 0.000106973
+CAPTURE (mem alloc) 8.63e-07
+-----frame below (295)-----
+mem_alloctime 3.36e-06
+convert_totime 0.00258982
+encodetime 0.00409265
+parsetime 2.2476e-05
+decodetime 0.00304007
+parsetime 3.926e-06
+decodetime 3.9e-08
+degrade_time 0.00716883
+convert_fromtime 0.000933475
+memcpytime 0.000838244
+scheduletime 0.000110564
+CAPTURE (mem alloc) 6.53e-07
+-----frame below (296)-----
+mem_alloctime 4.803e-06
+convert_totime 0.00257638
+encodetime 0.00428511
+parsetime 2.2362e-05
+decodetime 0.00317996
+parsetime 3.486e-06
+decodetime 3.8e-08
+degrade_time 0.00750081
+convert_fromtime 0.000975518
+memcpytime 0.000970629
+scheduletime 9.5589e-05
+CAPTURE (mem alloc) 1.111e-06
+-----frame below (297)-----
+mem_alloctime 4.471e-06
+convert_totime 0.00224441
+encodetime 0.00482043
+parsetime 2.2392e-05
+decodetime 0.00314961
+parsetime 3.89e-06
+decodetime 4.2e-08
+degrade_time 0.00800546
+convert_fromtime 0.000951635
+memcpytime 0.000844274
+scheduletime 0.00011455
+CAPTURE (mem alloc) 7.19e-07
+-----frame below (298)-----
+mem_alloctime 4.086e-06
+convert_totime 0.00259961
+encodetime 0.0048569
+parsetime 2.1997e-05
+decodetime 0.00320983
+parsetime 3.716e-06
+decodetime 4.3e-08
+degrade_time 0.00810145
+convert_fromtime 0.000917585
+memcpytime 0.00086427
+scheduletime 0.00011408
+CAPTURE (mem alloc) 3.78e-07
+-----frame below (299)-----
+mem_alloctime 1.266e-06
+convert_totime 0.00229719
+encodetime 0.00396596
+parsetime 2.2481e-05
+decodetime 0.00323439
+parsetime 3.364e-06
+decodetime 4e-08
+degrade_time 0.00723484
+convert_fromtime 0.000958606
+memcpytime 0.000893814
+scheduletime 0.000149289
+CAPTURE (mem alloc) 5.289e-06
+-----frame below (300)-----
+mem_alloctime 3.748e-06
+convert_totime 0.00255325
+encodetime 0.00381491
+parsetime 2.3197e-05
+decodetime 0.0031381
+parsetime 3.224e-06
+decodetime 4.4e-08
+degrade_time 0.00698886
+convert_fromtime 0.000888692
+memcpytime 0.000874975
+scheduletime 0.000104542
+CAPTURE (mem alloc) 5.63e-07
+-----frame below (301)-----
+mem_alloctime 4.457e-06
+convert_totime 0.00228689
+encodetime 0.00417364
+parsetime 2.3049e-05
+decodetime 0.00308707
+parsetime 3.631e-06
+decodetime 4.1e-08
+degrade_time 0.00730886
+convert_fromtime 0.000957414
+memcpytime 0.000863026
+scheduletime 0.00010963
+CAPTURE (mem alloc) 7.47e-07
+-----frame below (302)-----
+mem_alloctime 4.408e-06
+convert_totime 0.00254969
+encodetime 0.00395446
+parsetime 2.281e-05
+decodetime 0.00332539
+parsetime 3.495e-06
+decodetime 3.9e-08
+degrade_time 0.0073165
+convert_fromtime 0.000949974
+memcpytime 0.000923082
+scheduletime 0.000102117
+CAPTURE (mem alloc) 3.94e-07
+-----frame below (303)-----
+mem_alloctime 1.408e-06
+convert_totime 0.00230598
+encodetime 0.00389144
+parsetime 2.2456e-05
+decodetime 0.00309184
+parsetime 3.667e-06
+decodetime 3.8e-08
+degrade_time 0.00703046
+convert_fromtime 0.000895485
+memcpytime 0.000830588
+scheduletime 0.000105825
+CAPTURE (mem alloc) 7.15e-07
+-----frame below (304)-----
+mem_alloctime 3.76e-06
+convert_totime 0.00255589
+encodetime 0.00408071
+parsetime 2.1392e-05
+decodetime 0.00313102
+parsetime 3.845e-06
+decodetime 4e-08
+degrade_time 0.00724625
+convert_fromtime 0.000930733
+memcpytime 0.000875607
+scheduletime 0.000110726
+CAPTURE (mem alloc) 8.01e-07
+-----frame below (305)-----
+mem_alloctime 2.981e-06
+convert_totime 0.00256377
+encodetime 0.00400208
+parsetime 2.199e-05
+decodetime 0.00311773
+parsetime 3.491e-06
+decodetime 3.8e-08
+degrade_time 0.00715478
+convert_fromtime 0.000901809
+memcpytime 0.000993998
+scheduletime 0.000103566
+CAPTURE (mem alloc) 6.48e-07
+-----frame below (306)-----
+mem_alloctime 4.857e-06
+convert_totime 0.00257578
+encodetime 0.00389323
+parsetime 2.3244e-05
+decodetime 0.00323246
+parsetime 3.83e-06
+decodetime 4.3e-08
+degrade_time 0.00716225
+convert_fromtime 0.000993622
+memcpytime 0.000880265
+scheduletime 0.000111553
+CAPTURE (mem alloc) 7.22e-07
+-----frame below (307)-----
+mem_alloctime 4.087e-06
+convert_totime 0.00264101
+encodetime 0.00386143
+parsetime 2.2503e-05
+decodetime 0.00317588
+parsetime 4.141e-06
+decodetime 3.9e-08
+degrade_time 0.00707453
+convert_fromtime 0.000907616
+memcpytime 0.00083847
+scheduletime 0.000103979
+CAPTURE (mem alloc) 7.2e-07
+-----frame below (308)-----
+mem_alloctime 3.654e-06
+convert_totime 0.00262008
+encodetime 0.00395794
+parsetime 4.8712e-05
+decodetime 0.00323858
+parsetime 4.203e-06
+decodetime 3.7e-08
+degrade_time 0.007259
+convert_fromtime 0.000893314
+memcpytime 0.000874086
+scheduletime 0.000106468
+CAPTURE (mem alloc) 6.8e-07
+-----frame below (309)-----
+mem_alloctime 3.44e-06
+convert_totime 0.0024023
+encodetime 0.00427766
+parsetime 2.2632e-05
+decodetime 0.00324854
+parsetime 3.797e-06
+decodetime 3.7e-08
+degrade_time 0.00756303
+convert_fromtime 0.000917697
+memcpytime 0.000847388
+scheduletime 0.000103739
+CAPTURE (mem alloc) 8.44e-07
+-----frame below (310)-----
+mem_alloctime 4.418e-06
+convert_totime 0.00233273
+encodetime 0.00540789
+parsetime 2.2114e-05
+decodetime 0.00329697
+parsetime 3.606e-06
+decodetime 4.3e-08
+degrade_time 0.00874009
+convert_fromtime 0.00100634
+memcpytime 0.000895691
+scheduletime 9.8532e-05
+CAPTURE (mem alloc) 6.17e-07
+-----frame below (311)-----
+mem_alloctime 3.119e-06
+convert_totime 0.00252367
+encodetime 0.00415371
+parsetime 2.3169e-05
+decodetime 0.00311129
+parsetime 3.799e-06
+decodetime 4.1e-08
+degrade_time 0.00730081
+convert_fromtime 0.000922668
+memcpytime 0.000876713
+scheduletime 0.000111833
+CAPTURE (mem alloc) 7.16e-07
+-----frame below (312)-----
+mem_alloctime 6.017e-06
+convert_totime 0.00251799
+encodetime 0.00501345
+parsetime 2.3016e-05
+decodetime 0.00308069
+parsetime 3.576e-06
+decodetime 3.9e-08
+degrade_time 0.00813099
+convert_fromtime 0.00101882
+memcpytime 0.000888408
+scheduletime 0.000107916
+CAPTURE (mem alloc) 7.01e-07
+-----frame below (313)-----
+mem_alloctime 1.796e-05
+convert_totime 0.00262997
+encodetime 0.00469516
+parsetime 3.633e-05
+decodetime 0.00334536
+parsetime 3.429e-06
+decodetime 4.1e-08
+degrade_time 0.00810224
+convert_fromtime 0.00103099
+memcpytime 0.000876884
+scheduletime 0.000104196
+CAPTURE (mem alloc) 6.62e-07
+-----frame below (314)-----
+mem_alloctime 3.434e-06
+convert_totime 0.00251254
+encodetime 0.00390793
+parsetime 2.2439e-05
+decodetime 0.00312091
+parsetime 3.501e-06
+decodetime 4.3e-08
+degrade_time 0.00707752
+convert_fromtime 0.00110612
+memcpytime 0.000971108
+scheduletime 0.000134608
+CAPTURE (mem alloc) 1.109e-06
+-----frame below (315)-----
+mem_alloctime 3.198e-06
+convert_totime 0.00230964
+encodetime 0.00388153
+parsetime 2.3994e-05
+decodetime 0.0031152
+parsetime 3.221e-06
+decodetime 3.6e-08
+degrade_time 0.00703344
+convert_fromtime 0.000988517
+memcpytime 0.000884867
+scheduletime 0.000109935
+CAPTURE (mem alloc) 6.95e-07
+-----frame below (316)-----
+mem_alloctime 4.315e-06
+convert_totime 0.0025518
+encodetime 0.00378672
+parsetime 2.1764e-05
+decodetime 0.00305484
+parsetime 3.536e-06
+decodetime 3.8e-08
+degrade_time 0.00687456
+convert_fromtime 0.000956196
+memcpytime 0.000879054
+scheduletime 0.00010918
+CAPTURE (mem alloc) 3.58e-07
+-----frame below (317)-----
+mem_alloctime 1.573e-06
+convert_totime 0.00251995
+encodetime 0.00481209
+parsetime 2.3228e-05
+decodetime 0.00295282
+parsetime 3.745e-06
+decodetime 3.9e-08
+degrade_time 0.00780278
+convert_fromtime 0.000912036
+memcpytime 0.000908364
+scheduletime 0.000112821
+CAPTURE (mem alloc) 3.9e-07
+-----frame below (318)-----
+mem_alloctime 4.409e-06
+convert_totime 0.00252941
+encodetime 0.00456656
+parsetime 2.1984e-05
+decodetime 0.00308404
+parsetime 3.364e-06
+decodetime 3.5e-08
+degrade_time 0.0076857
+convert_fromtime 0.000931406
+memcpytime 0.000970519
+scheduletime 0.000116457
+CAPTURE (mem alloc) 7.36e-07
+-----frame below (319)-----
+mem_alloctime 2.749e-06
+convert_totime 0.00265727
+encodetime 0.00395334
+parsetime 2.1559e-05
+decodetime 0.00299463
+parsetime 3.564e-06
+decodetime 4.5e-08
+degrade_time 0.00698219
+convert_fromtime 0.000895369
+memcpytime 0.000850315
+scheduletime 0.000103907
+CAPTURE (mem alloc) 3.47e-07
+-----frame below (320)-----
+mem_alloctime 6.438e-06
+convert_totime 0.00235687
+encodetime 0.00418498
+parsetime 3.7628e-05
+decodetime 0.00305844
+parsetime 3.488e-06
+decodetime 3.9e-08
+degrade_time 0.00729336
+convert_fromtime 0.000958209
+memcpytime 0.000885292
+scheduletime 0.000109675
+CAPTURE (mem alloc) 5.079e-06
+-----frame below (321)-----
+mem_alloctime 3.743e-06
+convert_totime 0.0025104
+encodetime 0.00393728
+parsetime 2.2417e-05
+decodetime 0.00295909
+parsetime 3.241e-06
+decodetime 4.2e-08
+degrade_time 0.00693112
+convert_fromtime 0.000922348
+memcpytime 0.000872844
+scheduletime 0.000103606
+CAPTURE (mem alloc) 3.79e-07
+-----frame below (322)-----
+mem_alloctime 2.29e-06
+convert_totime 0.00261223
+encodetime 0.0040062
+parsetime 2.1631e-05
+decodetime 0.00299413
+parsetime 3.326e-06
+decodetime 3.9e-08
+degrade_time 0.00703375
+convert_fromtime 0.000893151
+memcpytime 0.00083897
+scheduletime 0.00010251
+CAPTURE (mem alloc) 6.52e-07
+-----frame below (323)-----
+mem_alloctime 3.946e-06
+convert_totime 0.00233812
+encodetime 0.00380516
+parsetime 2.3715e-05
+decodetime 0.00307507
+parsetime 3.416e-06
+decodetime 3.8e-08
+degrade_time 0.00691649
+convert_fromtime 0.00095116
+memcpytime 0.000892615
+scheduletime 0.000109883
+CAPTURE (mem alloc) 3.6e-07
+-----frame below (324)-----
+mem_alloctime 1.6056e-05
+convert_totime 0.00250069
+encodetime 0.00431801
+parsetime 3.6817e-05
+decodetime 0.00302889
+parsetime 3.34e-06
+decodetime 3.8e-08
+degrade_time 0.00739506
+convert_fromtime 0.000961889
+memcpytime 0.000883944
+scheduletime 0.000109366
+CAPTURE (mem alloc) 4.12e-07
+-----frame below (325)-----
+mem_alloctime 1.932e-06
+convert_totime 0.00256988
+encodetime 0.00425113
+parsetime 2.2197e-05
+decodetime 0.00299462
+parsetime 2.905e-06
+decodetime 3.8e-08
+degrade_time 0.00727888
+convert_fromtime 0.00095086
+memcpytime 0.000862325
+scheduletime 9.9668e-05
+CAPTURE (mem alloc) 7.49e-07
+-----frame below (326)-----
+mem_alloctime 6.101e-06
+convert_totime 0.00237688
+encodetime 0.00394809
+parsetime 3.4959e-05
+decodetime 0.00306254
+parsetime 3.363e-06
+decodetime 3.8e-08
+degrade_time 0.00705759
+convert_fromtime 0.000930518
+memcpytime 0.000882394
+scheduletime 0.00011095
+CAPTURE (mem alloc) 8.48e-07
+-----frame below (327)-----
+mem_alloctime 3.587e-06
+convert_totime 0.00260022
+encodetime 0.00397951
+parsetime 2.1971e-05
+decodetime 0.00290226
+parsetime 2.947e-06
+decodetime 3.6e-08
+degrade_time 0.00691562
+convert_fromtime 0.00092511
+memcpytime 0.000872824
+scheduletime 0.000102198
+CAPTURE (mem alloc) 6.46e-07
+-----frame below (328)-----
+mem_alloctime 4.268e-06
+convert_totime 0.00231711
+encodetime 0.00381
+parsetime 2.3212e-05
+decodetime 0.0030278
+parsetime 3.101e-06
+decodetime 4.5e-08
+degrade_time 0.00689202
+convert_fromtime 0.000918389
+memcpytime 0.000878402
+scheduletime 0.000103283
+CAPTURE (mem alloc) 7.15e-07
+-----frame below (329)-----
+mem_alloctime 1.8732e-05
+convert_totime 0.00234541
+encodetime 0.00433975
+parsetime 2.3083e-05
+decodetime 0.00298517
+parsetime 3.266e-06
+decodetime 4.2e-08
+degrade_time 0.00736231
+convert_fromtime 0.000924036
+memcpytime 0.000843941
+scheduletime 0.000100979
+CAPTURE (mem alloc) 4.61e-07
+-----frame below (330)-----
+mem_alloctime 4.006e-06
+convert_totime 0.00229767
+encodetime 0.00388686
+parsetime 3.4383e-05
+decodetime 0.00298308
+parsetime 3.04e-06
+decodetime 3.8e-08
+degrade_time 0.00692999
+convert_fromtime 0.000889283
+memcpytime 0.000881392
+scheduletime 0.00010154
+CAPTURE (mem alloc) 4.23e-07
+-----frame below (331)-----
+mem_alloctime 1.729e-06
+convert_totime 0.00254502
+encodetime 0.0050514
+parsetime 2.2333e-05
+decodetime 0.00308006
+parsetime 3.741e-06
+decodetime 4.6e-08
+degrade_time 0.0081659
+convert_fromtime 0.000936904
+memcpytime 0.000898662
+scheduletime 0.000107945
+CAPTURE (mem alloc) 4.17e-07
+-----frame below (332)-----
+mem_alloctime 2.522e-06
+convert_totime 0.00233428
+encodetime 0.00427793
+parsetime 2.4159e-05
+decodetime 0.00314915
+parsetime 3.447e-06
+decodetime 3.9e-08
+degrade_time 0.00746331
+convert_fromtime 0.000891739
+memcpytime 0.00087516
+scheduletime 0.000102281
+CAPTURE (mem alloc) 4.41e-07
+-----frame below (333)-----
+mem_alloctime 1.426e-06
+convert_totime 0.00244494
+encodetime 0.00410317
+parsetime 3.4493e-05
+decodetime 0.00310331
+parsetime 3.682e-06
+decodetime 5e-08
+degrade_time 0.00725362
+convert_fromtime 0.00100837
+memcpytime 0.000880863
+scheduletime 0.0001067
+CAPTURE (mem alloc) 7.62e-07
+-----frame below (334)-----
+mem_alloctime 6.397e-06
+convert_totime 0.00224673
+encodetime 0.00390154
+parsetime 3.4319e-05
+decodetime 0.00299979
+parsetime 3.58e-06
+decodetime 4e-08
+degrade_time 0.00694938
+convert_fromtime 0.000889813
+memcpytime 0.000850311
+scheduletime 0.000104202
+CAPTURE (mem alloc) 7.67e-07
+-----frame below (335)-----
+mem_alloctime 3.069e-06
+convert_totime 0.00233262
+encodetime 0.00407326
+parsetime 2.2014e-05
+decodetime 0.00301078
+parsetime 3.432e-06
+decodetime 4.9e-08
+degrade_time 0.00711787
+convert_fromtime 0.000895231
+memcpytime 0.000846287
+scheduletime 0.000101147
+CAPTURE (mem alloc) 1.0198e-05
+-----frame below (336)-----
+mem_alloctime 4.0211e-05
+convert_totime 0.00225296
+encodetime 0.00396125
+parsetime 2.1505e-05
+decodetime 0.00297492
+parsetime 3.261e-06
+decodetime 4.1e-08
+degrade_time 0.00697008
+convert_fromtime 0.0282491
+memcpytime 0.00104295
+scheduletime 0.00010849
+CAPTURE (mem alloc) 4.5e-07
+-----frame below (337)-----
+mem_alloctime 3.055e-06
+convert_totime 0.00233408
+encodetime 0.00404147
+parsetime 2.2424e-05
+decodetime 0.00320266
+parsetime 3.616e-06
+decodetime 7.6e-08
+degrade_time 0.00728883
+convert_fromtime 0.000954413
+memcpytime 0.000882071
+scheduletime 9.8418e-05
+CAPTURE (mem alloc) 3.58e-07
+-----frame below (338)-----
+mem_alloctime 1.5442e-05
+convert_totime 0.00257272
+encodetime 0.00437324
+parsetime 2.9956e-05
+decodetime 0.00304763
+parsetime 3.314e-06
+decodetime 4.2e-08
+degrade_time 0.00746323
+convert_fromtime 0.000890899
+memcpytime 0.000973078
+scheduletime 0.000128492
+CAPTURE (mem alloc) 8.94e-07
+-----frame below (339)-----
+mem_alloctime 3.86e-06
+convert_totime 0.00250739
+encodetime 0.00419924
+parsetime 2.1497e-05
+decodetime 0.00305491
+parsetime 3.473e-06
+decodetime 4.4e-08
+degrade_time 0.00728886
+convert_fromtime 0.00095549
+memcpytime 0.000885086
+scheduletime 0.000109576
+CAPTURE (mem alloc) 7.95e-07
+-----frame below (340)-----
+mem_alloctime 1.7288e-05
+convert_totime 0.00257011
+encodetime 0.00416113
+parsetime 3.1904e-05
+decodetime 0.0029101
+parsetime 3.234e-06
+decodetime 3.7e-08
+degrade_time 0.00711619
+convert_fromtime 0.000939222
+memcpytime 0.00104244
+scheduletime 0.000101099
+CAPTURE (mem alloc) 8.62e-07
+-----frame below (341)-----
+mem_alloctime 3.494e-06
+convert_totime 0.00255332
+encodetime 0.00526815
+parsetime 5.0163e-05
+decodetime 0.00311963
+parsetime 3.646e-06
+decodetime 4.3e-08
+degrade_time 0.00846418
+convert_fromtime 0.000976812
+memcpytime 0.000995279
+scheduletime 0.000109785
+CAPTURE (mem alloc) 1.081e-06
+-----frame below (342)-----
+mem_alloctime 3.946e-06
+convert_totime 0.00264635
+encodetime 0.00408913
+parsetime 4.5375e-05
+decodetime 0.00301255
+parsetime 3.551e-06
+decodetime 3.9e-08
+degrade_time 0.00716022
+convert_fromtime 0.000925877
+memcpytime 0.000874874
+scheduletime 0.000102208
+CAPTURE (mem alloc) 9.44e-07
+-----frame below (343)-----
+mem_alloctime 1.7077e-05
+convert_totime 0.00235746
+encodetime 0.0042195
+parsetime 3.1032e-05
+decodetime 0.00300451
+parsetime 3.292e-06
+decodetime 3.9e-08
+degrade_time 0.00726761
+convert_fromtime 0.000950525
+memcpytime 0.000897183
+scheduletime 0.000112046
+CAPTURE (mem alloc) 8.16e-07
+-----frame below (344)-----
+mem_alloctime 4.453e-06
+convert_totime 0.0024253
+encodetime 0.00406752
+parsetime 2.7595e-05
+decodetime 0.00296638
+parsetime 3.226e-06
+decodetime 4.1e-08
+degrade_time 0.007075
+convert_fromtime 0.000892103
+memcpytime 0.000847833
+scheduletime 0.000102554
+CAPTURE (mem alloc) 7.98e-07
+-----frame below (345)-----
+mem_alloctime 3.478e-06
+convert_totime 0.00238883
+encodetime 0.00397707
+parsetime 3.1131e-05
+decodetime 0.00308006
+parsetime 3.726e-06
+decodetime 4.2e-08
+degrade_time 0.00710219
+convert_fromtime 0.000922076
+memcpytime 0.000914974
+scheduletime 0.00011053
+CAPTURE (mem alloc) 1.273e-06
+-----frame below (346)-----
+mem_alloctime 1.7196e-05
+convert_totime 0.00267482
+encodetime 0.00401775
+parsetime 2.9961e-05
+decodetime 0.00307995
+parsetime 3.665e-06
+decodetime 4e-08
+degrade_time 0.00714098
+convert_fromtime 0.000925059
+memcpytime 0.000881266
+scheduletime 0.000102132
+CAPTURE (mem alloc) 1.13e-06
+-----frame below (347)-----
+mem_alloctime 3.429e-06
+convert_totime 0.00256774
+encodetime 0.00414462
+parsetime 3.1287e-05
+decodetime 0.0031785
+parsetime 3.935e-06
+decodetime 4.1e-08
+degrade_time 0.00736808
+convert_fromtime 0.000979865
+memcpytime 0.00109899
+scheduletime 0.000101424
+CAPTURE (mem alloc) 1.146e-06
+-----frame below (348)-----
+mem_alloctime 4.425e-06
+convert_totime 0.00256817
+encodetime 0.00419999
+parsetime 3.1206e-05
+decodetime 0.00322824
+parsetime 3.306e-06
+decodetime 4.1e-08
+degrade_time 0.00747324
+convert_fromtime 0.000966759
+memcpytime 0.000904505
+scheduletime 0.000107083
+CAPTURE (mem alloc) 1.161e-06
+-----frame below (349)-----
+mem_alloctime 3.179e-06
+convert_totime 0.00247766
+encodetime 0.00418567
+parsetime 4.3118e-05
+decodetime 0.003042
+parsetime 3.607e-06
+decodetime 4.1e-08
+degrade_time 0.00729901
+convert_fromtime 0.000952059
+memcpytime 0.000857647
+scheduletime 0.000109679
+CAPTURE (mem alloc) 4.42e-07
+-----frame below (350)-----
+mem_alloctime 3.466e-06
+convert_totime 0.0025316
+encodetime 0.0043577
+parsetime 2.739e-05
+decodetime 0.00323565
+parsetime 3.903e-06
+decodetime 4e-08
+degrade_time 0.00764726
+convert_fromtime 0.000926673
+memcpytime 0.000947323
+scheduletime 0.00012932
+CAPTURE (mem alloc) 6.9e-07
+-----frame below (351)-----
+mem_alloctime 1.519e-06
+convert_totime 0.00227833
+encodetime 0.00430937
+parsetime 3.1093e-05
+decodetime 0.00312365
+parsetime 3.281e-06
+decodetime 4.1e-08
+degrade_time 0.00747628
+convert_fromtime 0.000925306
+memcpytime 0.000882337
+scheduletime 0.000100501
+CAPTURE (mem alloc) 5.08e-07
+-----frame below (352)-----
+mem_alloctime 1.7132e-05
+convert_totime 0.00265579
+encodetime 0.00437377
+parsetime 2.7613e-05
+decodetime 0.00310039
+parsetime 3.66e-06
+decodetime 5.2e-08
+degrade_time 0.00751411
+convert_fromtime 0.000936742
+memcpytime 0.000920718
+scheduletime 9.5383e-05
+CAPTURE (mem alloc) 4.43e-07
+-----frame below (353)-----
+mem_alloctime 2.748e-06
+convert_totime 0.00233892
+encodetime 0.00372766
+parsetime 3.3859e-05
+decodetime 0.00317346
+parsetime 3.177e-06
+decodetime 3.7e-08
+degrade_time 0.00694724
+convert_fromtime 0.00100549
+memcpytime 0.000854697
+scheduletime 0.000122206
+CAPTURE (mem alloc) 4.29e-07
+-----frame below (354)-----
+mem_alloctime 1.5657e-05
+convert_totime 0.00234435
+encodetime 0.00395077
+parsetime 4.7426e-05
+decodetime 0.00286354
+parsetime 3.094e-06
+decodetime 3.8e-08
+degrade_time 0.00687337
+convert_fromtime 0.000926833
+memcpytime 0.000940141
+scheduletime 0.000101949
+CAPTURE (mem alloc) 3.89e-07
+-----frame below (355)-----
+mem_alloctime 1.802e-06
+convert_totime 0.00267993
+encodetime 0.00424765
+parsetime 2.8579e-05
+decodetime 0.00291805
+parsetime 2.873e-06
+decodetime 3.6e-08
+degrade_time 0.00720574
+convert_fromtime 0.000898143
+memcpytime 0.000845945
+scheduletime 0.000102803
+CAPTURE (mem alloc) 4.62e-07
+-----frame below (356)-----
+mem_alloctime 1.814e-06
+convert_totime 0.00232661
+encodetime 0.00389798
+parsetime 3.0213e-05
+decodetime 0.00285092
+parsetime 2.996e-06
+decodetime 3.6e-08
+degrade_time 0.00679095
+convert_fromtime 0.00089172
+memcpytime 0.000841873
+scheduletime 0.000101236
+CAPTURE (mem alloc) 3.23e-06
+-----frame below (357)-----
+mem_alloctime 3.529e-06
+convert_totime 0.00256632
+encodetime 0.00402601
+parsetime 2.9353e-05
+decodetime 0.00293474
+parsetime 3.658e-06
+decodetime 3.9e-08
+degrade_time 0.00701489
+convert_fromtime 0.000898258
+memcpytime 0.000863865
+scheduletime 0.000102935
+CAPTURE (mem alloc) 4.58e-07
+-----frame below (358)-----
+mem_alloctime 2.063e-06
+convert_totime 0.0023788
+encodetime 0.00440564
+parsetime 3.1028e-05
+decodetime 0.00319226
+parsetime 3.471e-06
+decodetime 4e-08
+degrade_time 0.007641
+convert_fromtime 0.000889684
+memcpytime 0.000844679
+scheduletime 0.000100937
+CAPTURE (mem alloc) 7.31e-07
+-----frame below (359)-----
+mem_alloctime 3.707e-06
+convert_totime 0.00240559
+encodetime 0.00422249
+parsetime 3.1231e-05
+decodetime 0.00315636
+parsetime 3.386e-06
+decodetime 4.3e-08
+degrade_time 0.00742338
+convert_fromtime 0.000944329
+memcpytime 0.000910336
+scheduletime 0.000102303
+CAPTURE (mem alloc) 8.22e-07
+-----frame below (360)-----
+mem_alloctime 3.863e-06
+convert_totime 0.0026253
+encodetime 0.00435318
+parsetime 3.274e-05
+decodetime 0.00330737
+parsetime 3.582e-06
+decodetime 4.3e-08
+degrade_time 0.00770649
+convert_fromtime 0.000965763
+memcpytime 0.000984141
+scheduletime 9.6921e-05
+CAPTURE (mem alloc) 8.55e-07
+-----frame below (361)-----
+mem_alloctime 3.581e-06
+convert_totime 0.00249528
+encodetime 0.00448691
+parsetime 6.6966e-05
+decodetime 0.0032639
+parsetime 3.459e-06
+decodetime 4.1e-08
+degrade_time 0.00783024
+convert_fromtime 0.000931206
+memcpytime 0.00084041
+scheduletime 0.000128922
+CAPTURE (mem alloc) 7.05e-07
+-----frame below (362)-----
+mem_alloctime 3.803e-06
+convert_totime 0.0025127
+encodetime 0.00411084
+parsetime 4.4605e-05
+decodetime 0.00318462
+parsetime 3.511e-06
+decodetime 4.5e-08
+degrade_time 0.00735379
+convert_fromtime 0.000893995
+memcpytime 0.000858757
+scheduletime 0.000103864
+CAPTURE (mem alloc) 7.94e-07
+-----frame below (363)-----
+mem_alloctime 1.8306e-05
+convert_totime 0.00257862
+encodetime 0.00439415
+parsetime 3.1424e-05
+decodetime 0.0030566
+parsetime 3.407e-06
+decodetime 3.8e-08
+degrade_time 0.00749574
+convert_fromtime 0.000894612
+memcpytime 0.000853866
+scheduletime 0.00010371
+CAPTURE (mem alloc) 7.69e-07
+-----frame below (364)-----
+mem_alloctime 1.9049e-05
+convert_totime 0.00238549
+encodetime 0.00489448
+parsetime 3.2714e-05
+decodetime 0.00314076
+parsetime 3.721e-06
+decodetime 4.3e-08
+degrade_time 0.00808308
+convert_fromtime 0.00090394
+memcpytime 0.000844434
+scheduletime 0.000105885
+CAPTURE (mem alloc) 9.64e-07
+-----frame below (365)-----
+mem_alloctime 3.511e-06
+convert_totime 0.00254507
+encodetime 0.00440118
+parsetime 3.4941e-05
+decodetime 0.00317364
+parsetime 3.573e-06
+decodetime 4.4e-08
+degrade_time 0.00762238
+convert_fromtime 0.000956186
+memcpytime 0.000942069
+scheduletime 0.000137676
+CAPTURE (mem alloc) 7.26e-07
+-----frame below (366)-----
+mem_alloctime 1.938e-05
+convert_totime 0.00251054
+encodetime 0.00408272
+parsetime 3.0312e-05
+decodetime 0.0032646
+parsetime 3.451e-06
+decodetime 4.7e-08
+degrade_time 0.00739097
+convert_fromtime 0.00095338
+memcpytime 0.000911038
+scheduletime 0.000103382
+CAPTURE (mem alloc) 5.01e-07
+-----frame below (367)-----
+mem_alloctime 3.144e-06
+convert_totime 0.00231503
+encodetime 0.00409335
+parsetime 4.6557e-05
+decodetime 0.0031328
+parsetime 3.798e-06
+decodetime 3.8e-08
+degrade_time 0.00728566
+convert_fromtime 0.000926145
+memcpytime 0.000925706
+scheduletime 0.000100235
+CAPTURE (mem alloc) 4.24e-07
+-----frame below (368)-----
+mem_alloctime 1.658e-06
+convert_totime 0.00251362
+encodetime 0.00421635
+parsetime 2.9004e-05
+decodetime 0.00331889
+parsetime 3.934e-06
+decodetime 3.7e-08
+degrade_time 0.00758956
+convert_fromtime 0.000944449
+memcpytime 0.000906191
+scheduletime 0.000107968
+CAPTURE (mem alloc) 9.6e-07
+-----frame below (369)-----
+mem_alloctime 3.699e-06
+convert_totime 0.00256432
+encodetime 0.00394529
+parsetime 4.7024e-05
+decodetime 0.00316975
+parsetime 4.332e-06
+decodetime 4e-08
+degrade_time 0.00719072
+convert_fromtime 0.000912403
+memcpytime 0.000883178
+scheduletime 0.000102732
+CAPTURE (mem alloc) 4.76e-07
+-----frame below (370)-----
+mem_alloctime 2.568e-06
+convert_totime 0.00255383
+encodetime 0.0051613
+parsetime 2.9638e-05
+decodetime 0.00322583
+parsetime 1.7945e-05
+decodetime 4.2e-08
+degrade_time 0.00845695
+convert_fromtime 0.000937145
+memcpytime 0.000982733
+scheduletime 9.4836e-05
+CAPTURE (mem alloc) 4.1e-07
+-----frame below (371)-----
+mem_alloctime 3.259e-06
+convert_totime 0.00229912
+encodetime 0.00416746
+parsetime 3.0342e-05
+decodetime 0.00320295
+parsetime 3.946e-06
+decodetime 4.3e-08
+degrade_time 0.00741383
+convert_fromtime 0.000940786
+memcpytime 0.000876207
+scheduletime 0.000103773
+CAPTURE (mem alloc) 4.2e-07
+-----frame below (372)-----
+mem_alloctime 1.6587e-05
+convert_totime 0.00251703
+encodetime 0.00419879
+parsetime 2.8467e-05
+decodetime 0.00318065
+parsetime 3.85e-06
+decodetime 3.7e-08
+degrade_time 0.00742093
+convert_fromtime 0.000901117
+memcpytime 0.000957094
+scheduletime 9.5077e-05
+CAPTURE (mem alloc) 7.95e-07
+-----frame below (373)-----
+mem_alloctime 3.182e-06
+convert_totime 0.00226488
+encodetime 0.00437978
+parsetime 4.5279e-05
+decodetime 0.00313495
+parsetime 3.626e-06
+decodetime 4.2e-08
+degrade_time 0.00757295
+convert_fromtime 0.000896981
+memcpytime 0.000843989
+scheduletime 0.000102155
+CAPTURE (mem alloc) 4.53e-07
+-----frame below (374)-----
+mem_alloctime 1.5166e-05
+convert_totime 0.00250242
+encodetime 0.00431007
+parsetime 4.2965e-05
+decodetime 0.00313692
+parsetime 3.718e-06
+decodetime 4e-08
+degrade_time 0.00750238
+convert_fromtime 0.000957732
+memcpytime 0.000847974
+scheduletime 0.000108827
+CAPTURE (mem alloc) 7.92e-07
+-----frame below (375)-----
+mem_alloctime 4.03e-06
+convert_totime 0.00260942
+encodetime 0.00494122
+parsetime 4.2422e-05
+decodetime 0.00311754
+parsetime 3.411e-06
+decodetime 3.8e-08
+degrade_time 0.00811464
+convert_fromtime 0.000921836
+memcpytime 0.00094253
+scheduletime 0.000111653
+CAPTURE (mem alloc) 6.41e-07
+-----frame below (376)-----
+mem_alloctime 1.7502e-05
+convert_totime 0.00232401
+encodetime 0.00426725
+parsetime 3.1184e-05
+decodetime 0.00326313
+parsetime 3.567e-06
+decodetime 4e-08
+degrade_time 0.00757545
+convert_fromtime 0.000940003
+memcpytime 0.000884399
+scheduletime 0.000115945
+CAPTURE (mem alloc) 7.97e-07
+-----frame below (377)-----
+mem_alloctime 3.463e-06
+convert_totime 0.00243418
+encodetime 0.00438427
+parsetime 3.3909e-05
+decodetime 0.00319176
+parsetime 3.567e-06
+decodetime 3.7e-08
+degrade_time 0.00762326
+convert_fromtime 0.000993595
+memcpytime 0.000950579
+scheduletime 0.000103542
+CAPTURE (mem alloc) 4.464e-06
+-----frame below (378)-----
+mem_alloctime 3.903e-06
+convert_totime 0.00258207
+encodetime 0.00434536
+parsetime 3.1573e-05
+decodetime 0.00325786
+parsetime 3.724e-06
+decodetime 3.9e-08
+degrade_time 0.00764834
+convert_fromtime 0.000896403
+memcpytime 0.000845188
+scheduletime 0.0001034
+CAPTURE (mem alloc) 8.76e-07
+-----frame below (379)-----
+mem_alloctime 3.594e-06
+convert_totime 0.00252691
+encodetime 0.00446256
+parsetime 5.6238e-05
+decodetime 0.00324103
+parsetime 3.855e-06
+decodetime 4e-08
+degrade_time 0.00778791
+convert_fromtime 0.000928487
+memcpytime 0.000906039
+scheduletime 0.000110184
+CAPTURE (mem alloc) 3.72e-07
+-----frame below (380)-----
+mem_alloctime 2.0021e-05
+convert_totime 0.00256094
+encodetime 0.00414812
+parsetime 3.1341e-05
+decodetime 0.00313994
+parsetime 3.562e-06
+decodetime 4.1e-08
+degrade_time 0.00733256
+convert_fromtime 0.000892215
+memcpytime 0.000928787
+scheduletime 0.000147036
+CAPTURE (mem alloc) 3.77e-07
+-----frame below (381)-----
+mem_alloctime 1.6606e-05
+convert_totime 0.00259336
+encodetime 0.00440949
+parsetime 2.9283e-05
+decodetime 0.00307935
+parsetime 3.502e-06
+decodetime 3.7e-08
+degrade_time 0.00754313
+convert_fromtime 0.000898954
+memcpytime 0.000836918
+scheduletime 0.000106141
+CAPTURE (mem alloc) 3.67e-07
+-----frame below (382)-----
+mem_alloctime 3.035e-06
+convert_totime 0.00255558
+encodetime 0.00433368
+parsetime 2.6047e-05
+decodetime 0.00305175
+parsetime 3.546e-06
+decodetime 4.1e-08
+degrade_time 0.00742361
+convert_fromtime 0.000918602
+memcpytime 0.000902266
+scheduletime 9.4393e-05
+CAPTURE (mem alloc) 3.59e-07
+-----frame below (383)-----
+mem_alloctime 1.547e-06
+convert_totime 0.00236734
+encodetime 0.00413313
+parsetime 3.3518e-05
+decodetime 0.0031272
+parsetime 3.519e-06
+decodetime 5.4e-08
+degrade_time 0.00730578
+convert_fromtime 0.000957842
+memcpytime 0.000867915
+scheduletime 0.000107798
+CAPTURE (mem alloc) 8.01e-07
+-----frame below (384)-----
+mem_alloctime 3.805e-06
+convert_totime 0.00260854
+encodetime 0.00406993
+parsetime 3.0938e-05
+decodetime 0.00311106
+parsetime 3.537e-06
+decodetime 4e-08
+degrade_time 0.00722479
+convert_fromtime 0.000930333
+memcpytime 0.000880695
+scheduletime 0.00010822
+CAPTURE (mem alloc) 8.6e-07
+-----frame below (385)-----
+mem_alloctime 2.3709e-05
+convert_totime 0.00252017
+encodetime 0.00392433
+parsetime 4.8272e-05
+decodetime 0.00307853
+parsetime 4.004e-06
+decodetime 4.2e-08
+degrade_time 0.00706425
+convert_fromtime 0.000930021
+memcpytime 0.000876512
+scheduletime 0.000102943
+CAPTURE (mem alloc) 8.13e-07
+-----frame below (386)-----
+mem_alloctime 4.91e-06
+convert_totime 0.00231143
+encodetime 0.00405813
+parsetime 4.278e-05
+decodetime 0.00303967
+parsetime 3.638e-06
+decodetime 3.6e-08
+degrade_time 0.00715385
+convert_fromtime 0.000919616
+memcpytime 0.000835807
+scheduletime 0.00010259
+CAPTURE (mem alloc) 9.36e-07
+-----frame below (387)-----
+mem_alloctime 6.282e-06
+convert_totime 0.0022231
+encodetime 0.00415429
+parsetime 3.1024e-05
+decodetime 0.00312137
+parsetime 3.472e-06
+decodetime 3.9e-08
+degrade_time 0.00731972
+convert_fromtime 0.000897006
+memcpytime 0.000833868
+scheduletime 0.000105442
+CAPTURE (mem alloc) 7.86e-07
+-----frame below (388)-----
+mem_alloctime 3.361e-06
+convert_totime 0.00225184
+encodetime 0.00403437
+parsetime 4.5074e-05
+decodetime 0.0032815
+parsetime 3.526e-06
+decodetime 4.5e-08
+degrade_time 0.00738707
+convert_fromtime 0.000919904
+memcpytime 0.000900554
+scheduletime 0.00010244
+CAPTURE (mem alloc) 3.42e-07
+-----frame below (389)-----
+mem_alloctime 3.116e-06
+convert_totime 0.00252444
+encodetime 0.00449712
+parsetime 3.1642e-05
+decodetime 0.00312867
+parsetime 3.371e-06
+decodetime 3.9e-08
+degrade_time 0.00766931
+convert_fromtime 0.000897173
+memcpytime 0.00082497
+scheduletime 0.000116013
+CAPTURE (mem alloc) 7.13e-07
+-----frame below (390)-----
+mem_alloctime 4.113e-06
+convert_totime 0.00228728
+encodetime 0.00476211
+parsetime 3.2688e-05
+decodetime 0.00313934
+parsetime 4.107e-06
+decodetime 3.6e-08
+degrade_time 0.00796393
+convert_fromtime 0.000891073
+memcpytime 0.000834878
+scheduletime 0.000105786
+CAPTURE (mem alloc) 7.9e-07
+-----frame below (391)-----
+mem_alloctime 1.815e-05
+convert_totime 0.0025357
+encodetime 0.00434097
+parsetime 3.1119e-05
+decodetime 0.00324491
+parsetime 3.552e-06
+decodetime 3.9e-08
+degrade_time 0.00762952
+convert_fromtime 0.000955025
+memcpytime 0.000969178
+scheduletime 9.6028e-05
+CAPTURE (mem alloc) 7.28e-07
+-----frame below (392)-----
+mem_alloctime 1.7282e-05
+convert_totime 0.00258517
+encodetime 0.00464079
+parsetime 2.7184e-05
+decodetime 0.00331838
+parsetime 3.373e-06
+decodetime 3.9e-08
+degrade_time 0.00800044
+convert_fromtime 0.000927077
+memcpytime 0.000904148
+scheduletime 0.000103083
+CAPTURE (mem alloc) 7.96e-07
+-----frame below (393)-----
+mem_alloctime 3.129e-06
+convert_totime 0.00255479
+encodetime 0.00473442
+parsetime 3.0881e-05
+decodetime 0.00331422
+parsetime 3.813e-06
+decodetime 4.4e-08
+degrade_time 0.00809303
+convert_fromtime 0.000932065
+memcpytime 0.000879584
+scheduletime 0.000104088
+CAPTURE (mem alloc) 7.46e-07
+-----frame below (394)-----
+mem_alloctime 4.518e-06
+convert_totime 0.002309
+encodetime 0.00483455
+parsetime 3.263e-05
+decodetime 0.00319557
+parsetime 4.22e-06
+decodetime 4.4e-08
+degrade_time 0.00807671
+convert_fromtime 0.000960485
+memcpytime 0.000846461
+scheduletime 0.000104635
+CAPTURE (mem alloc) 7.44e-07
+-----frame below (395)-----
+mem_alloctime 1.7198e-05
+convert_totime 0.00255294
+encodetime 0.00504776
+parsetime 4.4583e-05
+decodetime 0.00331244
+parsetime 4.037e-06
+decodetime 3.8e-08
+degrade_time 0.00843228
+convert_fromtime 0.000959088
+memcpytime 0.000932024
+scheduletime 0.000103043
+CAPTURE (mem alloc) 5.61e-07
+-----frame below (396)-----
+mem_alloctime 1.8278e-05
+convert_totime 0.00255158
+encodetime 0.0047411
+parsetime 2.8919e-05
+decodetime 0.00327092
+parsetime 4.023e-06
+decodetime 3.9e-08
+degrade_time 0.00805433
+convert_fromtime 0.000931212
+memcpytime 0.00083934
+scheduletime 0.00011049
+CAPTURE (mem alloc) 5.8e-07
+-----frame below (397)-----
+mem_alloctime 3.39e-06
+convert_totime 0.00239987
+encodetime 0.00445289
+parsetime 2.9878e-05
+decodetime 0.00321638
+parsetime 3.991e-06
+decodetime 4e-08
+degrade_time 0.00771255
+convert_fromtime 0.000895739
+memcpytime 0.000838608
+scheduletime 0.000103168
+CAPTURE (mem alloc) 8.53e-07
+-----frame below (398)-----
+mem_alloctime 4.011e-06
+convert_totime 0.00231684
+encodetime 0.00446949
+parsetime 2.9343e-05
+decodetime 0.00321192
+parsetime 4.166e-06
+decodetime 4.2e-08
+degrade_time 0.00772443
+convert_fromtime 0.00092658
+memcpytime 0.000910178
+scheduletime 0.00010244
+CAPTURE (mem alloc) 5.24e-06
+-----frame below (399)-----
+mem_alloctime 1.7834e-05
+convert_totime 0.00255803
+encodetime 0.00458281
+parsetime 3.1555e-05
+decodetime 0.00340616
+parsetime 4.303e-06
+decodetime 3.9e-08
+degrade_time 0.00803432
+convert_fromtime 0.000956842
+memcpytime 0.000881088
+scheduletime 0.000109715
+CAPTURE (mem alloc) 8.15e-07
+-----frame below (400)-----
+mem_alloctime 4.243e-06
+convert_totime 0.00255541
+encodetime 0.00447352
+parsetime 3.0571e-05
+decodetime 0.00350203
+parsetime 4.264e-06
+decodetime 4.2e-08
+degrade_time 0.00802061
+convert_fromtime 0.00099385
+memcpytime 0.00090838
+scheduletime 0.000110831
+CAPTURE (mem alloc) 3.5e-07
+-----frame below (401)-----
+mem_alloctime 2.627e-06
+convert_totime 0.00227687
+encodetime 0.00490028
+parsetime 3.0477e-05
+decodetime 0.00343003
+parsetime 4.092e-06
+decodetime 4.1e-08
+degrade_time 0.00837426
+convert_fromtime 0.000955897
+memcpytime 0.000875944
+scheduletime 0.00010379
+CAPTURE (mem alloc) 3.64e-07
+-----frame below (402)-----
+mem_alloctime 1.889e-06
+convert_totime 0.00253101
+encodetime 0.00472399
+parsetime 3.4493e-05
+decodetime 0.00336882
+parsetime 3.896e-06
+decodetime 3.9e-08
+degrade_time 0.00814024
+convert_fromtime 0.000925577
+memcpytime 0.00102127
+scheduletime 9.4103e-05
+CAPTURE (mem alloc) 7.71e-07
+-----frame below (403)-----
+mem_alloctime 1.8967e-05
+convert_totime 0.00234837
+encodetime 0.00430171
+parsetime 3.1603e-05
+decodetime 0.00340249
+parsetime 3.862e-06
+decodetime 4.3e-08
+degrade_time 0.00777814
+convert_fromtime 0.000931948
+memcpytime 0.000869389
+scheduletime 0.000104262
+CAPTURE (mem alloc) 3.8e-07
+-----frame below (404)-----
+mem_alloctime 1.5659e-05
+convert_totime 0.00235223
+encodetime 0.00445764
+parsetime 3.0301e-05
+decodetime 0.00332929
+parsetime 3.619e-06
+decodetime 4.1e-08
+degrade_time 0.00783001
+convert_fromtime 0.000926168
+memcpytime 0.000860724
+scheduletime 0.000104048
+CAPTURE (mem alloc) 5.57e-07
+-----frame below (405)-----
+mem_alloctime 4.239e-06
+convert_totime 0.00256091
+encodetime 0.00420361
+parsetime 3.179e-05
+decodetime 0.00329138
+parsetime 3.942e-06
+decodetime 4e-08
+degrade_time 0.00753979
+convert_fromtime 0.000955825
+memcpytime 0.000933715
+scheduletime 0.000148869
+CAPTURE (mem alloc) 5.8e-07
+-----frame below (406)-----
+mem_alloctime 4.168e-06
+convert_totime 0.00259379
+encodetime 0.00424237
+parsetime 2.9607e-05
+decodetime 0.00323363
+parsetime 3.325e-06
+decodetime 4.3e-08
+degrade_time 0.00751903
+convert_fromtime 0.000927587
+memcpytime 0.000834492
+scheduletime 0.000102542
+CAPTURE (mem alloc) 7.37e-07
+-----frame below (407)-----
+mem_alloctime 3.888e-06
+convert_totime 0.00250292
+encodetime 0.00414
+parsetime 3.1427e-05
+decodetime 0.00326109
+parsetime 3.717e-06
+decodetime 3.9e-08
+degrade_time 0.00744619
+convert_fromtime 0.000962803
+memcpytime 0.000839079
+scheduletime 0.000139502
+CAPTURE (mem alloc) 5.99e-07
+-----frame below (408)-----
+mem_alloctime 4.361e-06
+convert_totime 0.0026113
+encodetime 0.00449389
+parsetime 3.3487e-05
+decodetime 0.00330517
+parsetime 3.992e-06
+decodetime 3.9e-08
+degrade_time 0.00784589
+convert_fromtime 0.000963167
+memcpytime 0.00093625
+scheduletime 0.000113913
+CAPTURE (mem alloc) 7.23e-07
+-----frame below (409)-----
+mem_alloctime 3.197e-06
+convert_totime 0.00256124
+encodetime 0.00429287
+parsetime 3.1097e-05
+decodetime 0.0033638
+parsetime 3.983e-06
+decodetime 3.8e-08
+degrade_time 0.00770138
+convert_fromtime 0.000987773
+memcpytime 0.0009134
+scheduletime 0.000115706
+CAPTURE (mem alloc) 7.61e-07
+-----frame below (410)-----
+mem_alloctime 4.411e-06
+convert_totime 0.00256271
+encodetime 0.00437576
+parsetime 5.1147e-05
+decodetime 0.00322304
+parsetime 3.468e-06
+decodetime 3.9e-08
+degrade_time 0.0076773
+convert_fromtime 0.000895447
+memcpytime 0.000839776
+scheduletime 0.000102256
+CAPTURE (mem alloc) 7.9e-07
+-----frame below (411)-----
+mem_alloctime 3.379e-06
+convert_totime 0.00260082
+encodetime 0.0050549
+parsetime 3.0032e-05
+decodetime 0.00329124
+parsetime 3.87e-06
+decodetime 4.3e-08
+degrade_time 0.0083892
+convert_fromtime 0.000952473
+memcpytime 0.0008929
+scheduletime 9.5357e-05
+CAPTURE (mem alloc) 9.46e-07
+-----frame below (412)-----
+mem_alloctime 3.916e-06
+convert_totime 0.00246082
+encodetime 0.0056115
+parsetime 2.8583e-05
+decodetime 0.00320542
+parsetime 4.14e-06
+decodetime 3.8e-08
+degrade_time 0.00885955
+convert_fromtime 0.000889709
+memcpytime 0.000962919
+scheduletime 0.00014048
+CAPTURE (mem alloc) 7.38e-07
+-----frame below (413)-----
+mem_alloctime 3.595e-06
+convert_totime 0.00231113
+encodetime 0.00486544
+parsetime 3.203e-05
+decodetime 0.00321492
+parsetime 3.767e-06
+decodetime 4.6e-08
+degrade_time 0.00812568
+convert_fromtime 0.000899278
+memcpytime 0.000833149
+scheduletime 0.000103086
+CAPTURE (mem alloc) 7.51e-07
+-----frame below (414)-----
+mem_alloctime 4.132e-06
+convert_totime 0.00239686
+encodetime 0.0050265
+parsetime 2.8332e-05
+decodetime 0.00323443
+parsetime 3.882e-06
+decodetime 3.7e-08
+degrade_time 0.00830301
+convert_fromtime 0.000938681
+memcpytime 0.00085189
+scheduletime 0.000113758
+CAPTURE (mem alloc) 7.97e-07
+-----frame below (415)-----
+mem_alloctime 2.1537e-05
+convert_totime 0.00258642
+encodetime 0.00460246
+parsetime 3.17e-05
+decodetime 0.00330624
+parsetime 3.743e-06
+decodetime 3.8e-08
+degrade_time 0.00795371
+convert_fromtime 0.000959138
+memcpytime 0.000938887
+scheduletime 9.5352e-05
+CAPTURE (mem alloc) 7.05e-07
+-----frame below (416)-----
+mem_alloctime 4.019e-06
+convert_totime 0.00228956
+encodetime 0.00437275
+parsetime 3.1294e-05
+decodetime 0.00334163
+parsetime 4.097e-06
+decodetime 4.1e-08
+degrade_time 0.00777245
+convert_fromtime 0.000906126
+memcpytime 0.000873724
+scheduletime 0.000102896
+CAPTURE (mem alloc) 7.5e-07
+-----frame below (417)-----
+mem_alloctime 2.715e-06
+convert_totime 0.00237236
+encodetime 0.00504391
+parsetime 3.0712e-05
+decodetime 0.00333717
+parsetime 3.95e-06
+decodetime 3.9e-08
+degrade_time 0.00842574
+convert_fromtime 0.000929347
+memcpytime 0.000871196
+scheduletime 0.00010292
+CAPTURE (mem alloc) 4.76e-07
+-----frame below (418)-----
+mem_alloctime 3.593e-06
+convert_totime 0.00228353
+encodetime 0.00491362
+parsetime 3.0021e-05
+decodetime 0.00328012
+parsetime 4.147e-06
+decodetime 4.1e-08
+degrade_time 0.0082373
+convert_fromtime 0.000937485
+memcpytime 0.000851843
+scheduletime 9.6342e-05
+CAPTURE (mem alloc) 4.72e-07
+-----frame below (419)-----
+mem_alloctime 1.5442e-05
+convert_totime 0.00229484
+encodetime 0.00503367
+parsetime 2.9498e-05
+decodetime 0.00330402
+parsetime 4.342e-06
+decodetime 4.2e-08
+degrade_time 0.00838002
+convert_fromtime 0.000893638
+memcpytime 0.000887411
+scheduletime 0.000102371
+CAPTURE (mem alloc) 4.79e-06
+-----frame below (420)-----
+mem_alloctime 1.7066e-05
+convert_totime 0.00226266
+encodetime 0.00442059
+parsetime 4.3641e-05
+decodetime 0.00322291
+parsetime 4.05e-06
+decodetime 4.3e-08
+degrade_time 0.00770119
+convert_fromtime 0.000893086
+memcpytime 0.000840837
+scheduletime 0.000104563
+CAPTURE (mem alloc) 9.13e-07
+-----frame below (421)-----
+mem_alloctime 3.797e-06
+convert_totime 0.00238142
+encodetime 0.00402469
+parsetime 6.0058e-05
+decodetime 0.00321579
+parsetime 3.628e-06
+decodetime 3.9e-08
+degrade_time 0.00732684
+convert_fromtime 0.000957532
+memcpytime 0.000943806
+scheduletime 9.6173e-05
+CAPTURE (mem alloc) 7.16e-07
+-----frame below (422)-----
+mem_alloctime 4.367e-06
+convert_totime 0.00255743
+encodetime 0.00425756
+parsetime 2.8595e-05
+decodetime 0.00314852
+parsetime 4.035e-06
+decodetime 4e-08
+degrade_time 0.00744856
+convert_fromtime 0.000963855
+memcpytime 0.000873923
+scheduletime 0.000109716
+CAPTURE (mem alloc) 8.17e-07
+-----frame below (423)-----
+mem_alloctime 1.7051e-05
+convert_totime 0.0024568
+encodetime 0.00397078
+parsetime 3.6638e-05
+decodetime 0.00315977
+parsetime 3.436e-06
+decodetime 3.9e-08
+degrade_time 0.0071796
+convert_fromtime 0.000895458
+memcpytime 0.000868668
+scheduletime 0.00010128
+CAPTURE (mem alloc) 3.91e-07
+-----frame below (424)-----
+mem_alloctime 1.529e-06
+convert_totime 0.00257549
+encodetime 0.0041757
+parsetime 2.9894e-05
+decodetime 0.00306969
+parsetime 3.75e-06
+decodetime 4.2e-08
+degrade_time 0.00730025
+convert_fromtime 0.000929141
+memcpytime 0.000835467
+scheduletime 0.000111268
+CAPTURE (mem alloc) 6.75e-07
+-----frame below (425)-----
+mem_alloctime 1.782e-05
+convert_totime 0.00239685
+encodetime 0.00404014
+parsetime 2.8866e-05
+decodetime 0.00314218
+parsetime 3.724e-06
+decodetime 4.5e-08
+degrade_time 0.00722484
+convert_fromtime 0.000954276
+memcpytime 0.0008645
+scheduletime 0.000102854
+CAPTURE (mem alloc) 8.51e-07
+-----frame below (426)-----
+mem_alloctime 3.596e-06
+convert_totime 0.00257053
+encodetime 0.00398682
+parsetime 3.1728e-05
+decodetime 0.00305076
+parsetime 3.809e-06
+decodetime 4.5e-08
+degrade_time 0.00708301
+convert_fromtime 0.000892124
+memcpytime 0.000863371
+scheduletime 0.000106002
+CAPTURE (mem alloc) 1.072e-06
+-----frame below (427)-----
+mem_alloctime 1.7162e-05
+convert_totime 0.00251517
+encodetime 0.00414007
+parsetime 3.0256e-05
+decodetime 0.0031662
+parsetime 3.738e-06
+decodetime 4.1e-08
+degrade_time 0.00734973
+convert_fromtime 0.000930833
+memcpytime 0.000841383
+scheduletime 0.000106015
+CAPTURE (mem alloc) 8.01e-07
+-----frame below (428)-----
+mem_alloctime 4.439e-06
+convert_totime 0.00237208
+encodetime 0.00439013
+parsetime 2.9855e-05
+decodetime 0.0030615
+parsetime 3.454e-06
+decodetime 4e-08
+degrade_time 0.00749448
+convert_fromtime 0.000899822
+memcpytime 0.000958416
+scheduletime 9.3979e-05
+CAPTURE (mem alloc) 7.69e-07
+-----frame below (429)-----
+mem_alloctime 3.834e-06
+convert_totime 0.0023551
+encodetime 0.00441391
+parsetime 3.0941e-05
+decodetime 0.00318259
+parsetime 3.931e-06
+decodetime 4.2e-08
+degrade_time 0.007641
+convert_fromtime 0.000964068
+memcpytime 0.000877653
+scheduletime 0.000114713
+CAPTURE (mem alloc) 8.03e-07
+-----frame below (430)-----
+mem_alloctime 4.036e-06
+convert_totime 0.00262384
+encodetime 0.0044655
+parsetime 2.8865e-05
+decodetime 0.00334604
+parsetime 3.532e-06
+decodetime 4.1e-08
+degrade_time 0.00785342
+convert_fromtime 0.00101782
+memcpytime 0.000902064
+scheduletime 0.000110474
+CAPTURE (mem alloc) 7.42e-07
+-----frame below (431)-----
+mem_alloctime 1.6407e-05
+convert_totime 0.00256287
+encodetime 0.00434755
+parsetime 3.1059e-05
+decodetime 0.00309742
+parsetime 3.922e-06
+decodetime 3.9e-08
+degrade_time 0.00748961
+convert_fromtime 0.000907614
+memcpytime 0.000935696
+scheduletime 0.000108553
+CAPTURE (mem alloc) 7.31e-07
+-----frame below (432)-----
+mem_alloctime 1.752e-05
+convert_totime 0.00229503
+encodetime 0.00478054
+parsetime 2.7149e-05
+decodetime 0.00307294
+parsetime 3.133e-06
+decodetime 4.2e-08
+degrade_time 0.00789373
+convert_fromtime 0.000890265
+memcpytime 0.000835742
+scheduletime 0.00010719
+CAPTURE (mem alloc) 7.7e-07
+-----frame below (433)-----
+mem_alloctime 3.464e-06
+convert_totime 0.00247945
+encodetime 0.00463756
+parsetime 3.2644e-05
+decodetime 0.0031853
+parsetime 3.337e-06
+decodetime 4e-08
+degrade_time 0.00786763
+convert_fromtime 0.000958557
+memcpytime 0.000878954
+scheduletime 0.000109069
+CAPTURE (mem alloc) 7.35e-07
+-----frame below (434)-----
+mem_alloctime 1.7891e-05
+convert_totime 0.00264533
+encodetime 0.00402017
+parsetime 5.9793e-05
+decodetime 0.00308667
+parsetime 3.52e-06
+decodetime 4.1e-08
+degrade_time 0.00717853
+convert_fromtime 0.000924407
+memcpytime 0.000914203
+scheduletime 0.000103287
+CAPTURE (mem alloc) 5.33e-07
+-----frame below (435)-----
+mem_alloctime 5.519e-06
+convert_totime 0.00305742
+encodetime 0.00398046
+parsetime 4.5163e-05
+decodetime 0.00314055
+parsetime 3.492e-06
+decodetime 4.1e-08
+degrade_time 0.00719422
+convert_fromtime 0.000932947
+memcpytime 0.000867255
+scheduletime 0.000103958
+CAPTURE (mem alloc) 7.09e-07
+-----frame below (436)-----
+mem_alloctime 3.51e-06
+convert_totime 0.00257436
+encodetime 0.00422817
+parsetime 3.1857e-05
+decodetime 0.00313814
+parsetime 3.576e-06
+decodetime 4.2e-08
+degrade_time 0.00741066
+convert_fromtime 0.00100026
+memcpytime 0.000847258
+scheduletime 0.000143185
+CAPTURE (mem alloc) 8.89e-07
+-----frame below (437)-----
+mem_alloctime 1.6499e-05
+convert_totime 0.00263763
+encodetime 0.00484855
+parsetime 3.0692e-05
+decodetime 0.00313029
+parsetime 3.241e-06
+decodetime 4e-08
+degrade_time 0.0080232
+convert_fromtime 0.000956549
+memcpytime 0.000944592
+scheduletime 0.000140484
+CAPTURE (mem alloc) 9.66e-07
+-----frame below (438)-----
+mem_alloctime 4.126e-06
+convert_totime 0.00229346
+encodetime 0.00455366
+parsetime 3.1893e-05
+decodetime 0.003215
+parsetime 3.463e-06
+decodetime 3.9e-08
+degrade_time 0.00781424
+convert_fromtime 0.000992802
+memcpytime 0.000906715
+scheduletime 0.000121125
+CAPTURE (mem alloc) 7.36e-07
+-----frame below (439)-----
+mem_alloctime 1.7257e-05
+convert_totime 0.00264459
+encodetime 0.00424227
+parsetime 3.0613e-05
+decodetime 0.003246
+parsetime 3.471e-06
+decodetime 4.4e-08
+degrade_time 0.00753204
+convert_fromtime 0.00102319
+memcpytime 0.000887844
+scheduletime 0.000105623
+CAPTURE (mem alloc) 6.2e-07
+-----frame below (440)-----
+mem_alloctime 3.509e-06
+convert_totime 0.00258361
+encodetime 0.00439956
+parsetime 3.1063e-05
+decodetime 0.00317072
+parsetime 3.689e-06
+decodetime 4e-08
+degrade_time 0.00761435
+convert_fromtime 0.00093315
+memcpytime 0.000898697
+scheduletime 0.000103219
+CAPTURE (mem alloc) 5.125e-06
+-----frame below (441)-----
+mem_alloctime 3.448e-06
+convert_totime 0.00254764
+encodetime 0.00506969
+parsetime 3.3288e-05
+decodetime 0.00319782
+parsetime 3.76e-06
+decodetime 3.8e-08
+degrade_time 0.00831343
+convert_fromtime 0.000931287
+memcpytime 0.000840899
+scheduletime 0.000104159
+CAPTURE (mem alloc) 1.11e-06
+-----frame below (442)-----
+mem_alloctime 3.648e-06
+convert_totime 0.00256649
+encodetime 0.00480105
+parsetime 2.6778e-05
+decodetime 0.00322737
+parsetime 3.695e-06
+decodetime 4.4e-08
+degrade_time 0.00806854
+convert_fromtime 0.000984195
+memcpytime 0.000874231
+scheduletime 0.000113977
+CAPTURE (mem alloc) 4.14e-07
+-----frame below (443)-----
+mem_alloctime 1.5737e-05
+convert_totime 0.0023146
+encodetime 0.00456247
+parsetime 2.9518e-05
+decodetime 0.00320664
+parsetime 3.799e-06
+decodetime 4.1e-08
+degrade_time 0.0078108
+convert_fromtime 0.000957271
+memcpytime 0.000990032
+scheduletime 0.00010113
+CAPTURE (mem alloc) 7.31e-07
+-----frame below (444)-----
+mem_alloctime 4.683e-06
+convert_totime 0.00251403
+encodetime 0.00475863
+parsetime 3.0702e-05
+decodetime 0.00315863
+parsetime 4.036e-06
+decodetime 4e-08
+degrade_time 0.00796152
+convert_fromtime 0.000896569
+memcpytime 0.00087459
+scheduletime 0.00010484
+CAPTURE (mem alloc) 9.61e-07
+-----frame below (445)-----
+mem_alloctime 3.925e-06
+convert_totime 0.00263487
+encodetime 0.00470848
+parsetime 3.121e-05
+decodetime 0.00325394
+parsetime 3.821e-06
+decodetime 4.9e-08
+degrade_time 0.0080069
+convert_fromtime 0.000957361
+memcpytime 0.000880185
+scheduletime 0.00011082
+CAPTURE (mem alloc) 6.64e-07
+-----frame below (446)-----
+mem_alloctime 3.717e-06
+convert_totime 0.00252385
+encodetime 0.00469272
+parsetime 2.9714e-05
+decodetime 0.0032298
+parsetime 3.609e-06
+decodetime 4.5e-08
+degrade_time 0.00796543
+convert_fromtime 0.000963837
+memcpytime 0.000841548
+scheduletime 0.000147953
+CAPTURE (mem alloc) 8.84e-07
+-----frame below (447)-----
+mem_alloctime 3.306e-06
+convert_totime 0.00258996
+encodetime 0.00458854
+parsetime 3.4807e-05
+decodetime 0.00319213
+parsetime 4.219e-06
+decodetime 4.4e-08
+degrade_time 0.00782876
+convert_fromtime 0.000949153
+memcpytime 0.000996397
+scheduletime 0.000100795
+CAPTURE (mem alloc) 7.1e-07
+-----frame below (448)-----
+mem_alloctime 3.721e-06
+convert_totime 0.00235118
+encodetime 0.00452502
+parsetime 3.0914e-05
+decodetime 0.00312094
+parsetime 3.67e-06
+decodetime 3.7e-08
+degrade_time 0.00768944
+convert_fromtime 0.000891427
+memcpytime 0.000837124
+scheduletime 0.000102294
+CAPTURE (mem alloc) 9.59e-07
+-----frame below (449)-----
+mem_alloctime 3.699e-06
+convert_totime 0.00259569
+encodetime 0.00416079
+parsetime 3.1919e-05
+decodetime 0.00318769
+parsetime 4.173e-06
+decodetime 3.8e-08
+degrade_time 0.00739357
+convert_fromtime 0.000927364
+memcpytime 0.00083689
+scheduletime 0.000105767
+CAPTURE (mem alloc) 7.33e-07
+-----frame below (450)-----
+mem_alloctime 4.028e-06
+convert_totime 0.00253062
+encodetime 0.00466963
+parsetime 3.0787e-05
+decodetime 0.00323591
+parsetime 3.567e-06
+decodetime 4e-08
+degrade_time 0.00794982
+convert_fromtime 0.000928292
+memcpytime 0.000944404
+scheduletime 0.000105765
+CAPTURE (mem alloc) 1.116e-06
+-----frame below (451)-----
+mem_alloctime 3.958e-06
+convert_totime 0.00241161
+encodetime 0.00561845
+parsetime 3.1246e-05
+decodetime 0.00316046
+parsetime 3.295e-06
+decodetime 4e-08
+degrade_time 0.00882303
+convert_fromtime 0.000896144
+memcpytime 0.000911732
+scheduletime 0.000102691
+CAPTURE (mem alloc) 4.809e-06
+-----frame below (452)-----
+mem_alloctime 3.65e-06
+convert_totime 0.00250824
+encodetime 0.00421828
+parsetime 4.0417e-05
+decodetime 0.00308246
+parsetime 3.371e-06
+decodetime 3.7e-08
+degrade_time 0.00735402
+convert_fromtime 0.000892477
+memcpytime 0.000844862
+scheduletime 0.00010285
+CAPTURE (mem alloc) 7.29e-07
+-----frame below (453)-----
+mem_alloctime 3.737e-06
+convert_totime 0.0023216
+encodetime 0.00486808
+parsetime 3.2268e-05
+decodetime 0.00313136
+parsetime 3.687e-06
+decodetime 4e-08
+degrade_time 0.00804477
+convert_fromtime 0.000978471
+memcpytime 0.000841877
+scheduletime 9.6303e-05
+CAPTURE (mem alloc) 6.26e-07
+-----frame below (454)-----
+mem_alloctime 1.6822e-05
+convert_totime 0.00231987
+encodetime 0.00447783
+parsetime 3.3559e-05
+decodetime 0.00330598
+parsetime 3.713e-06
+decodetime 4.2e-08
+degrade_time 0.00783141
+convert_fromtime 0.000890092
+memcpytime 0.000842382
+scheduletime 0.000131251
+CAPTURE (mem alloc) 7.55e-07
+-----frame below (455)-----
+mem_alloctime 3.613e-06
+convert_totime 0.00259368
+encodetime 0.00483627
+parsetime 3.477e-05
+decodetime 0.0034457
+parsetime 4.405e-06
+decodetime 4e-08
+degrade_time 0.00833054
+convert_fromtime 0.00092415
+memcpytime 0.000849112
+scheduletime 0.000110119
+CAPTURE (mem alloc) 7.01e-07
+-----frame below (456)-----
+mem_alloctime 2.852e-06
+convert_totime 0.00265941
+encodetime 0.00499215
+parsetime 4.1945e-05
+decodetime 0.00336284
+parsetime 4.455e-06
+decodetime 4.3e-08
+degrade_time 0.00842322
+convert_fromtime 0.000892757
+memcpytime 0.000826628
+scheduletime 0.000105022
+CAPTURE (mem alloc) 1.131e-06
+-----frame below (457)-----
+mem_alloctime 4.151e-06
+convert_totime 0.00252379
+encodetime 0.00479611
+parsetime 3.163e-05
+decodetime 0.00336487
+parsetime 1.0263e-05
+decodetime 4.8e-08
+degrade_time 0.00821287
+convert_fromtime 0.000931903
+memcpytime 0.000835586
+scheduletime 9.718e-05
+CAPTURE (mem alloc) 9.01e-07
+-----frame below (458)-----
+mem_alloctime 2.0216e-05
+convert_totime 0.00228526
+encodetime 0.00480212
+parsetime 3.1738e-05
+decodetime 0.00341872
+parsetime 4.072e-06
+decodetime 3.9e-08
+degrade_time 0.00826632
+convert_fromtime 0.000890513
+memcpytime 0.000896799
+scheduletime 0.000102228
+CAPTURE (mem alloc) 8.52e-07
+-----frame below (459)-----
+mem_alloctime 1.8124e-05
+convert_totime 0.00263607
+encodetime 0.00486353
+parsetime 3.0871e-05
+decodetime 0.00336176
+parsetime 4.102e-06
+decodetime 4.5e-08
+degrade_time 0.00827035
+convert_fromtime 0.000895252
+memcpytime 0.000837206
+scheduletime 0.000103854
+CAPTURE (mem alloc) 7.17e-07
+-----frame below (460)-----
+mem_alloctime 3.566e-06
+convert_totime 0.00269081
+encodetime 0.00506875
+parsetime 3.182e-05
+decodetime 0.0034958
+parsetime 4.592e-06
+decodetime 4.6e-08
+degrade_time 0.0086102
+convert_fromtime 0.000920007
+memcpytime 0.000838252
+scheduletime 0.000136145
+CAPTURE (mem alloc) 9.04e-07
+-----frame below (461)-----
+mem_alloctime 4.369e-06
+convert_totime 0.00257355
+encodetime 0.00502759
+parsetime 3.6453e-05
+decodetime 0.00351749
+parsetime 4.218e-06
+decodetime 4.9e-08
+degrade_time 0.00859554
+convert_fromtime 0.000920196
+memcpytime 0.000836634
+scheduletime 9.8723e-05
+CAPTURE (mem alloc) 3.266e-06
+-----frame below (462)-----
+mem_alloctime 2.403e-06
+convert_totime 0.00258802
+encodetime 0.00497344
+parsetime 2.8276e-05
+decodetime 0.00337411
+parsetime 3.994e-06
+decodetime 4e-08
+degrade_time 0.00838985
+convert_fromtime 0.000963001
+memcpytime 0.00091362
+scheduletime 0.000102314
+CAPTURE (mem alloc) 8.96e-07
+-----frame below (463)-----
+mem_alloctime 1.7561e-05
+convert_totime 0.00252938
+encodetime 0.0045446
+parsetime 3.2483e-05
+decodetime 0.00324106
+parsetime 3.407e-06
+decodetime 3.9e-08
+degrade_time 0.00783165
+convert_fromtime 0.000926594
+memcpytime 0.000850648
+scheduletime 0.000118877
+CAPTURE (mem alloc) 6.47e-07
+-----frame below (464)-----
+mem_alloctime 4.513e-06
+convert_totime 0.00260543
+encodetime 0.00427124
+parsetime 3.1962e-05
+decodetime 0.0033399
+parsetime 3.252e-06
+decodetime 5.3e-08
+degrade_time 0.00765627
+convert_fromtime 0.000992848
+memcpytime 0.000910021
+scheduletime 0.000111196
+CAPTURE (mem alloc) 7.39e-07
+-----frame below (465)-----
+mem_alloctime 5.038e-06
+convert_totime 0.00233375
+encodetime 0.00494648
+parsetime 3.738e-05
+decodetime 0.00321083
+parsetime 3.497e-06
+decodetime 3.8e-08
+degrade_time 0.00820735
+convert_fromtime 0.000987078
+memcpytime 0.000875407
+scheduletime 9.6587e-05
+CAPTURE (mem alloc) 7.38e-07
+-----frame below (466)-----
+mem_alloctime 1.8651e-05
+convert_totime 0.00229815
+encodetime 0.00563652
+parsetime 3.0544e-05
+decodetime 0.00318944
+parsetime 4.126e-06
+decodetime 4.4e-08
+degrade_time 0.00887071
+convert_fromtime 0.000919679
+memcpytime 0.000914478
+scheduletime 0.000101617
+CAPTURE (mem alloc) 8.4e-07
+-----frame below (467)-----
+mem_alloctime 1.8801e-05
+convert_totime 0.00223788
+encodetime 0.00480615
+parsetime 3.1402e-05
+decodetime 0.00345032
+parsetime 3.956e-06
+decodetime 4.1e-08
+degrade_time 0.00830096
+convert_fromtime 0.000929713
+memcpytime 0.000875879
+scheduletime 0.000103325
+CAPTURE (mem alloc) 1.135e-06
+-----frame below (468)-----
+mem_alloctime 3.039e-06
+convert_totime 0.00258013
+encodetime 0.0048967
+parsetime 4.4752e-05
+decodetime 0.00346206
+parsetime 4.034e-06
+decodetime 4.2e-08
+degrade_time 0.00842908
+convert_fromtime 0.000892421
+memcpytime 0.000864563
+scheduletime 0.00010349
+CAPTURE (mem alloc) 8.77e-07
+-----frame below (469)-----
+mem_alloctime 1.6707e-05
+convert_totime 0.00239845
+encodetime 0.00488967
+parsetime 3.133e-05
+decodetime 0.00338072
+parsetime 3.801e-06
+decodetime 5.1e-08
+degrade_time 0.00834627
+convert_fromtime 0.000981846
+memcpytime 0.000841561
+scheduletime 9.7099e-05
+CAPTURE (mem alloc) 7.43e-07
+-----frame below (470)-----
+mem_alloctime 3.96e-06
+convert_totime 0.00235198
+encodetime 0.00509209
+parsetime 5.837e-05
+decodetime 0.00361864
+parsetime 4.194e-06
+decodetime 3.9e-08
+degrade_time 0.0087828
+convert_fromtime 0.000946674
+memcpytime 0.000977031
+scheduletime 0.000127021
+CAPTURE (mem alloc) 5.87e-07
+-----frame below (471)-----
+mem_alloctime 2.6575e-05
+convert_totime 0.00250562
+encodetime 0.00497039
+parsetime 4.7648e-05
+decodetime 0.00338786
+parsetime 4.217e-06
+decodetime 4.8e-08
+degrade_time 0.00843387
+convert_fromtime 0.000897375
+memcpytime 0.000869702
+scheduletime 0.000104259
+CAPTURE (mem alloc) 6.91e-07
+-----frame below (472)-----
+mem_alloctime 3.822e-06
+convert_totime 0.00254648
+encodetime 0.00522522
+parsetime 2.638e-05
+decodetime 0.003461
+parsetime 3.965e-06
+decodetime 5.6e-08
+degrade_time 0.00872597
+convert_fromtime 0.000921559
+memcpytime 0.000868242
+scheduletime 0.000102931
+CAPTURE (mem alloc) 7.7e-07
+-----frame below (473)-----
+mem_alloctime 3.885e-06
+convert_totime 0.00266798
+encodetime 0.00503646
+parsetime 3.0736e-05
+decodetime 0.00342069
+parsetime 4.06e-06
+decodetime 4.6e-08
+degrade_time 0.00850138
+convert_fromtime 0.00089649
+memcpytime 0.000838425
+scheduletime 0.000106659
+CAPTURE (mem alloc) 6.61e-07
+-----frame below (474)-----
+mem_alloctime 4.426e-06
+convert_totime 0.00232977
+encodetime 0.00487018
+parsetime 3.5435e-05
+decodetime 0.00336608
+parsetime 3.991e-06
+decodetime 3.9e-08
+degrade_time 0.0082847
+convert_fromtime 0.000929353
+memcpytime 0.000841067
+scheduletime 9.6201e-05
+CAPTURE (mem alloc) 6.21e-07
+-----frame below (475)-----
+mem_alloctime 3.795e-06
+convert_totime 0.00254204
+encodetime 0.00474974
+parsetime 3.2249e-05
+decodetime 0.0035252
+parsetime 4.21e-06
+decodetime 4.7e-08
+degrade_time 0.00832089
+convert_fromtime 0.000922638
+memcpytime 0.000964953
+scheduletime 0.000102915
+CAPTURE (mem alloc) 7.63e-07
+-----frame below (476)-----
+mem_alloctime 4.4e-06
+convert_totime 0.00235259
+encodetime 0.00553903
+parsetime 7.1547e-05
+decodetime 0.00370161
+parsetime 4.932e-06
+decodetime 4.5e-08
+degrade_time 0.00932995
+convert_fromtime 0.00103348
+memcpytime 0.00106646
+scheduletime 0.000106733
+CAPTURE (mem alloc) 4.35e-07
+-----frame below (477)-----
+mem_alloctime 2.13e-06
+convert_totime 0.00231019
+encodetime 0.0054115
+parsetime 3.1342e-05
+decodetime 0.00344562
+parsetime 3.615e-06
+decodetime 3.8e-08
+degrade_time 0.00890091
+convert_fromtime 0.000900968
+memcpytime 0.000887558
+scheduletime 0.000103467
+CAPTURE (mem alloc) 6.43e-07
+-----frame below (478)-----
+mem_alloctime 4.875e-06
+convert_totime 0.00235989
+encodetime 0.00449093
+parsetime 3.1573e-05
+decodetime 0.00338157
+parsetime 3.817e-06
+decodetime 4.1e-08
+degrade_time 0.00791748
+convert_fromtime 0.000898566
+memcpytime 0.000845498
+scheduletime 0.000102141
+CAPTURE (mem alloc) 7.82e-07
+-----frame below (479)-----
+mem_alloctime 3.876e-06
+convert_totime 0.00233022
+encodetime 0.00445072
+parsetime 3.3e-05
+decodetime 0.00348035
+parsetime 4.512e-06
+decodetime 5.2e-08
+degrade_time 0.00797959
+convert_fromtime 0.000929017
+memcpytime 0.000874803
+scheduletime 9.5878e-05
+CAPTURE (mem alloc) 6.53e-07
+-----frame below (480)-----
+mem_alloctime 1.833e-05
+convert_totime 0.00226989
+encodetime 0.0044687
+parsetime 2.953e-05
+decodetime 0.00356722
+parsetime 4.003e-06
+decodetime 3.9e-08
+degrade_time 0.00807964
+convert_fromtime 0.000928247
+memcpytime 0.000886639
+scheduletime 0.000102354
+CAPTURE (mem alloc) 3.993e-06
+-----frame below (481)-----
+mem_alloctime 5.737e-06
+convert_totime 0.00225392
+encodetime 0.00483166
+parsetime 4.626e-05
+decodetime 0.00366615
+parsetime 4.053e-06
+decodetime 4.4e-08
+degrade_time 0.00855687
+convert_fromtime 0.0276934
+memcpytime 0.000677522
+scheduletime 0.000104602
+CAPTURE (mem alloc) 8.099e-06
+-----frame below (482)-----
+mem_alloctime 3.1016e-05
+convert_totime 0.0023715
+CAPTURE (mem alloc) 9.777e-06
+CAPTURE (mem alloc) 3.73e-07
+encodetime 0.00649901
+parsetime 2.6534e-05
+decodetime 0.00378751
+parsetime 4.3e-06
+decodetime 3.8e-08
+degrade_time 0.0103312
+convert_fromtime 0.0260895
+memcpytime 0.000759032
+scheduletime 9.6165e-05
+-----frame below (483)-----
+mem_alloctime 5.738e-06
+convert_totime 0.00253126
+encodetime 0.00559332
+parsetime 2.9985e-05
+decodetime 0.00353897
+parsetime 4.404e-06
+decodetime 4.3e-08
+degrade_time 0.00917626
+convert_fromtime 0.000899414
+memcpytime 0.000861167
+scheduletime 0.000104531
+-----frame below (484)-----
+mem_alloctime 1.794e-06
+convert_totime 0.00234898
+encodetime 0.00536357
+parsetime 4.315e-05
+decodetime 0.00391811
+parsetime 4.368e-06
+decodetime 4.1e-08
+degrade_time 0.00935214
+convert_fromtime 0.000969464
+CAPTURE (mem alloc) 5.14e-07
+memcpytime 0.00876695
+scheduletime 0.000100078
+-----frame below (485)-----
+mem_alloctime 2.199e-06
+convert_totime 0.00250137
+encodetime 0.00576596
+parsetime 3.1882e-05
+decodetime 0.00382277
+parsetime 4.346e-06
+decodetime 4.9e-08
+degrade_time 0.00963552
+convert_fromtime 0.000956725
+memcpytime 0.000875854
+scheduletime 0.000113282
+CAPTURE (mem alloc) 3.62e-07
+-----frame below (486)-----
+mem_alloctime 1.8819e-05
+convert_totime 0.00251289
+encodetime 0.00556124
+parsetime 3.4283e-05
+decodetime 0.00378706
+parsetime 4.312e-06
+decodetime 4e-08
+degrade_time 0.00939552
+convert_fromtime 0.000905029
+memcpytime 0.000926733
+scheduletime 0.000109691
+CAPTURE (mem alloc) 3.41e-07
+-----frame below (487)-----
+mem_alloctime 1.6093e-05
+convert_totime 0.00246664
+encodetime 0.00469468
+parsetime 2.9456e-05
+decodetime 0.0037802
+parsetime 4.116e-06
+decodetime 4.9e-08
+degrade_time 0.0085177
+convert_fromtime 0.00089586
+memcpytime 0.000837696
+scheduletime 0.000100754
+CAPTURE (mem alloc) 3.94e-07
+-----frame below (488)-----
+mem_alloctime 1.445e-06
+convert_totime 0.00245314
+encodetime 0.00486069
+parsetime 4.5162e-05
+decodetime 0.00389427
+parsetime 4.58e-06
+decodetime 4.2e-08
+degrade_time 0.0088263
+convert_fromtime 0.000888875
+memcpytime 0.000896233
+scheduletime 9.9512e-05
+CAPTURE (mem alloc) 7.54e-07
+-----frame below (489)-----
+mem_alloctime 1.8001e-05
+convert_totime 0.00246898
+encodetime 0.00480629
+parsetime 3.1755e-05
+decodetime 0.00398519
+parsetime 1.6933e-05
+decodetime 4.2e-08
+degrade_time 0.00885045
+convert_fromtime 0.000895124
+memcpytime 0.000878783
+scheduletime 9.801e-05
+CAPTURE (mem alloc) 7.71e-07
+-----frame below (490)-----
+mem_alloctime 1.6907e-05
+convert_totime 0.0024253
+encodetime 0.00486944
+parsetime 4.2598e-05
+decodetime 0.00378612
+parsetime 5.539e-06
+decodetime 4.9e-08
+degrade_time 0.00873729
+convert_fromtime 0.000979856
+memcpytime 0.000865272
+scheduletime 9.5989e-05
+CAPTURE (mem alloc) 8.76e-07
+-----frame below (491)-----
+mem_alloctime 1.8311e-05
+convert_totime 0.00248534
+encodetime 0.00464443
+parsetime 3.0682e-05
+decodetime 0.00383929
+parsetime 4.08e-06
+decodetime 4.2e-08
+degrade_time 0.00852838
+convert_fromtime 0.000970073
+memcpytime 0.000974181
+scheduletime 9.4941e-05
+CAPTURE (mem alloc) 1.169e-06
+-----frame below (492)-----
+mem_alloctime 1.7597e-05
+convert_totime 0.00289663
+encodetime 0.00487425
+parsetime 2.8654e-05
+decodetime 0.00367847
+parsetime 4.294e-06
+decodetime 4.5e-08
+degrade_time 0.00859522
+convert_fromtime 0.000893177
+memcpytime 0.000864028
+scheduletime 0.00010138
+CAPTURE (mem alloc) 1.218e-06
+-----frame below (493)-----
+mem_alloctime 1.6777e-05
+convert_totime 0.00239086
+encodetime 0.00515481
+parsetime 3.0601e-05
+decodetime 0.00375338
+parsetime 4.537e-06
+decodetime 4.2e-08
+degrade_time 0.00895202
+convert_fromtime 0.000895037
+memcpytime 0.000839512
+scheduletime 0.000110703
+CAPTURE (mem alloc) 8.33e-07
+-----frame below (494)-----
+mem_alloctime 3.741e-06
+convert_totime 0.00237017
+encodetime 0.00557703
+parsetime 3.1094e-05
+decodetime 0.00371604
+parsetime 4.551e-06
+decodetime 4.5e-08
+degrade_time 0.00933908
+convert_fromtime 0.00089625
+memcpytime 0.000860142
+scheduletime 0.000104952
+CAPTURE (mem alloc) 4.54e-07
+-----frame below (495)-----
+mem_alloctime 1.6398e-05
+convert_totime 0.00235382
+encodetime 0.00509464
+parsetime 3.2361e-05
+decodetime 0.00382577
+parsetime 4.205e-06
+decodetime 4e-08
+degrade_time 0.00896691
+convert_fromtime 0.000933977
+memcpytime 0.000850036
+scheduletime 0.000132144
+CAPTURE (mem alloc) 4.95e-07
+-----frame below (496)-----
+mem_alloctime 4.796e-06
+convert_totime 0.00241965
+encodetime 0.00519052
+parsetime 2.9845e-05
+decodetime 0.00380423
+parsetime 4.544e-06
+decodetime 4.2e-08
+degrade_time 0.00906056
+convert_fromtime 0.000989411
+memcpytime 0.000881067
+scheduletime 9.9622e-05
+CAPTURE (mem alloc) 1.202e-06
+-----frame below (497)-----
+mem_alloctime 3.466e-06
+convert_totime 0.00234265
+encodetime 0.00512338
+parsetime 3.1387e-05
+decodetime 0.00373368
+parsetime 4.415e-06
+decodetime 4.1e-08
+degrade_time 0.0089199
+convert_fromtime 0.000933842
+memcpytime 0.000960528
+scheduletime 9.4021e-05
+CAPTURE (mem alloc) 8.21e-07
+-----frame below (498)-----
+mem_alloctime 3.91e-06
+convert_totime 0.00234795
+encodetime 0.00476834
+parsetime 2.9974e-05
+decodetime 0.00381109
+parsetime 4.115e-06
+decodetime 4e-08
+degrade_time 0.00862279
+convert_fromtime 0.000925608
+memcpytime 0.000920198
+scheduletime 0.000100851
+CAPTURE (mem alloc) 7.9e-07
+-----frame below (499)-----
+mem_alloctime 3.699e-06
+convert_totime 0.00265695
+encodetime 0.00560444
+parsetime 2.8544e-05
+decodetime 0.00375098
+parsetime 4.814e-06
+decodetime 4.3e-08
+degrade_time 0.00939894
+convert_fromtime 0.000951444
+memcpytime 0.000901198
+scheduletime 0.000110139
+CAPTURE (mem alloc) 8.14e-07
+-----frame below (500)-----
+mem_alloctime 2.1268e-05
+convert_totime 0.00251156
+encodetime 0.00517165
+parsetime 3.0797e-05
+decodetime 0.00421973
+parsetime 6.215e-06
+decodetime 5.7e-08
+degrade_time 0.00945268
+convert_fromtime 0.00115706
+memcpytime 0.00110985
+scheduletime 0.000138978
+CAPTURE (mem alloc) 1.084e-06
+-----frame below (501)-----
+mem_alloctime 5.842e-06
+convert_totime 0.00235826
+encodetime 0.00516255
+parsetime 2.9843e-05
+decodetime 0.00380035
+parsetime 4.738e-06
+decodetime 4.7e-08
+degrade_time 0.00900621
+convert_fromtime 0.0011458
+memcpytime 0.00102484
+scheduletime 0.000140787
+CAPTURE (mem alloc) 3.77e-07
+-----frame below (502)-----
+mem_alloctime 2.005e-06
+convert_totime 0.00243127
+encodetime 0.00512453
+parsetime 3.0548e-05
+decodetime 0.00391326
+parsetime 5.105e-06
+decodetime 4.3e-08
+degrade_time 0.0090825
+convert_fromtime 0.000962878
+memcpytime 0.000878002
+scheduletime 0.000110352
+CAPTURE (mem alloc) 7.2e-07
+-----frame below (503)-----
+mem_alloctime 3.51e-06
+convert_totime 0.00230321
+encodetime 0.00576849
+parsetime 3.0646e-05
+decodetime 0.00380763
+parsetime 5.151e-06
+decodetime 4e-08
+degrade_time 0.00962201
+convert_fromtime 0.000925099
+memcpytime 0.000942559
+scheduletime 0.000108142
+CAPTURE (mem alloc) 7.38e-07
+-----frame below (504)-----
+mem_alloctime 4.066e-06
+convert_totime 0.00242518
+encodetime 0.00535723
+parsetime 3.2121e-05
+decodetime 0.00381742
+parsetime 4.792e-06
+decodetime 4e-08
+degrade_time 0.00922154
+convert_fromtime 0.000895005
+memcpytime 0.000882111
+scheduletime 0.00010189
+CAPTURE (mem alloc) 9.58e-07
+-----frame below (505)-----
+mem_alloctime 5.834e-06
+convert_totime 0.00227026
+encodetime 0.00514105
+parsetime 3.038e-05
+decodetime 0.00370261
+parsetime 4.705e-06
+decodetime 4.4e-08
+degrade_time 0.00888764
+convert_fromtime 0.000920703
+memcpytime 0.00088211
+scheduletime 0.000101553
+CAPTURE (mem alloc) 8.22e-07
+-----frame below (506)-----
+mem_alloctime 4.416e-06
+convert_totime 0.00232545
+encodetime 0.00498394
+parsetime 5.9375e-05
+decodetime 0.00376668
+parsetime 4.258e-06
+decodetime 4.1e-08
+degrade_time 0.00882418
+convert_fromtime 0.000951588
+memcpytime 0.000854068
+scheduletime 9.6964e-05
+CAPTURE (mem alloc) 1.351e-06
+-----frame below (507)-----
+mem_alloctime 2.795e-06
+convert_totime 0.00252036
+encodetime 0.00549833
+parsetime 3.0233e-05
+decodetime 0.00367807
+parsetime 4.945e-06
+decodetime 4e-08
+degrade_time 0.00922006
+convert_fromtime 0.00101384
+memcpytime 0.000870323
+scheduletime 0.000101659
+CAPTURE (mem alloc) 4.77e-07
+-----frame below (508)-----
+mem_alloctime 3.322e-06
+convert_totime 0.0024888
+encodetime 0.00564244
+parsetime 3.1317e-05
+decodetime 0.00366995
+parsetime 3.988e-06
+decodetime 4.6e-08
+degrade_time 0.00935647
+convert_fromtime 0.000921455
+memcpytime 0.000943246
+scheduletime 9.4013e-05
+CAPTURE (mem alloc) 4.69e-07
+-----frame below (509)-----
+mem_alloctime 2.922e-06
+convert_totime 0.00235513
+encodetime 0.00503771
+parsetime 2.7971e-05
+decodetime 0.00368014
+parsetime 4.082e-06
+decodetime 4.3e-08
+degrade_time 0.00875909
+convert_fromtime 0.000929373
+memcpytime 0.000910925
+scheduletime 0.000101481
+CAPTURE (mem alloc) 1.131e-06
+-----frame below (510)-----
+mem_alloctime 4.268e-06
+convert_totime 0.00250444
+encodetime 0.00505204
+parsetime 2.838e-05
+decodetime 0.00357034
+parsetime 4.777e-06
+decodetime 4.7e-08
+degrade_time 0.00866496
+convert_fromtime 0.000892833
+memcpytime 0.000853587
+scheduletime 0.000102286
+CAPTURE (mem alloc) 5.43e-07
+-----frame below (511)-----
+mem_alloctime 1.815e-06
+convert_totime 0.00241338
+encodetime 0.00601743
+parsetime 3.3239e-05
+decodetime 0.00370346
+parsetime 4.592e-06
+decodetime 4e-08
+degrade_time 0.0097691
+convert_fromtime 0.000932816
+memcpytime 0.000883995
+scheduletime 0.000101545
+CAPTURE (mem alloc) 4.96e-07
+-----frame below (512)-----
+mem_alloctime 1.5877e-05
+convert_totime 0.00236979
+encodetime 0.00637521
+parsetime 3.0269e-05
+decodetime 0.0036888
+parsetime 4.118e-06
+decodetime 4.5e-08
+degrade_time 0.0101068
+convert_fromtime 0.000925536
+memcpytime 0.000833565
+scheduletime 0.000115478
+CAPTURE (mem alloc) 4.87e-07
+-----frame below (513)-----
+mem_alloctime 1.6364e-05
+convert_totime 0.00251663
+encodetime 0.00500449
+parsetime 3.0461e-05
+decodetime 0.00353933
+parsetime 4.435e-06
+decodetime 4.4e-08
+degrade_time 0.00858869
+convert_fromtime 0.000924648
+memcpytime 0.000843309
+scheduletime 0.000108051
+CAPTURE (mem alloc) 4.37e-07
+-----frame below (514)-----
+mem_alloctime 1.6122e-05
+convert_totime 0.00260064
+encodetime 0.0053272
+parsetime 3.2444e-05
+decodetime 0.0036865
+parsetime 4.436e-06
+decodetime 4.2e-08
+degrade_time 0.00906845
+convert_fromtime 0.000965876
+memcpytime 0.000887848
+scheduletime 0.000103251
+CAPTURE (mem alloc) 4.62e-07
+-----frame below (515)-----
+mem_alloctime 5.721e-06
+convert_totime 0.00257334
+encodetime 0.00540965
+parsetime 2.9721e-05
+decodetime 0.00372132
+parsetime 4.718e-06
+decodetime 4.3e-08
+degrade_time 0.00917447
+convert_fromtime 0.000981451
+memcpytime 0.000873089
+scheduletime 9.4986e-05
+CAPTURE (mem alloc) 1.116e-06
+-----frame below (516)-----
+mem_alloctime 4.112e-06
+convert_totime 0.00257713
+encodetime 0.00525268
+parsetime 2.7644e-05
+decodetime 0.00361982
+parsetime 5.477e-06
+decodetime 5.7e-08
+degrade_time 0.00891693
+convert_fromtime 0.000954579
+memcpytime 0.000888251
+scheduletime 0.000122977
+CAPTURE (mem alloc) 7.6e-07
+-----frame below (517)-----
+mem_alloctime 3.05e-06
+convert_totime 0.00241006
+encodetime 0.00531211
+parsetime 2.8974e-05
+decodetime 0.00358664
+parsetime 4.488e-06
+decodetime 4.3e-08
+degrade_time 0.00894159
+convert_fromtime 0.000920398
+memcpytime 0.000955239
+scheduletime 9.8391e-05
+CAPTURE (mem alloc) 5.67e-07
+-----frame below (518)-----
+mem_alloctime 6.905e-06
+convert_totime 0.00232475
+encodetime 0.00522753
+parsetime 2.9113e-05
+decodetime 0.00370294
+parsetime 4.606e-06
+decodetime 4.4e-08
+degrade_time 0.00898583
+convert_fromtime 0.000945242
+memcpytime 0.000843113
+scheduletime 0.000124384
+CAPTURE (mem alloc) 4.49e-07
+-----frame below (519)-----
+mem_alloctime 2.058e-06
+convert_totime 0.00229486
+encodetime 0.00508545
+parsetime 4.3943e-05
+decodetime 0.00363015
+parsetime 4.513e-06
+decodetime 3.9e-08
+degrade_time 0.00877369
+convert_fromtime 0.000896887
+memcpytime 0.000866804
+scheduletime 0.000103037
+CAPTURE (mem alloc) 3.71e-07
+-----frame below (520)-----
+mem_alloctime 2.485e-06
+convert_totime 0.00255056
+encodetime 0.00511869
+parsetime 5.7424e-05
+decodetime 0.00368378
+parsetime 4.442e-06
+decodetime 4.1e-08
+degrade_time 0.00887339
+convert_fromtime 0.000982036
+memcpytime 0.000868291
+scheduletime 9.5888e-05
+CAPTURE (mem alloc) 9.99e-07
+-----frame below (521)-----
+mem_alloctime 2.468e-05
+convert_totime 0.00226016
+encodetime 0.00527467
+parsetime 4.7956e-05
+decodetime 0.00362595
+parsetime 4.661e-06
+decodetime 4.2e-08
+degrade_time 0.0089623
+convert_fromtime 0.00275218
+memcpytime 0.000617643
+scheduletime 9.5139e-05
+CAPTURE (mem alloc) 3.15e-07
+-----frame below (522)-----
+mem_alloctime 3.367e-06
+convert_totime 0.00225779
+encodetime 0.00524318
+parsetime 0.000125951
+decodetime 0.00378819
+parsetime 4.483e-06
+decodetime 4e-08
+degrade_time 0.00917181
+convert_fromtime 0.000973763
+memcpytime 0.000904635
+scheduletime 0.000130024
+CAPTURE (mem alloc) 7.33e-07
+-----frame below (523)-----
+mem_alloctime 2.903e-06
+convert_totime 0.00259399
+encodetime 0.00518399
+parsetime 8.6323e-05
+decodetime 0.00375673
+parsetime 4.955e-06
+decodetime 4.8e-08
+degrade_time 0.00905482
+convert_fromtime 0.000959263
+memcpytime 0.000977786
+scheduletime 0.000106552
+CAPTURE (mem alloc) 5.261e-06
+-----frame below (524)-----
+mem_alloctime 4.106e-06
+convert_totime 0.00237926
+encodetime 0.00512032
+parsetime 5.2414e-05
+decodetime 0.00373029
+parsetime 4.742e-06
+decodetime 3.8e-08
+degrade_time 0.00891774
+convert_fromtime 0.00089185
+memcpytime 0.000921353
+scheduletime 0.000106093
+CAPTURE (mem alloc) 6.27e-07
+-----frame below (525)-----
+mem_alloctime 3.383e-06
+convert_totime 0.00236123
+encodetime 0.00526651
+parsetime 2.2734e-05
+decodetime 0.00369847
+parsetime 4.837e-06
+decodetime 3.9e-08
+degrade_time 0.0090023
+convert_fromtime 0.000896608
+memcpytime 0.000856386
+scheduletime 0.000104588
+CAPTURE (mem alloc) 6.48e-07
+-----frame below (526)-----
+mem_alloctime 1.8125e-05
+convert_totime 0.00247148
+encodetime 0.00590102
+parsetime 2.3175e-05
+decodetime 0.00367435
+parsetime 4.649e-06
+decodetime 4.1e-08
+degrade_time 0.00961329
+convert_fromtime 0.000892507
+memcpytime 0.000853013
+scheduletime 0.000102308
+CAPTURE (mem alloc) 9.09e-07
+-----frame below (527)-----
+mem_alloctime 2.4956e-05
+convert_totime 0.00233382
+encodetime 0.0070141
+parsetime 2.1366e-05
+decodetime 0.00368936
+parsetime 4.628e-06
+decodetime 4.1e-08
+degrade_time 0.0107387
+convert_fromtime 0.00089328
+memcpytime 0.000866031
+scheduletime 0.000101998
+CAPTURE (mem alloc) 4.08e-07
+-----frame below (528)-----
+mem_alloctime 3.396e-06
+convert_totime 0.0023619
+encodetime 0.00549422
+parsetime 2.2828e-05
+decodetime 0.003702
+parsetime 4.715e-06
+decodetime 4.1e-08
+degrade_time 0.00923301
+convert_fromtime 0.000892577
+memcpytime 0.000844916
+scheduletime 0.000104278
+CAPTURE (mem alloc) 7.27e-07
+-----frame below (529)-----
+mem_alloctime 1.8151e-05
+convert_totime 0.00230187
+encodetime 0.00621955
+parsetime 2.2467e-05
+decodetime 0.00377901
+parsetime 5.777e-06
+decodetime 5e-08
+degrade_time 0.0100376
+convert_fromtime 0.000904891
+memcpytime 0.00084189
+scheduletime 0.000104434
+CAPTURE (mem alloc) 8.98e-07
+-----frame below (530)-----
+mem_alloctime 3.584e-06
+convert_totime 0.00231248
+encodetime 0.00603413
+parsetime 2.3239e-05
+decodetime 0.0037884
+parsetime 4.741e-06
+decodetime 4.1e-08
+degrade_time 0.00985963
+convert_fromtime 0.000966353
+memcpytime 0.000875307
+scheduletime 0.000111949
+CAPTURE (mem alloc) 5.95e-07
+-----frame below (531)-----
+mem_alloctime 1.7466e-05
+convert_totime 0.00253391
+encodetime 0.00522939
+parsetime 2.192e-05
+decodetime 0.00384227
+parsetime 5.277e-06
+decodetime 5.3e-08
+degrade_time 0.00910837
+convert_fromtime 0.000940068
+memcpytime 0.000877004
+scheduletime 0.00011089
+CAPTURE (mem alloc) 1.206e-06
+-----frame below (532)-----
+mem_alloctime 5.312e-06
+convert_totime 0.00257839
+encodetime 0.00508286
+parsetime 2.2215e-05
+decodetime 0.00367404
+parsetime 4.892e-06
+decodetime 4e-08
+degrade_time 0.00879304
+convert_fromtime 0.000889683
+memcpytime 0.000837974
+scheduletime 0.000103979
+CAPTURE (mem alloc) 6.44e-07
+-----frame below (533)-----
+mem_alloctime 3.852e-06
+convert_totime 0.00261546
+encodetime 0.00571633
+parsetime 2.3026e-05
+decodetime 0.00377559
+parsetime 4.512e-06
+decodetime 4.8e-08
+degrade_time 0.00952906
+convert_fromtime 0.000934758
+memcpytime 0.0008415
+scheduletime 0.00013342
+CAPTURE (mem alloc) 1.089e-06
+-----frame below (534)-----
+mem_alloctime 3.738e-06
+convert_totime 0.00231373
+encodetime 0.00573698
+parsetime 2.2379e-05
+decodetime 0.00385651
+parsetime 4.809e-06
+decodetime 4e-08
+degrade_time 0.00963032
+convert_fromtime 0.000994572
+memcpytime 0.000904001
+scheduletime 0.000109712
+CAPTURE (mem alloc) 6.55e-07
+-----frame below (535)-----
+mem_alloctime 3.669e-06
+convert_totime 0.00234126
+encodetime 0.00555064
+parsetime 2.2002e-05
+decodetime 0.00377356
+parsetime 4.586e-06
+decodetime 4.4e-08
+degrade_time 0.00937231
+convert_fromtime 0.000926298
+memcpytime 0.000874479
+scheduletime 0.000103559
+CAPTURE (mem alloc) 7.86e-07
+-----frame below (536)-----
+mem_alloctime 1.832e-05
+convert_totime 0.00238536
+encodetime 0.00489403
+parsetime 2.1801e-05
+decodetime 0.00384233
+parsetime 1.7642e-05
+decodetime 4.4e-08
+degrade_time 0.00878565
+convert_fromtime 0.000905769
+memcpytime 0.00087671
+scheduletime 9.6914e-05
+CAPTURE (mem alloc) 5.63e-07
+-----frame below (537)-----
+mem_alloctime 4.317e-06
+convert_totime 0.00263099
+encodetime 0.00576317
+parsetime 2.2442e-05
+decodetime 0.00379232
+parsetime 4.783e-06
+decodetime 4.2e-08
+degrade_time 0.00959229
+convert_fromtime 0.000898337
+memcpytime 0.000873053
+scheduletime 9.7515e-05
+CAPTURE (mem alloc) 7.27e-07
+-----frame below (538)-----
+mem_alloctime 4.416e-06
+convert_totime 0.00229973
+encodetime 0.00482327
+parsetime 2.3301e-05
+decodetime 0.00371972
+parsetime 4.939e-06
+decodetime 4.1e-08
+degrade_time 0.00858107
+convert_fromtime 0.000995932
+memcpytime 0.000838744
+scheduletime 0.000123824
+CAPTURE (mem alloc) 3.85e-07
+-----frame below (539)-----
+mem_alloctime 2.964e-06
+convert_totime 0.00252478
+encodetime 0.0050277
+parsetime 2.276e-05
+decodetime 0.00366848
+parsetime 4.217e-06
+decodetime 4e-08
+degrade_time 0.00873263
+convert_fromtime 0.000959959
+memcpytime 0.000887115
+scheduletime 9.6048e-05
+CAPTURE (mem alloc) 7.96e-07
+-----frame below (540)-----
+mem_alloctime 3.803e-06
+convert_totime 0.00237806
+encodetime 0.00479636
+parsetime 2.2349e-05
+decodetime 0.00374436
+parsetime 4.366e-06
+decodetime 4.1e-08
+degrade_time 0.00857759
+convert_fromtime 0.000954016
+memcpytime 0.00092255
+scheduletime 0.000101521
+CAPTURE (mem alloc) 7.75e-07
+-----frame below (541)-----
+mem_alloctime 4.098e-06
+convert_totime 0.00253936
+encodetime 0.00470099
+parsetime 3.6233e-05
+decodetime 0.00360573
+parsetime 4.167e-06
+decodetime 3.9e-08
+degrade_time 0.00835645
+convert_fromtime 0.000945006
+memcpytime 0.000864545
+scheduletime 0.000103488
+CAPTURE (mem alloc) 8.1e-07
+-----frame below (542)-----
+mem_alloctime 1.7728e-05
+convert_totime 0.00249878
+encodetime 0.00460746
+parsetime 2.2286e-05
+decodetime 0.00351554
+parsetime 4.392e-06
+decodetime 4.2e-08
+degrade_time 0.00815977
+convert_fromtime 0.000891576
+memcpytime 0.000846324
+scheduletime 0.000102553
+CAPTURE (mem alloc) 6.02e-07
+-----frame below (543)-----
+mem_alloctime 1.9598e-05
+convert_totime 0.00231185
+encodetime 0.00513848
+parsetime 2.1309e-05
+decodetime 0.00354555
+parsetime 4.055e-06
+decodetime 3.9e-08
+degrade_time 0.00872055
+convert_fromtime 0.000924971
+memcpytime 0.000846762
+scheduletime 9.6863e-05
+CAPTURE (mem alloc) 7.01e-07
+-----frame below (544)-----
+mem_alloctime 4.392e-06
+convert_totime 0.00254852
+encodetime 0.00487407
+parsetime 2.2924e-05
+decodetime 0.00363764
+parsetime 4.107e-06
+decodetime 4e-08
+degrade_time 0.00854827
+convert_fromtime 0.00100135
+memcpytime 0.000934115
+scheduletime 9.8406e-05
+CAPTURE (mem alloc) 3.536e-06
+-----frame below (545)-----
+mem_alloctime 1.765e-06
+convert_totime 0.00255483
+encodetime 0.00481296
+parsetime 2.3215e-05
+decodetime 0.00346454
+parsetime 4.175e-06
+decodetime 4e-08
+degrade_time 0.00831379
+convert_fromtime 0.000896652
+memcpytime 0.000838289
+scheduletime 0.000106995
+CAPTURE (mem alloc) 8.39e-07
+-----frame below (546)-----
+mem_alloctime 1.7763e-05
+convert_totime 0.00227342
+encodetime 0.00533084
+parsetime 2.2038e-05
+decodetime 0.00341643
+parsetime 3.984e-06
+decodetime 3.7e-08
+degrade_time 0.00878299
+convert_fromtime 0.000893589
+memcpytime 0.000840683
+scheduletime 0.000103835
+CAPTURE (mem alloc) 7.29e-07
+-----frame below (547)-----
+mem_alloctime 3.386e-06
+convert_totime 0.00230416
+encodetime 0.00486162
+parsetime 3.5283e-05
+decodetime 0.00339414
+parsetime 3.811e-06
+decodetime 4.7e-08
+degrade_time 0.00831965
+convert_fromtime 0.000897703
+memcpytime 0.000844587
+scheduletime 0.000103247
+CAPTURE (mem alloc) 8.79e-07
+-----frame below (548)-----
+mem_alloctime 1.681e-05
+convert_totime 0.00236075
+encodetime 0.00458723
+parsetime 3.5344e-05
+decodetime 0.00334114
+parsetime 3.871e-06
+decodetime 4.1e-08
+degrade_time 0.00797765
+convert_fromtime 0.000992979
+memcpytime 0.000974255
+scheduletime 0.000101627
+CAPTURE (mem alloc) 7.29e-07
+-----frame below (549)-----
+mem_alloctime 1.7094e-05
+convert_totime 0.00244003
+encodetime 0.004918
+parsetime 2.1844e-05
+decodetime 0.00330267
+parsetime 3.531e-06
+decodetime 4.2e-08
+degrade_time 0.00825613
+convert_fromtime 0.000916337
+memcpytime 0.000862784
+scheduletime 0.000103765
+CAPTURE (mem alloc) 9.02e-07
+-----frame below (550)-----
+mem_alloctime 4.028e-06
+convert_totime 0.00259462
+encodetime 0.00533598
+parsetime 2.2955e-05
+decodetime 0.00321891
+parsetime 3.969e-06
+decodetime 4e-08
+degrade_time 0.00860992
+convert_fromtime 0.000893308
+memcpytime 0.000847999
+scheduletime 0.000103181
+CAPTURE (mem alloc) 1.033e-06
+-----frame below (551)-----
+mem_alloctime 3.3e-06
+convert_totime 0.00253083
+encodetime 0.00458175
+parsetime 2.1872e-05
+decodetime 0.00334559
+parsetime 4.176e-06
+decodetime 5.3e-08
+degrade_time 0.00796314
+convert_fromtime 0.000957821
+memcpytime 0.000881378
+scheduletime 0.000112721
+CAPTURE (mem alloc) 3.68e-07
+-----frame below (552)-----
+mem_alloctime 2.876e-06
+convert_totime 0.002559
+encodetime 0.00460514
+parsetime 2.2666e-05
+decodetime 0.00339605
+parsetime 3.709e-06
+decodetime 3.7e-08
+degrade_time 0.0080363
+convert_fromtime 0.000964402
+memcpytime 0.000898066
+scheduletime 9.5876e-05
+CAPTURE (mem alloc) 9.49e-07
+-----frame below (553)-----
+mem_alloctime 4.911e-06
+convert_totime 0.00224819
+encodetime 0.00592642
+parsetime 2.1541e-05
+decodetime 0.00319247
+parsetime 3.898e-06
+decodetime 4.1e-08
+degrade_time 0.00915338
+convert_fromtime 0.00092773
+memcpytime 0.000962907
+scheduletime 0.000101453
+CAPTURE (mem alloc) 5.91e-07
+-----frame below (554)-----
+mem_alloctime 3.263e-06
+convert_totime 0.00261309
+encodetime 0.00501588
+parsetime 3.0706e-05
+decodetime 0.00331537
+parsetime 3.372e-06
+decodetime 4.1e-08
+degrade_time 0.00837442
+convert_fromtime 0.000932908
+memcpytime 0.000909582
+scheduletime 0.000102825
+CAPTURE (mem alloc) 7.25e-07
+-----frame below (555)-----
+mem_alloctime 1.7109e-05
+convert_totime 0.0023713
+encodetime 0.0042699
+parsetime 2.138e-05
+decodetime 0.00329653
+parsetime 3.396e-06
+decodetime 4.2e-08
+degrade_time 0.0076071
+convert_fromtime 0.000911539
+memcpytime 0.000866271
+scheduletime 0.000103603
+CAPTURE (mem alloc) 7.94e-07
+-----frame below (556)-----
+mem_alloctime 1.9796e-05
+convert_totime 0.00257189
+encodetime 0.00472623
+parsetime 3.473e-05
+decodetime 0.00317443
+parsetime 4.22e-06
+decodetime 4.3e-08
+degrade_time 0.00794955
+convert_fromtime 0.00096244
+memcpytime 0.000850334
+scheduletime 0.000102046
+CAPTURE (mem alloc) 7.13e-07
+-----frame below (557)-----
+mem_alloctime 3.308e-06
+convert_totime 0.00261475
+encodetime 0.00498034
+parsetime 2.2316e-05
+decodetime 0.00327317
+parsetime 3.776e-06
+decodetime 5.3e-08
+degrade_time 0.00828871
+convert_fromtime 0.000972769
+memcpytime 0.00098681
+scheduletime 0.000101146
+CAPTURE (mem alloc) 1.3153e-05
+-----frame below (558)-----
+mem_alloctime 3.969e-06
+convert_totime 0.00252456
+encodetime 0.00478481
+parsetime 3.5123e-05
+decodetime 0.00338792
+parsetime 3.524e-06
+decodetime 3.6e-08
+degrade_time 0.00822105
+convert_fromtime 0.000928432
+memcpytime 0.000874954
+scheduletime 0.000130443
+CAPTURE (mem alloc) 7.98e-07
+-----frame below (559)-----
+mem_alloctime 1.7056e-05
+convert_totime 0.00233131
+encodetime 0.00476108
+parsetime 2.1346e-05
+decodetime 0.0033748
+parsetime 3.616e-06
+decodetime 3.9e-08
+degrade_time 0.0081708
+convert_fromtime 0.000927893
+memcpytime 0.000839046
+scheduletime 0.000107927
+CAPTURE (mem alloc) 7.93e-07
+-----frame below (560)-----
+mem_alloctime 4.627e-06
+convert_totime 0.00232296
+encodetime 0.00558841
+parsetime 2.267e-05
+decodetime 0.00331982
+parsetime 4.05e-06
+decodetime 3.9e-08
+degrade_time 0.00894415
+convert_fromtime 0.000892946
+memcpytime 0.000852532
+scheduletime 9.8685e-05
+CAPTURE (mem alloc) 6.43e-07
+-----frame below (561)-----
+mem_alloctime 4.298e-06
+convert_totime 0.0022984
+encodetime 0.00501512
+parsetime 2.1484e-05
+decodetime 0.00339343
+parsetime 3.933e-06
+decodetime 4.4e-08
+degrade_time 0.00844465
+convert_fromtime 0.00092731
+memcpytime 0.000857669
+scheduletime 9.6069e-05
+CAPTURE (mem alloc) 8.43e-07
+-----frame below (562)-----
+mem_alloctime 4.951e-06
+convert_totime 0.00236045
+encodetime 0.00509695
+parsetime 2.2115e-05
+decodetime 0.00337915
+parsetime 3.988e-06
+decodetime 4.2e-08
+degrade_time 0.00851127
+convert_fromtime 0.000890584
+memcpytime 0.000973721
+scheduletime 9.5141e-05
+CAPTURE (mem alloc) 4.09e-07
+-----frame below (563)-----
+mem_alloctime 1.571e-05
+convert_totime 0.00240779
+encodetime 0.00506653
+parsetime 2.2258e-05
+decodetime 0.00340321
+parsetime 4.309e-06
+decodetime 4e-08
+degrade_time 0.00851999
+convert_fromtime 0.0008975
+memcpytime 0.0008296
+scheduletime 0.000102692
+CAPTURE (mem alloc) 6.65e-07
+-----frame below (564)-----
+mem_alloctime 4.031e-06
+convert_totime 0.00231038
+encodetime 0.00454566
+parsetime 2.2136e-05
+decodetime 0.00338927
+parsetime 3.873e-06
+decodetime 3.8e-08
+degrade_time 0.00797114
+convert_fromtime 0.000893588
+memcpytime 0.000842197
+scheduletime 0.000102916
+CAPTURE (mem alloc) 6.49e-07
+-----frame below (565)-----
+mem_alloctime 1.8608e-05
+convert_totime 0.00228845
+encodetime 0.00451002
+parsetime 2.1948e-05
+decodetime 0.00347641
+parsetime 3.997e-06
+decodetime 4e-08
+degrade_time 0.00802189
+convert_fromtime 0.000963249
+memcpytime 0.000948348
+scheduletime 9.5925e-05
+CAPTURE (mem alloc) 5.185e-06
+-----frame below (566)-----
+mem_alloctime 4.326e-06
+convert_totime 0.00232551
+encodetime 0.004772
+parsetime 2.0875e-05
+decodetime 0.0034913
+parsetime 3.817e-06
+decodetime 4.3e-08
+degrade_time 0.00829742
+convert_fromtime 0.00092979
+memcpytime 0.000872766
+scheduletime 0.000131207
+CAPTURE (mem alloc) 7.6e-07
+-----frame below (567)-----
+mem_alloctime 3.938e-06
+convert_totime 0.00259846
+encodetime 0.00475758
+parsetime 2.3206e-05
+decodetime 0.00342095
+parsetime 4.224e-06
+decodetime 3.9e-08
+degrade_time 0.0082152
+convert_fromtime 0.000895772
+memcpytime 0.000830869
+scheduletime 0.000103174
+CAPTURE (mem alloc) 5.98e-07
+-----frame below (568)-----
+mem_alloctime 3.413e-06
+convert_totime 0.00251577
+encodetime 0.00505417
+parsetime 2.2272e-05
+decodetime 0.003544
+parsetime 4.149e-06
+decodetime 4.1e-08
+degrade_time 0.00863335
+convert_fromtime 0.000965
+memcpytime 0.000879335
+scheduletime 0.000109714
+CAPTURE (mem alloc) 8.13e-07
+-----frame below (569)-----
+mem_alloctime 1.7613e-05
+convert_totime 0.0025273
+encodetime 0.00503814
+parsetime 2.2041e-05
+decodetime 0.00347711
+parsetime 4.082e-06
+decodetime 4.3e-08
+degrade_time 0.00855015
+convert_fromtime 0.000982225
+memcpytime 0.000865275
+scheduletime 0.000104964
+CAPTURE (mem alloc) 6.45e-07
+-----frame below (570)-----
+mem_alloctime 1.7245e-05
+convert_totime 0.00262562
+encodetime 0.00531027
+parsetime 2.2663e-05
+decodetime 0.0034626
+parsetime 4.282e-06
+decodetime 4.2e-08
+degrade_time 0.00880926
+convert_fromtime 0.000991164
+memcpytime 0.000845711
+scheduletime 0.000106491
+CAPTURE (mem alloc) 7.28e-07
+-----frame below (571)-----
+mem_alloctime 1.694e-05
+convert_totime 0.00267164
+encodetime 0.00500616
+parsetime 2.205e-05
+decodetime 0.00354485
+parsetime 4.591e-06
+decodetime 4e-08
+degrade_time 0.00858709
+convert_fromtime 0.000896665
+memcpytime 0.000915615
+scheduletime 9.7829e-05
+CAPTURE (mem alloc) 6.14e-07
+-----frame below (572)-----
+mem_alloctime 3.583e-06
+convert_totime 0.00233481
+encodetime 0.00545168
+parsetime 2.2336e-05
+decodetime 0.00355859
+parsetime 4.838e-06
+decodetime 4.4e-08
+degrade_time 0.009047
+convert_fromtime 0.000899622
+memcpytime 0.000840484
+scheduletime 0.000102815
+CAPTURE (mem alloc) 9.6e-07
+-----frame below (573)-----
+mem_alloctime 2.245e-05
+convert_totime 0.00244691
+encodetime 0.00560337
+parsetime 2.1463e-05
+decodetime 0.00395968
+parsetime 8.511e-06
+decodetime 5e-08
+degrade_time 0.00960249
+convert_fromtime 0.000927062
+memcpytime 0.000868722
+scheduletime 0.000135732
+CAPTURE (mem alloc) 9.19e-07
+-----frame below (574)-----
+mem_alloctime 1.348e-06
+convert_totime 0.00226967
+encodetime 0.00527704
+parsetime 2.4599e-05
+decodetime 0.00390164
+parsetime 4.896e-06
+decodetime 3.9e-08
+degrade_time 0.00921795
+convert_fromtime 0.00089581
+memcpytime 0.000839379
+scheduletime 0.000102044
+CAPTURE (mem alloc) 7.55e-07
+-----frame below (575)-----
+mem_alloctime 2.0356e-05
+convert_totime 0.00229622
+encodetime 0.00541867
+parsetime 2.4134e-05
+decodetime 0.00389495
+parsetime 4.917e-06
+decodetime 4e-08
+degrade_time 0.00935283
+convert_fromtime 0.000923321
+memcpytime 0.000873184
+scheduletime 0.000102392
+CAPTURE (mem alloc) 9.27e-07
+-----frame below (576)-----
+mem_alloctime 4.041e-06
+convert_totime 0.00248249
+encodetime 0.00537481
+parsetime 2.0901e-05
+decodetime 0.00409173
+parsetime 5.568e-06
+decodetime 3.9e-08
+degrade_time 0.00950366
+conv

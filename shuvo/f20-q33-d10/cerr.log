@@ -1,0 +1,42 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x1c3ee40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x1c3ee40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (hw timestamp): Frame 204 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66566
+	Hardware timestamp delay: 66738
+PLAYBACK (hw timestamp): Frame 205 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 100098
+	Hardware timestamp delay: 100042
+PLAYBACK (hw timestamp): Frame 220 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66848
+	Hardware timestamp delay: 66703
+PLAYBACK (hw timestamp): Frame 222 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66895
+	Hardware timestamp delay: 66742
+PLAYBACK (hw timestamp): Frame 404 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66707
+	Hardware timestamp delay: 66676
+PLAYBACK (hw timestamp): Frame 405 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 166855
+	Hardware timestamp delay: 166861
+PLAYBACK (hw timestamp): Frame 543 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66660
+	Hardware timestamp delay: 66685
+PLAYBACK (hw timestamp): Frame 583 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66579
+	Hardware timestamp delay: 66702
+[libx264 @ 0x1c3ee40] frame I:591   Avg QP:33.00  size: 37062
+[libx264 @ 0x1c3ee40] mb I  I16..4: 18.1% 66.9% 15.0%
+[libx264 @ 0x1c3ee40] final ratefactor: 40.51
+[libx264 @ 0x1c3ee40] 8x8 transform intra:66.9%
+[libx264 @ 0x1c3ee40] coded y,uvDC,uvAC intra: 56.2% 65.7% 21.1%
+[libx264 @ 0x1c3ee40] i16 v,h,dc,p: 23% 38% 21% 18%
+[libx264 @ 0x1c3ee40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 20% 29%  7%  7%  5%  9%  5% 10%
+[libx264 @ 0x1c3ee40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 27% 19%  7%  8%  5%  9%  4%  7%
+[libx264 @ 0x1c3ee40] i8c dc,h,v,p: 67% 16% 12%  5%
+[libx264 @ 0x1c3ee40] kb/s:5929.86
+Stopping Capture

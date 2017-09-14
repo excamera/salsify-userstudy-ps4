@@ -1,0 +1,42 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x248ae40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x248ae40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (hw timestamp): Frame 257 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66629
+	Hardware timestamp delay: 66710
+PLAYBACK (hw timestamp): Frame 272 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66664
+	Hardware timestamp delay: 66683
+PLAYBACK (hw timestamp): Frame 280 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66640
+	Hardware timestamp delay: 66729
+CAPTURE: dropped a frame (dropped_count=0)
+PLAYBACK (hw timestamp): Frame 281 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 166829
+	Hardware timestamp delay: 166822
+PLAYBACK (hw timestamp): Frame 293 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66698
+	Hardware timestamp delay: 66756
+PLAYBACK (hw timestamp): Frame 384 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66692
+	Hardware timestamp delay: 66730
+PLAYBACK (hw timestamp): Frame 390 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66831
+	Hardware timestamp delay: 66755
+[libx264 @ 0x248ae40] frame I:580   Avg QP:26.00  size: 66870
+[libx264 @ 0x248ae40] mb I  I16..4: 10.9% 69.8% 19.2%
+[libx264 @ 0x248ae40] final ratefactor: 39.37
+[libx264 @ 0x248ae40] 8x8 transform intra:69.8%
+[libx264 @ 0x248ae40] coded y,uvDC,uvAC intra: 72.0% 81.4% 41.2%
+[libx264 @ 0x248ae40] i16 v,h,dc,p: 18% 37% 16% 29%
+[libx264 @ 0x248ae40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 21% 23%  7%  7%  5% 10%  5% 11%
+[libx264 @ 0x248ae40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 25% 16%  7%  9%  6% 10%  5%  8%
+[libx264 @ 0x248ae40] i8c dc,h,v,p: 62% 17% 14%  7%
+[libx264 @ 0x248ae40] kb/s:10699.19
+Stopping Capture
+CAPTURE: dropped a frame (dropped_count=1)
+CAPTURE: dropped a frame (dropped_count=2)

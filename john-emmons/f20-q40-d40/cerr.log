@@ -1,0 +1,21 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x2154e40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x2154e40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (hw timestamp): Frame 565 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 83341
+	Hardware timestamp delay: 83411
+[libx264 @ 0x2154e40] frame I:861   Avg QP:40.00  size: 16214
+[libx264 @ 0x2154e40] mb I  I16..4: 25.3% 66.5%  8.3%
+[libx264 @ 0x2154e40] final ratefactor: 40.31
+[libx264 @ 0x2154e40] 8x8 transform intra:66.5%
+[libx264 @ 0x2154e40] coded y,uvDC,uvAC intra: 31.6% 39.1% 8.3%
+[libx264 @ 0x2154e40] i16 v,h,dc,p: 26% 44% 17% 14%
+[libx264 @ 0x2154e40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13% 22% 41%  4%  4%  3%  5%  3%  6%
+[libx264 @ 0x2154e40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 18% 30% 22%  5%  5%  4%  7%  3%  6%
+[libx264 @ 0x2154e40] i8c dc,h,v,p: 83%  9%  7%  1%
+[libx264 @ 0x2154e40] kb/s:2594.20
+Stopping Capture

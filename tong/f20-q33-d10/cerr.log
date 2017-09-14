@@ -1,0 +1,57 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x1ae0e40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x1ae0e40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (hw timestamp): Frame 83 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66643
+	Hardware timestamp delay: 66611
+PLAYBACK (hw timestamp): Frame 149 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66613
+	Hardware timestamp delay: 66666
+PLAYBACK (hw timestamp): Frame 227 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66603
+	Hardware timestamp delay: 66710
+PLAYBACK (hw timestamp): Frame 289 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 83324
+	Hardware timestamp delay: 83395
+PLAYBACK (hw timestamp): Frame 292 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66796
+	Hardware timestamp delay: 66674
+PLAYBACK (hw timestamp): Frame 294 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66632
+	Hardware timestamp delay: 66657
+PLAYBACK (hw timestamp): Frame 298 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66572
+	Hardware timestamp delay: 66670
+CAPTURE: dropped a frame (dropped_count=0)
+CAPTURE: dropped a frame (dropped_count=1)
+CAPTURE: dropped a frame (dropped_count=2)
+PLAYBACK (hw timestamp): Frame 339 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 283548
+	Hardware timestamp delay: 283550
+PLAYBACK (hw timestamp): Frame 412 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66601
+	Hardware timestamp delay: 66647
+PLAYBACK (hw timestamp): Frame 420 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66689
+	Hardware timestamp delay: 66606
+PLAYBACK (hw timestamp): Frame 426 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66600
+	Hardware timestamp delay: 66651
+PLAYBACK (hw timestamp): Frame 478 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66632
+	Hardware timestamp delay: 66666
+[libx264 @ 0x1ae0e40] frame I:588   Avg QP:33.00  size: 39606
+[libx264 @ 0x1ae0e40] mb I  I16..4: 20.8% 63.0% 16.1%
+[libx264 @ 0x1ae0e40] final ratefactor: 41.17
+[libx264 @ 0x1ae0e40] 8x8 transform intra:63.0%
+[libx264 @ 0x1ae0e40] coded y,uvDC,uvAC intra: 53.2% 66.0% 25.6%
+[libx264 @ 0x1ae0e40] i16 v,h,dc,p: 24% 39% 20% 17%
+[libx264 @ 0x1ae0e40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 22% 28%  6%  6%  4%  8%  5% 10%
+[libx264 @ 0x1ae0e40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 27% 19%  6%  7%  5%  9%  5%  7%
+[libx264 @ 0x1ae0e40] i8c dc,h,v,p: 66% 17% 13%  5%
+[libx264 @ 0x1ae0e40] kb/s:6337.03
+Stopping Capture

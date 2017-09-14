@@ -1,0 +1,37 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x1da7e40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x1da7e40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (callback): Frame 45 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 50019
+	Hardware timestamp delay: 57448
+CAPTURE: dropped a frame (dropped_count=0)
+CAPTURE: dropped a frame (dropped_count=1)
+CAPTURE: dropped a frame (dropped_count=2)
+CAPTURE: dropped a frame (dropped_count=3)
+PLAYBACK (hw timestamp): Frame 192 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 333687
+	Hardware timestamp delay: 333727
+PLAYBACK (hw timestamp): Frame 291 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66728
+	Hardware timestamp delay: 66684
+PLAYBACK (hw timestamp): Frame 292 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 133444
+	Hardware timestamp delay: 133492
+PLAYBACK (hw timestamp): Frame 564 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66710
+	Hardware timestamp delay: 66630
+[libx264 @ 0x1da7e40] frame I:587   Avg QP:33.00  size: 38697
+[libx264 @ 0x1da7e40] mb I  I16..4: 14.2% 68.6% 17.3%
+[libx264 @ 0x1da7e40] final ratefactor: 40.70
+[libx264 @ 0x1da7e40] 8x8 transform intra:68.6%
+[libx264 @ 0x1da7e40] coded y,uvDC,uvAC intra: 61.7% 64.9% 18.6%
+[libx264 @ 0x1da7e40] i16 v,h,dc,p: 18% 41% 18% 23%
+[libx264 @ 0x1da7e40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  9% 24% 25%  6%  7%  4% 10%  4% 11%
+[libx264 @ 0x1da7e40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 27% 19%  6%  8%  5%  9%  4%  7%
+[libx264 @ 0x1da7e40] i8c dc,h,v,p: 66% 17% 12%  5%
+[libx264 @ 0x1da7e40] kb/s:6191.48
+Stopping Capture

@@ -1,0 +1,44 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x1a27e40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x1a27e40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (hw timestamp): Frame 96 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66609
+	Hardware timestamp delay: 66662
+PLAYBACK (hw timestamp): Frame 106 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66559
+	Hardware timestamp delay: 66594
+PLAYBACK (hw timestamp): Frame 199 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 83417
+	Hardware timestamp delay: 83409
+CAPTURE: dropped a frame (dropped_count=0)
+CAPTURE: dropped a frame (dropped_count=1)
+CAPTURE: dropped a frame (dropped_count=2)
+PLAYBACK (hw timestamp): Frame 200 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 266860
+	Hardware timestamp delay: 266857
+PLAYBACK (hw timestamp): Frame 397 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 83320
+	Hardware timestamp delay: 83426
+CAPTURE: dropped a frame (dropped_count=3)
+CAPTURE: dropped a frame (dropped_count=4)
+PLAYBACK (hw timestamp): Frame 398 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 233560
+	Hardware timestamp delay: 233615
+PLAYBACK (hw timestamp): Frame 424 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66532
+	Hardware timestamp delay: 66616
+[libx264 @ 0x1a27e40] frame I:595   Avg QP:33.00  size: 35951
+[libx264 @ 0x1a27e40] mb I  I16..4: 19.5% 65.3% 15.2%
+[libx264 @ 0x1a27e40] final ratefactor: 40.45
+[libx264 @ 0x1a27e40] 8x8 transform intra:65.3%
+[libx264 @ 0x1a27e40] coded y,uvDC,uvAC intra: 52.8% 64.4% 21.9%
+[libx264 @ 0x1a27e40] i16 v,h,dc,p: 21% 40% 21% 18%
+[libx264 @ 0x1a27e40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 22% 29%  7%  6%  4%  8%  4%  9%
+[libx264 @ 0x1a27e40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 27% 19%  6%  7%  5%  8%  4%  7%
+[libx264 @ 0x1a27e40] i8c dc,h,v,p: 67% 17% 12%  5%
+[libx264 @ 0x1a27e40] kb/s:5752.17
+Stopping Capture

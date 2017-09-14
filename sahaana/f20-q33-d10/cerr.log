@@ -1,0 +1,42 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x1f4be40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x1f4be40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (callback): Frame 137 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 50050
+	Hardware timestamp delay: 57715
+PLAYBACK (callback): Frame 144 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 50007
+	Hardware timestamp delay: 57531
+PLAYBACK (callback): Frame 215 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 50006
+	Hardware timestamp delay: 57650
+PLAYBACK (hw timestamp): Frame 241 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66696
+	Hardware timestamp delay: 66658
+PLAYBACK (callback): Frame 309 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 50028
+	Hardware timestamp delay: 57705
+PLAYBACK (callback): Frame 352 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 49952
+	Hardware timestamp delay: 57664
+PLAYBACK (hw timestamp): Frame 405 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66729
+	Hardware timestamp delay: 66645
+PLAYBACK (callback): Frame 534 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 50013
+	Hardware timestamp delay: 57555
+[libx264 @ 0x1f4be40] frame I:591   Avg QP:33.00  size: 27910
+[libx264 @ 0x1f4be40] mb I  I16..4: 29.1% 57.3% 13.7%
+[libx264 @ 0x1f4be40] final ratefactor: 38.91
+[libx264 @ 0x1f4be40] 8x8 transform intra:57.3%
+[libx264 @ 0x1f4be40] coded y,uvDC,uvAC intra: 39.0% 50.4% 10.6%
+[libx264 @ 0x1f4be40] i16 v,h,dc,p: 24% 37% 20% 18%
+[libx264 @ 0x1f4be40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 20% 37%  6%  6%  4%  7%  3%  7%
+[libx264 @ 0x1f4be40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 17% 23% 23%  6%  7%  5%  8%  4%  6%
+[libx264 @ 0x1f4be40] i8c dc,h,v,p: 71% 14% 12%  3%
+[libx264 @ 0x1f4be40] kb/s:4465.65
+Stopping Capture

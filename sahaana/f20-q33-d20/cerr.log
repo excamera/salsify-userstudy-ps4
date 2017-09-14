@@ -1,0 +1,52 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x1d76e40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x1d76e40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (hw timestamp): Frame 181 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66733
+	Hardware timestamp delay: 66742
+PLAYBACK (hw timestamp): Frame 182 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 133372
+	Hardware timestamp delay: 133449
+PLAYBACK (hw timestamp): Frame 233 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66782
+	Hardware timestamp delay: 66689
+PLAYBACK (hw timestamp): Frame 246 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66639
+	Hardware timestamp delay: 66729
+PLAYBACK (hw timestamp): Frame 251 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66612
+	Hardware timestamp delay: 66726
+PLAYBACK (hw timestamp): Frame 255 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66612
+	Hardware timestamp delay: 66685
+PLAYBACK (hw timestamp): Frame 264 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66662
+	Hardware timestamp delay: 66691
+PLAYBACK (hw timestamp): Frame 275 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66632
+	Hardware timestamp delay: 66688
+PLAYBACK (hw timestamp): Frame 287 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66667
+	Hardware timestamp delay: 66739
+PLAYBACK (hw timestamp): Frame 306 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66731
+	Hardware timestamp delay: 66683
+PLAYBACK (hw timestamp): Frame 310 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66782
+	Hardware timestamp delay: 66709
+[libx264 @ 0x1d76e40] frame I:581   Avg QP:33.00  size: 25933
+[libx264 @ 0x1d76e40] mb I  I16..4: 31.1% 54.6% 14.2%
+[libx264 @ 0x1d76e40] final ratefactor: 38.25
+[libx264 @ 0x1d76e40] 8x8 transform intra:54.6%
+[libx264 @ 0x1d76e40] coded y,uvDC,uvAC intra: 36.9% 43.0% 6.1%
+[libx264 @ 0x1d76e40] i16 v,h,dc,p: 25% 37% 21% 16%
+[libx264 @ 0x1d76e40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 20% 38%  5%  6%  4%  7%  3%  6%
+[libx264 @ 0x1d76e40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 22% 23%  6%  6%  5%  7%  4%  6%
+[libx264 @ 0x1d76e40] i8c dc,h,v,p: 74% 13% 11%  2%
+CAPTURE: dropped a frame (dropped_count=0)[libx264 @ 0x1d76e40] kb/s:4149.31
+
+Stopping Capture

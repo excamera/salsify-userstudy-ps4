@@ -1,0 +1,399 @@
+./ps4_degrader: invalid option -- 'v'
+Capturing with the following configuration:
+ - Capture device: DeckLink 4K Extreme 12G
+ - Video mode: 720p59.94
+ - Pixel format: 8 bit BGRA (4:4:4:x)
+[libx264 @ 0x2024e40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX AVX2 FMA3 LZCNT BMI2
+[libx264 @ 0x2024e40] profile High 4:2:2 Intra, level 3.1, 4:2:2 8-bit
+PLAYBACK (hw timestamp): Frame 58 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66627
+	Hardware timestamp delay: 66658
+PLAYBACK (hw timestamp): Frame 150 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66726
+	Hardware timestamp delay: 66675
+PLAYBACK (hw timestamp): Frame 152 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66709
+	Hardware timestamp delay: 66712
+PLAYBACK (hw timestamp): Frame 157 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66697
+	Hardware timestamp delay: 66673
+PLAYBACK (hw timestamp): Frame 162 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66695
+	Hardware timestamp delay: 66650
+PLAYBACK (hw timestamp): Frame 167 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66688
+	Hardware timestamp delay: 66691
+PLAYBACK (hw timestamp): Frame 184 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66744
+	Hardware timestamp delay: 66679
+PLAYBACK (hw timestamp): Frame 189 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66637
+	Hardware timestamp delay: 66667
+PLAYBACK (hw timestamp): Frame 194 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66705
+	Hardware timestamp delay: 66806
+PLAYBACK (hw timestamp): Frame 197 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66702
+	Hardware timestamp delay: 66757
+PLAYBACK (hw timestamp): Frame 202 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66624
+	Hardware timestamp delay: 66693
+PLAYBACK (hw timestamp): Frame 208 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66679
+	Hardware timestamp delay: 66755
+PLAYBACK (hw timestamp): Frame 212 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66627
+	Hardware timestamp delay: 66670
+PLAYBACK (hw timestamp): Frame 218 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66665
+	Hardware timestamp delay: 66720
+PLAYBACK (hw timestamp): Frame 221 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66663
+	Hardware timestamp delay: 66725
+PLAYBACK (hw timestamp): Frame 225 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66700
+	Hardware timestamp delay: 66621
+PLAYBACK (hw timestamp): Frame 229 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66761
+	Hardware timestamp delay: 66026
+PLAYBACK (hw timestamp): Frame 243 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66689
+	Hardware timestamp delay: 66644
+PLAYBACK (hw timestamp): Frame 256 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66680
+	Hardware timestamp delay: 66670
+PLAYBACK (hw timestamp): Frame 265 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66760
+	Hardware timestamp delay: 66689
+PLAYBACK (hw timestamp): Frame 280 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66642
+	Hardware timestamp delay: 69577
+PLAYBACK (hw timestamp): Frame 286 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66715
+	Hardware timestamp delay: 66757
+PLAYBACK (hw timestamp): Frame 288 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66659
+	Hardware timestamp delay: 66698
+PLAYBACK (hw timestamp): Frame 296 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66722
+	Hardware timestamp delay: 66625
+PLAYBACK (hw timestamp): Frame 301 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66762
+	Hardware timestamp delay: 66640
+PLAYBACK (hw timestamp): Frame 307 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66729
+	Hardware timestamp delay: 66764
+PLAYBACK (hw timestamp): Frame 373 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66710
+	Hardware timestamp delay: 66684
+PLAYBACK (hw timestamp): Frame 386 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66672
+	Hardware timestamp delay: 66578
+PLAYBACK (hw timestamp): Frame 388 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66710
+	Hardware timestamp delay: 66707
+PLAYBACK (hw timestamp): Frame 419 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66699
+	Hardware timestamp delay: 66730
+PLAYBACK (hw timestamp): Frame 429 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66723
+	Hardware timestamp delay: 66742
+PLAYBACK (hw timestamp): Frame 433 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66667
+	Hardware timestamp delay: 66734
+PLAYBACK (hw timestamp): Frame 460 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 100118
+	Hardware timestamp delay: 100128
+PLAYBACK (hw timestamp): Frame 469 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66723
+	Hardware timestamp delay: 66728
+PLAYBACK (hw timestamp): Frame 557 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66728
+	Hardware timestamp delay: 66680
+PLAYBACK (hw timestamp): Frame 561 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66626
+	Hardware timestamp delay: 66698
+PLAYBACK (hw timestamp): Frame 566 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66641
+	Hardware timestamp delay: 66677
+PLAYBACK (hw timestamp): Frame 575 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66569
+	Hardware timestamp delay: 66702
+PLAYBACK (hw timestamp): Frame 598 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66557
+	Hardware timestamp delay: 66633
+PLAYBACK (hw timestamp): Frame 601 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66638
+	Hardware timestamp delay: 66668
+PLAYBACK (hw timestamp): Frame 606 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 66643
+PLAYBACK (hw timestamp): Frame 615 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66711
+	Hardware timestamp delay: 66739
+PLAYBACK (hw timestamp): Frame 620 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 66704
+PLAYBACK (hw timestamp): Frame 627 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66698
+	Hardware timestamp delay: 66690
+PLAYBACK (hw timestamp): Frame 632 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66636
+	Hardware timestamp delay: 66641
+PLAYBACK (hw timestamp): Frame 635 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66703
+	Hardware timestamp delay: 66677
+PLAYBACK (hw timestamp): Frame 638 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66630
+	Hardware timestamp delay: 66654
+PLAYBACK (hw timestamp): Frame 668 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66672
+	Hardware timestamp delay: 66678
+PLAYBACK (hw timestamp): Frame 680 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66667
+	Hardware timestamp delay: 66696
+PLAYBACK (hw timestamp): Frame 688 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66733
+	Hardware timestamp delay: 66708
+PLAYBACK (hw timestamp): Frame 703 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66630
+	Hardware timestamp delay: 66674
+PLAYBACK (hw timestamp): Frame 714 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66559
+	Hardware timestamp delay: 66674
+PLAYBACK (hw timestamp): Frame 718 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66562
+	Hardware timestamp delay: 66671
+PLAYBACK (hw timestamp): Frame 723 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66664
+	Hardware timestamp delay: 66621
+PLAYBACK (hw timestamp): Frame 745 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66630
+	Hardware timestamp delay: 66667
+PLAYBACK (hw timestamp): Frame 752 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66696
+	Hardware timestamp delay: 66660
+PLAYBACK (hw timestamp): Frame 757 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66614
+	Hardware timestamp delay: 66810
+PLAYBACK (hw timestamp): Frame 761 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66647
+	Hardware timestamp delay: 66676
+PLAYBACK (hw timestamp): Frame 764 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66637
+	Hardware timestamp delay: 66644
+PLAYBACK (hw timestamp): Frame 770 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66655
+	Hardware timestamp delay: 66682
+PLAYBACK (hw timestamp): Frame 775 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66699
+	Hardware timestamp delay: 66699
+PLAYBACK (hw timestamp): Frame 777 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66599
+	Hardware timestamp delay: 66767
+PLAYBACK (hw timestamp): Frame 780 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66663
+	Hardware timestamp delay: 66694
+PLAYBACK (hw timestamp): Frame 783 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66706
+	Hardware timestamp delay: 66747
+PLAYBACK (hw timestamp): Frame 788 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66664
+	Hardware timestamp delay: 66690
+PLAYBACK (hw timestamp): Frame 794 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66706
+	Hardware timestamp delay: 66625
+PLAYBACK (hw timestamp): Frame 797 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 66701
+PLAYBACK (hw timestamp): Frame 800 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66581
+	Hardware timestamp delay: 66658
+PLAYBACK (hw timestamp): Frame 805 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66718
+	Hardware timestamp delay: 66691
+PLAYBACK (hw timestamp): Frame 810 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66589
+	Hardware timestamp delay: 66700
+PLAYBACK (hw timestamp): Frame 819 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66663
+	Hardware timestamp delay: 66684
+PLAYBACK (hw timestamp): Frame 823 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66657
+	Hardware timestamp delay: 66721
+PLAYBACK (hw timestamp): Frame 828 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66639
+	Hardware timestamp delay: 66758
+PLAYBACK (hw timestamp): Frame 838 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66633
+	Hardware timestamp delay: 66666
+PLAYBACK (hw timestamp): Frame 853 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66681
+	Hardware timestamp delay: 66752
+PLAYBACK (hw timestamp): Frame 856 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66640
+	Hardware timestamp delay: 66687
+PLAYBACK (hw timestamp): Frame 863 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66667
+	Hardware timestamp delay: 66707
+PLAYBACK (hw timestamp): Frame 866 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66584
+	Hardware timestamp delay: 66660
+PLAYBACK (hw timestamp): Frame 868 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66566
+	Hardware timestamp delay: 66690
+PLAYBACK (hw timestamp): Frame 871 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66634
+	Hardware timestamp delay: 66671
+PLAYBACK (hw timestamp): Frame 874 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66584
+	Hardware timestamp delay: 66738
+PLAYBACK (hw timestamp): Frame 884 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66583
+	Hardware timestamp delay: 66711
+PLAYBACK (hw timestamp): Frame 887 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66639
+	Hardware timestamp delay: 66790
+PLAYBACK (hw timestamp): Frame 892 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66561
+	Hardware timestamp delay: 66670
+PLAYBACK (hw timestamp): Frame 904 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66659
+	Hardware timestamp delay: 66714
+PLAYBACK (hw timestamp): Frame 908 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66636
+	Hardware timestamp delay: 66687
+PLAYBACK (hw timestamp): Frame 917 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66632
+	Hardware timestamp delay: 66628
+PLAYBACK (hw timestamp): Frame 920 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66682
+	Hardware timestamp delay: 66688
+PLAYBACK (hw timestamp): Frame 924 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66632
+	Hardware timestamp delay: 66646
+PLAYBACK (hw timestamp): Frame 929 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66636
+	Hardware timestamp delay: 66645
+PLAYBACK (hw timestamp): Frame 934 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66648
+	Hardware timestamp delay: 66692
+PLAYBACK (hw timestamp): Frame 940 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66636
+	Hardware timestamp delay: 66618
+PLAYBACK (hw timestamp): Frame 947 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66660
+	Hardware timestamp delay: 66667
+PLAYBACK (hw timestamp): Frame 951 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66633
+	Hardware timestamp delay: 66654
+PLAYBACK (hw timestamp): Frame 954 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66659
+	Hardware timestamp delay: 66717
+PLAYBACK (hw timestamp): Frame 960 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66628
+	Hardware timestamp delay: 66681
+PLAYBACK (hw timestamp): Frame 972 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66558
+	Hardware timestamp delay: 66727
+PLAYBACK (hw timestamp): Frame 991 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66664
+	Hardware timestamp delay: 66715
+PLAYBACK (hw timestamp): Frame 995 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66577
+	Hardware timestamp delay: 66657
+PLAYBACK (hw timestamp): Frame 1005 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 66729
+PLAYBACK (hw timestamp): Frame 1012 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 66668
+PLAYBACK (hw timestamp): Frame 1022 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66705
+	Hardware timestamp delay: 66649
+PLAYBACK (hw timestamp): Frame 1033 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66560
+	Hardware timestamp delay: 66670
+PLAYBACK (hw timestamp): Frame 1038 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66656
+	Hardware timestamp delay: 66704
+PLAYBACK (hw timestamp): Frame 1046 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66685
+	Hardware timestamp delay: 66734
+PLAYBACK (hw timestamp): Frame 1060 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66667
+	Hardware timestamp delay: 66709
+PLAYBACK (hw timestamp): Frame 1074 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66586
+	Hardware timestamp delay: 66681
+PLAYBACK (hw timestamp): Frame 1077 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 66670
+PLAYBACK (hw timestamp): Frame 1085 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66571
+	Hardware timestamp delay: 66716
+PLAYBACK (hw timestamp): Frame 1088 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66660
+	Hardware timestamp delay: 66710
+PLAYBACK (hw timestamp): Frame 1091 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66632
+	Hardware timestamp delay: 66668
+PLAYBACK (hw timestamp): Frame 1096 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66632
+	Hardware timestamp delay: 66689
+PLAYBACK (hw timestamp): Frame 1101 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66639
+	Hardware timestamp delay: 66652
+PLAYBACK (hw timestamp): Frame 1104 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66695
+	Hardware timestamp delay: 66701
+PLAYBACK (hw timestamp): Frame 1108 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66637
+	Hardware timestamp delay: 66648
+PLAYBACK (hw timestamp): Frame 1114 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66582
+	Hardware timestamp delay: 66721
+PLAYBACK (hw timestamp): Frame 1120 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66562
+	Hardware timestamp delay: 66753
+PLAYBACK (hw timestamp): Frame 1127 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66652
+	Hardware timestamp delay: 66685
+PLAYBACK (hw timestamp): Frame 1133 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66627
+	Hardware timestamp delay: 70534
+PLAYBACK (hw timestamp): Frame 1145 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 66692
+PLAYBACK (hw timestamp): Frame 1151 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66707
+	Hardware timestamp delay: 66685
+PLAYBACK (hw timestamp): Frame 1159 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66653
+	Hardware timestamp delay: 66682
+PLAYBACK (hw timestamp): Frame 1160 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 166857
+	Hardware timestamp delay: 166901
+PLAYBACK (hw timestamp): Frame 1171 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66691
+	Hardware timestamp delay: 66646
+PLAYBACK (hw timestamp): Frame 1181 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66720
+	Hardware timestamp delay: 66738
+PLAYBACK (hw timestamp): Frame 1187 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66631
+	Hardware timestamp delay: 68245
+PLAYBACK (hw timestamp): Frame 1191 Displayed Late. Expected (+/- 5%): 50000
+	Timestamp delay: 66630
+	Hardware timestamp delay: 66663
+[libx264 @ 0x2024e40] frame I:1199  Avg QP:26.00  size: 55901
+[libx264 @ 0x2024e40] mb I  I16..4: 24.2% 54.6% 21.2%
+[libx264 @ 0x2024e40] final ratefactor: 38.16
+[libx264 @ 0x2024e40] 8x8 transform intra:54.6%
+[libx264 @ 0x2024e40] coded y,uvDC,uvAC intra: 54.7% 61.1% 24.9%
+[libx264 @ 0x2024e40] i16 v,h,dc,p: 36% 34% 15% 16%
+[libx264 @ 0x2024e40] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 10% 23% 24%  7%  7%  5%  9%  4% 10%
+[libx264 @ 0x2024e40] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 27% 16%  6%  8%  6%  9%  5%  8%
+[libx264 @ 0x2024e40] i8c dc,h,v,p: 67% 17% 12%  4%
+[libx264 @ 0x2024e40] kb/s:8944.18
+Stopping Capture

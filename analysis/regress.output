@@ -1,29 +1,30 @@
                             OLS Regression Results                            
 ==============================================================================
-Dep. Variable:                      y   R-squared:                       0.501
-Model:                            OLS   Adj. R-squared:                  0.494
-Method:                 Least Squares   F-statistic:                     70.76
-Date:                Thu, 14 Sep 2017   Prob (F-statistic):           5.25e-22
-Time:                        10:14:21   Log-Likelihood:                -196.11
-No. Observations:                 144   AIC:                             398.2
-Df Residuals:                     141   BIC:                             407.1
+Dep. Variable:                      y   R-squared:                       0.472
+Model:                            OLS   Adj. R-squared:                  0.467
+Method:                 Least Squares   F-statistic:                     89.89
+Date:                Sat, 16 Sep 2017   Prob (F-statistic):           1.30e-28
+Time:                        13:04:12   Log-Likelihood:                -280.01
+No. Observations:                 204   AIC:                             566.0
+Df Residuals:                     201   BIC:                             576.0
 Df Model:                           2                                         
 Covariance Type:            nonrobust                                         
 ==============================================================================
                  coef    std err          t      P>|t|      [0.025      0.975]
 ------------------------------------------------------------------------------
-const          3.2136      0.188     17.129      0.000       2.843       3.585
-x1            -3.7337      0.332    -11.256      0.000      -4.389      -3.078
-x2             0.8454      0.263      3.210      0.002       0.325       1.366
+const          3.2139      0.162     19.862      0.000       2.895       3.533
+x1            -3.7517      0.300    -12.525      0.000      -4.342      -3.161
+x2             1.1704      0.299      3.920      0.000       0.582       1.759
 ==============================================================================
-Omnibus:                        4.501   Durbin-Watson:                   1.607
-Prob(Omnibus):                  0.105   Jarque-Bera (JB):                4.579
-Skew:                          -0.422   Prob(JB):                        0.101
-Kurtosis:                       2.774   Cond. No.                         5.27
+Omnibus:                        2.956   Durbin-Watson:                   1.616
+Prob(Omnibus):                  0.228   Jarque-Bera (JB):                2.815
+Skew:                          -0.224   Prob(JB):                        0.245
+Kurtosis:                       2.639   Cond. No.                         5.66
 ==============================================================================
 
 Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-total 144
-exact 55
-off_by_one 73
+total 204
+exact 71 0.3480392156862745
+off_by_one 113 0.553921568627451
+less_than_equal_one 184 0.9019607843137255

@@ -11,62 +11,89 @@ import matplotlib.patches as mpatches
 # sns.set(color_codes=True)
 # sns.set_style("white")
 
-def plot_delay(xx, yy, name):
+def plot_delay(xx, yy, o, name):
     plt.clf()
     xxx = sm.add_constant(xx)
 
     results = sm.OLS(endog=yy, exog=xxx).fit()
-    print(results.rsquared)
-    
+
     mean, std = [],[]
-    r = [1,5,10,20]
-    for i in [1,5,10,20]:
+    r = [1,15,30,60]
+    for i in [1,15,30,60]:
         select_y = []
-        for j in range(len(xx)):
-            if xx[j] == 50*i:
-                select_y.append(yy[j])
+        mean_ = []
+        std_ = []
+        for k in [10, 14, 18]:
+            for j in range(len(xx)):
+                if xx[j] == 33*i and (o[j] - k) < 2:
+                    select_y.append(yy[j])
 
-        mean.append( np.mean(select_y) )
-        std.append( np.std(select_y) )
+            mean_.append( np.mean(select_y) )
+            std_.append( np.std(select_y) )
 
-    #print(mean,std)
+        mean.append(mean_)
+        std.append(std_)
+            
+    # x = np.asarray(r)
+    # y = np.asarray(mean)
+    # u = np.asarray(std)
+    # print(x, y, u)
+    # exercise = sns.load_dataset("exercise")
+    
+    # ax = sns.tsplot(data=y, time=x, unit=u, err_style="ci_bars", interpolate=False)
 
-    plt.axis([-50, 1050, 0.75, 5.25])
+    plt.axis([-100, 2100, 0.75, 5.25])
     plt.title('Delay v. QoE Score')
     plt.ylabel('QoE score')
     plt.xlabel('Delay (milliseconds)')
+    #plt.xscale('log')
     
-    p = plt.errorbar(list(map(lambda x: 50*x, r)), mean, yerr=list(map(lambda x :x, std)),
-                     fmt='o', color='k', ecolor='k', capsize=2, capthick=2, lw=2,
-                     label='mean ± std')
+    p = None
+    centers = [1,15,30,60]
+    plt.xticks([33,500,1000,2000])
+    for i in range(len(mean)):
+        c = 33*centers[i]
+        m = mean[i]
+        s = std[i]
 
-    x = [0,1025]
+        count = -66
+        for m_, s_ in zip(m,s):
+            p = plt.errorbar([c+count], [m_], yerr=[s_],
+                             fmt='o', color='k', ecolor='k', capsize=2, capthick=2, lw=2,
+                             label='mean ± std')
+            count += 66
+            
+    x = [0, 2050]
     y = [results.params[0] + x[0]*results.params[1], results.params[0] + x[1]*results.params[1]]
     
     #plt.text(34.85, 4.80, 'mean and +/- stddev plotted')
 
-    pp = plt.plot(x,y,'r--',label=str(round(results.params[1],2))+'x + ' + str(round(results.params[0],2)))
+    pp = plt.plot(x,y,'r-',label='regression line')
 
     #plt.legend()
     patch = mpatches.Patch(color='white', label='R² = ' + str(round(results.rsquared,2)))
     #plt.legend([p,pp[0]], ['mean ± std', 'regression line'])
     plt.legend(handles=[p, pp[0], patch], labels=['mean ± std', '-x/'+str(round(-1/results.params[1],2))+' + ' + str(round(results.params[0],2)), 'R² = ' + str(round(results.rsquared,3))])
+    #plt.legend(handles=[p, pp[0], patch], labels=['mean ± std', 'regression line', 'R² = ' + str(round(results.rsquared,3))])
+    #    plt.legend([p,pp[0]], ['mean ± std', 'regression line'])
+
+
     
     #plt.show()
     plt.savefig(name)
-
+    print(results.params)
+    
 def plot_quality(xx, yy, name):
     plt.clf()
     xxx = sm.add_constant(xx)
 
     results = sm.OLS(endog=yy, exog=xxx).fit()
-    print(results.rsquared)
 
     mean, std = [],[]
     for i in [10, 12, 14, 16, 18]:
         select_y = []
         for j in range(len(xx)):
-            if abs(xx[j] - i) < 1.0:
+            if abs(xx[j] - i) <= 1.0:
                 select_y.append(yy[j])
 
         mean.append( np.mean(select_y) )
@@ -82,12 +109,13 @@ def plot_quality(xx, yy, name):
     plt.axis([9, 19, 0.75, 5.25])
 
     x = [9.5,18.5]
-    y = [results.params[0] + 9.5*results.params[1], results.params[0] + 18.5*results.params[1]]
-    pp = plt.plot(x,y, 'r--', label='regression line')
+    y = [results.params[0] + x[0]*results.params[1], results.params[0] + x[1]*results.params[1]]
+    pp = plt.plot(x,y, 'r', label='regression line')
 
     patch = mpatches.Patch(color='white', label='R² = ' + str(round(results.rsquared,2)))
     #plt.legend([p,pp[0]], ['mean ± std', 'regression line'])
     plt.legend(handles=[p, pp[0], patch], labels=['mean ± std', str(round(results.params[1],2))+'x + ' + str(round(results.params[0],2)), 'R² = ' + str(round(results.rsquared,3))])
+    #plt.legend(handles=[p, pp[0], patch], labels=['mean ± std', 'regression line', 'R² = ' + str(round(results.rsquared,3))])
     #plt.legend([p,pp[0]], ['mean ± std', 'regression line'])
 
     #plt.scatter(xx,yy)
@@ -106,15 +134,92 @@ data = np.loadtxt('salsify-user-study-ps4.csv', delimiter=',')
 
 y = data[:,5]
 
-print('delay')
-x = 50*data[:,2]
-plot_delay(x, y, 'delay.png')
-plot_delay(x, y, 'delay.svg')
+# print('plotting delay')
+# x = 33*data[:,1]
+# plot_delay(x, y, data[:,3], 'delay.png')
+# plot_delay(x, y, data[:,3], 'delay.svg')
 
-print('quality')
-x = data[:,4]
-plot_quality(x, y, 'quality.png')
-plot_quality(x, y, 'quality.svg')
+#print('plotting quality')
+#x = data[:,3]
+#plot_quality(x, y, 'quality.png')
+#plot_quality(x, y, 'quality.svg')
 
-#x = data[:,1:4:2]
-#plot(x, y, '2d_linear.svg')
+x = data[:,2:5:2]
+x[:,0] = 50*x[:,0]
+x = sm.add_constant(x)
+results = sm.OLS(endog=y, exog=x).fit()
+print(results.params)
+print(results.summary())
+
+# groupings
+centers = [50,250,500,1000]
+
+mean, std = [],[]
+for delay in [50,250,500,1000]:
+    mean_ = []
+    std_ = []
+
+    for quality in [9, 12, 15]:
+        select_y = []
+        for j in range(len(y)):
+            if abs(x[j,1] - delay)<0.1 and abs(x[j,2] - quality) < 2:
+                select_y.append(y[j])
+            
+        mean_.append( np.mean(select_y) )
+        std_.append( np.std(select_y) )
+        
+    mean.append(mean_)
+    std.append(std_)
+
+first = True
+ebar = None
+padding = [-33,0,33]
+for c,m,s in zip(centers, mean, std):
+    for p_,m_,s_,q,color in zip(padding, m, s,[10,14,18],[(0,0,0),(.33,.33,.33),(.66,.66,.66)]):
+
+        plot = plt.errorbar([c+p_], [m_], yerr=[s_],
+                         fmt='s', color=color, ecolor=color, capsize=2, capthick=2, lw=2,
+                         label='mean ± std')
+
+        if first:
+            plt.text(c+p_-20, m_+s_+0.15,str(q), fontsize=9,color=color)
+
+        if not ebar:
+            ebar = plot
+
+    if first:
+        first = False
+        
+# lines of best fit
+q = [10, 14, 18]
+x = [0, 2050]
+lines = []
+for qq,color in zip(q,[(0,0,0),(.33,.33,.33),(.66,.66,.66)]):
+    y = [results.params[0] + x[0]*results.params[1] + qq*results.params[2], results.params[0] + x[1]*results.params[1] + qq*results.params[2]]
+    pp = plt.plot(x, y, color=color,label='regression line')
+    lines.append(pp)
+    
+#print(mean, std)
+
+patch = mpatches.Patch(color='white', label='R² = ' + str(round(results.rsquared,2)))
+#plt.legend(handles=[p, lines[1][0], patch], labels=['mean ± std', '-x/'+str(round(-1/results.params[1],2))+' + ' + str(round(results.params[0] + q[1]*results.params[2],2)), 'R² = ' + str(round(results.rsquared,3))])
+plt.legend(handles=[ebar, lines[1][0], patch], labels=['mean ± std', 'best-fit QoE model', 'R² = ' + str(round(results.rsquared,3))])
+
+# add labels for the groupings
+c = 5.75
+plt.plot([-10,110],[c,c],lw=1,color=(0,0,0))
+plt.plot([-10,-10],[c,c-.1],lw=1,color=(0,0,0))
+plt.plot([110,110],[c,c-.1],lw=1,color=(0,0,0))
+
+plt.text(-15, c+.15, 'dB SSIM', fontsize=10, color=(0,0,0))
+
+plt.yticks([1,2,3,4,5])
+plt.xticks([50,250,500,1000])
+
+plt.axis([-50, 1050, 0.75, 6.25])
+plt.title('QoE User Study (Driving Simulation)')
+plt.ylabel('QoE score')
+plt.xlabel('Delay (milliseconds)')
+plt.savefig('delay.png')
+plt.savefig('delay.svg')
+

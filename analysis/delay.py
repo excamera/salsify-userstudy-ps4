@@ -12,8 +12,9 @@ import matplotlib.patches as mpatches
 # sns.set(color_codes=True)
 # sns.set_style("white")
 
-matplotlib.rcParams.update({'font.size': 18})
-plt.figure(figsize=(10,5))
+matplotlib.rcParams.update({'font.size': 20})
+matplotlib.rcParams.update({'font.family': 'arial'})
+f,a = plt.subplots(figsize=(10,5))
 
 data = np.loadtxt('salsify-user-study-ps4.csv', delimiter=',')
 
@@ -65,7 +66,7 @@ for d in delays:
 
 first = True
 ebar = []
-padding = [-40,0,40]
+padding = [-30,0,30]
 for d,m,s in zip(delays, mean, std):
     c = 50*d + 50
     for p_,m_,s_,q,color in zip(padding, m, s,[10,14,18],reversed(['#4c72b0', '#55a868', '#c44e52'])):
@@ -75,7 +76,7 @@ for d,m,s in zip(delays, mean, std):
                          label='mean ± std')
 
         if first:
-            plt.text(c+p_-17.5, m_+s_+0.15,str(q), fontsize=12,color=color)
+            plt.text(c+p_-19.5, m_+s_+0.15,str(q), fontsize=15,color=color)
 
         ebar.append(plot)
         
@@ -96,7 +97,7 @@ for qq,color in zip(q,reversed(['#4c72b0', '#55a868', '#c44e52'])):
 
 patch = mpatches.Patch(color='white', label='R² = ' + str(round(results.rsquared,2)))
 #plt.legend(handles=[p, lines[1][0], patch], labels=['mean ± std', '-x/'+str(round(-1/results.params[1],2))+' + ' + str(round(results.params[0] + q[1]*results.params[2],2)), 'R² = ' + str(round(results.rsquared,3))])
-plt.legend(handles=[ebar[1], lines[1][0], patch], labels=['mean ± std', 'best-fit QoE model', 'R² = ' + str(round(results.rsquared,3))])
+plt.legend(handles=[plt.plot([0,0],[0,0], 'k-')[0], plt.errorbar([0], [0], yerr=[0],fmt='s', color='k', ecolor='k', capsize=6, capthick=2, lw=3), patch], labels=['Driving simulation QoE model', 'mean ± std', 'R² = ' + str(round(results.rsquared,3))], frameon=False)
 
 # add labels for the groupings
 c = 2.7
@@ -105,13 +106,18 @@ plt.plot([x,x+155],[c,c],lw=2,color=(0.33,0.33,0.33))
 plt.plot([x,x],[c,c+.1],lw=2,color=(0.33,0.33,0.33))
 plt.plot([x+155,x+155],[c,c+.1],lw=2,color=(0.33,0.33,0.33))
 
-plt.text(x-15, c-.65, 'Video Quality\n  (SSIM dB)', fontsize=15, color=(0,0,0))
+plt.text(x+77.5, c-.65, 'Video Quality\n(SSIM dB)', fontsize=15, color=(0,0,0), horizontalalignment='center')
 
 plt.yticks([1,2,3,4,5])
 #plt.xticks(list(map(lambda x: 66*x+250, [1,15,30,60])))
 plt.xticks([100,300,550,1050])
 
-plt.axis([-50, 1200, 0.75, 5.75])
+a.spines['top'].set_visible(False)
+a.spines['right'].set_visible(False)
+a.get_xaxis().tick_bottom()
+a.get_yaxis().tick_left()
+
+plt.axis([-50, 1200, 0.5, 5.65])
 #plt.axis([-100, 20000, -20, 6.25])
 #plt.title('QoE User Study (Video Call)')
 plt.ylabel('QoE Score', labelpad=10)

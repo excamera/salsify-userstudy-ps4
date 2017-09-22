@@ -75,7 +75,7 @@ for d,m,s in zip(delays, mean, std):
                          label='mean ± std')
 
         if first:
-            plt.text(c+p_-40, m_+s_+0.15,str(q), fontsize=9,color=color)
+            plt.text(c+p_-12.5, m_+s_+0.15,str(q), fontsize=9,color=color)
 
         ebar.append(plot)
         
